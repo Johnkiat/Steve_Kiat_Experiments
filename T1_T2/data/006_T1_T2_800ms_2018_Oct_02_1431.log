@@ -1,0 +1,3776 @@
+7.1370 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x16CFEE50>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=1, size=array([1280, 1024]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+7.1371 	EXP 	window1: recordFrameIntervals = False
+7.3043 	EXP 	window1: recordFrameIntervals = True
+7.4873 	EXP 	window1: recordFrameIntervals = False
+7.5645 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+7.5741 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+7.5907 	EXP 	Created text_4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_4', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='Get Ready!', units=u'norm', win=Window(...), wrapWidth=1)
+7.5975 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x055400F0>: vertices = array([[-0.15,  0.15],
+       [ 0.15,  0.15],
+       [ 0.15, -0.15],
+       [-0.15, -0.15]])
+7.5991 	EXP 	Created Gray_Square_2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-1.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square_2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+7.5994 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x055400F0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+7.6010 	EXP 	Created Gray_Square3 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square3', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+7.6056 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='+', units=u'norm', win=Window(...), wrapWidth=1)
+7.6059 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x055400F0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+7.6075 	EXP 	Created Gray_Square = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+7.6189 	EXP 	Created T1_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T1_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1., -1., -1.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+7.6195 	EXP 	Created T1_Delay = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T1_Delay', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+7.6296 	EXP 	Created T2_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T2_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1., -1., -1.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+7.6299 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x055400F0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+7.6315 	EXP 	Created Gray_Square2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+7.6572 	EXP 	Created X_or_Y = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='X_or_Y', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='X "[" key\n   or\nY "]" key)?\n', units=u'norm', win=Window(...), wrapWidth=1)
+7.7191 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+7.7389 	EXP 	Imported Blocks.xlsx as conditions, 2 conditions, 4 params
+7.7392 	EXP 	Created sequence: sequential, trialTypes=2, nReps=1, seed=None
+7.7396 	EXP 	New trial (rep=0, index=0): OrderedDict([('Task_Instructions', u'In the upcoming task, you will be presented with a series of numbers and letters and will be asked to respond only to the numbers. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row. Press "Z" to then view an example of how the trials in this stage of the experiment will proceed.'), ('Block_type', u'Ignore_T1'), ('Trial_example', u'example1.jpg'), ('TrialNumber', 80)])
+7.9718 	EXP 	text: text = u'In the upcoming task, you will be presented with a series of numbers and letters and will be asked to respond only to the numbers. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row. Press "Z" to then view an example of how the trials in this stage of the experiment will proceed.'
+7.9718 	EXP 	text: autoDraw = True
+32.8977 	DATA 	Keypress: z
+32.9968 	EXP 	text: autoDraw = False
+32.9968 	EXP 	image: image = u'example1.jpg'
+32.9968 	EXP 	image: autoDraw = True
+48.7936 	DATA 	Keypress: slash
+48.8267 	EXP 	image: autoDraw = False
+48.8267 	EXP 	text_4: autoDraw = True
+48.8267 	EXP 	Gray_Square_2: autoDraw = True
+51.7860 	EXP 	Created sequence: sequential, trialTypes=1, nReps=80, seed=None
+51.7870 	EXP 	New trial (rep=0, index=0): None
+51.8028 	EXP 	text_4: autoDraw = False
+51.8028 	EXP 	Gray_Square_2: autoDraw = False
+51.8028 	EXP 	text_4: autoDraw = False
+51.8028 	EXP 	Gray_Square_2: autoDraw = False
+51.8028 	EXP 	Gray_Square3: autoDraw = True
+51.8028 	EXP 	text_3: autoDraw = True
+53.1740 	EXP 	Gray_Square3: autoDraw = False
+53.1740 	EXP 	text_3: autoDraw = False
+53.1740 	EXP 	Gray_Square3: autoDraw = False
+53.1740 	EXP 	text_3: autoDraw = False
+53.1740 	EXP 	T1_text: text = 'Y'
+53.1740 	EXP 	T2_text: text = '2'
+53.1740 	EXP 	Gray_Square: autoDraw = True
+53.1740 	EXP 	T1_text: autoDraw = True
+53.2733 	EXP 	T1_text: autoDraw = False
+53.2906 	EXP 	T1_Delay: autoDraw = True
+53.5241 	DATA 	Keypress: z
+54.0762 	EXP 	T1_Delay: autoDraw = False
+54.0762 	EXP 	T2_text: autoDraw = True
+54.9131 	DATA 	Keypress: slash
+54.9322 	EXP 	New trial (rep=1, index=0): None
+54.9458 	EXP 	Gray_Square: autoDraw = False
+54.9458 	EXP 	T1_text: autoDraw = False
+54.9458 	EXP 	T1_Delay: autoDraw = False
+54.9458 	EXP 	T2_text: autoDraw = False
+54.9458 	EXP 	Gray_Square2: autoDraw = False
+54.9458 	EXP 	X_or_Y: autoDraw = False
+54.9458 	EXP 	Gray_Square3: autoDraw = True
+54.9458 	EXP 	text_3: autoDraw = True
+56.7340 	EXP 	Gray_Square3: autoDraw = False
+56.7340 	EXP 	text_3: autoDraw = False
+56.7340 	EXP 	Gray_Square3: autoDraw = False
+56.7340 	EXP 	text_3: autoDraw = False
+56.7340 	EXP 	T1_text: text = 'Y'
+56.7340 	EXP 	T2_text: text = '2'
+56.7340 	EXP 	Gray_Square: autoDraw = True
+56.7340 	EXP 	T1_text: autoDraw = True
+56.8338 	EXP 	T1_text: autoDraw = False
+56.8338 	EXP 	T1_Delay: autoDraw = True
+57.6362 	EXP 	T1_Delay: autoDraw = False
+57.6362 	EXP 	T2_text: autoDraw = True
+58.2716 	DATA 	Keypress: slash
+58.2745 	EXP 	New trial (rep=2, index=0): None
+58.2886 	EXP 	Gray_Square: autoDraw = False
+58.2886 	EXP 	T1_text: autoDraw = False
+58.2886 	EXP 	T1_Delay: autoDraw = False
+58.2886 	EXP 	T2_text: autoDraw = False
+58.2886 	EXP 	Gray_Square2: autoDraw = False
+58.2886 	EXP 	X_or_Y: autoDraw = False
+58.2886 	EXP 	Gray_Square3: autoDraw = True
+58.2886 	EXP 	text_3: autoDraw = True
+59.9615 	EXP 	Gray_Square3: autoDraw = False
+59.9615 	EXP 	text_3: autoDraw = False
+59.9615 	EXP 	Gray_Square3: autoDraw = False
+59.9615 	EXP 	text_3: autoDraw = False
+59.9615 	EXP 	T1_text: text = '#'
+59.9615 	EXP 	T2_text: text = '2'
+59.9615 	EXP 	Gray_Square: autoDraw = True
+59.9615 	EXP 	T1_text: autoDraw = True
+60.0602 	EXP 	T1_text: autoDraw = False
+60.0775 	EXP 	T1_Delay: autoDraw = True
+60.8625 	EXP 	T1_Delay: autoDraw = False
+60.8625 	EXP 	T2_text: autoDraw = True
+61.2818 	DATA 	Keypress: slash
+61.3028 	EXP 	New trial (rep=3, index=0): None
+61.3144 	EXP 	Gray_Square: autoDraw = False
+61.3144 	EXP 	T1_text: autoDraw = False
+61.3144 	EXP 	T1_Delay: autoDraw = False
+61.3144 	EXP 	T2_text: autoDraw = False
+61.3144 	EXP 	Gray_Square2: autoDraw = False
+61.3144 	EXP 	X_or_Y: autoDraw = False
+61.3144 	EXP 	Gray_Square3: autoDraw = True
+61.3144 	EXP 	text_3: autoDraw = True
+62.3675 	EXP 	Gray_Square3: autoDraw = False
+62.3675 	EXP 	text_3: autoDraw = False
+62.3675 	EXP 	Gray_Square3: autoDraw = False
+62.3675 	EXP 	text_3: autoDraw = False
+62.3675 	EXP 	T1_text: text = '#'
+62.3675 	EXP 	T2_text: text = '1'
+62.3675 	EXP 	Gray_Square: autoDraw = True
+62.3675 	EXP 	T1_text: autoDraw = True
+62.4673 	EXP 	T1_text: autoDraw = False
+62.4844 	EXP 	T1_Delay: autoDraw = True
+63.2697 	EXP 	T1_Delay: autoDraw = False
+63.2697 	EXP 	T2_text: autoDraw = True
+63.8560 	DATA 	Keypress: z
+63.8616 	EXP 	New trial (rep=4, index=0): None
+63.8714 	EXP 	Gray_Square: autoDraw = False
+63.8714 	EXP 	T1_text: autoDraw = False
+63.8714 	EXP 	T1_Delay: autoDraw = False
+63.8714 	EXP 	T2_text: autoDraw = False
+63.8714 	EXP 	Gray_Square2: autoDraw = False
+63.8714 	EXP 	X_or_Y: autoDraw = False
+63.8714 	EXP 	Gray_Square3: autoDraw = True
+63.8714 	EXP 	text_3: autoDraw = True
+65.3258 	EXP 	Gray_Square3: autoDraw = False
+65.3258 	EXP 	text_3: autoDraw = False
+65.3258 	EXP 	Gray_Square3: autoDraw = False
+65.3258 	EXP 	text_3: autoDraw = False
+65.3258 	EXP 	T1_text: text = 'X'
+65.3258 	EXP 	T2_text: text = '2'
+65.3258 	EXP 	Gray_Square: autoDraw = True
+65.3258 	EXP 	T1_text: autoDraw = True
+65.4095 	EXP 	T1_text: autoDraw = False
+65.4265 	EXP 	T1_Delay: autoDraw = True
+66.2124 	EXP 	T1_Delay: autoDraw = False
+66.2124 	EXP 	T2_text: autoDraw = True
+66.4969 	DATA 	Keypress: slash
+66.5179 	EXP 	New trial (rep=5, index=0): None
+66.5294 	EXP 	Gray_Square: autoDraw = False
+66.5294 	EXP 	T1_text: autoDraw = False
+66.5294 	EXP 	T1_Delay: autoDraw = False
+66.5294 	EXP 	T2_text: autoDraw = False
+66.5294 	EXP 	Gray_Square2: autoDraw = False
+66.5294 	EXP 	X_or_Y: autoDraw = False
+66.5294 	EXP 	Gray_Square3: autoDraw = True
+66.5294 	EXP 	text_3: autoDraw = True
+68.3682 	EXP 	Gray_Square3: autoDraw = False
+68.3682 	EXP 	text_3: autoDraw = False
+68.3682 	EXP 	Gray_Square3: autoDraw = False
+68.3682 	EXP 	text_3: autoDraw = False
+68.3682 	EXP 	T1_text: text = 'X'
+68.3682 	EXP 	T2_text: text = '2'
+68.3682 	EXP 	Gray_Square: autoDraw = True
+68.3682 	EXP 	T1_text: autoDraw = True
+68.4685 	EXP 	T1_text: autoDraw = False
+68.4858 	EXP 	T1_Delay: autoDraw = True
+69.2714 	EXP 	T1_Delay: autoDraw = False
+69.2714 	EXP 	T2_text: autoDraw = True
+69.5392 	DATA 	Keypress: z
+69.5448 	EXP 	New trial (rep=6, index=0): None
+69.5551 	EXP 	Gray_Square: autoDraw = False
+69.5551 	EXP 	T1_text: autoDraw = False
+69.5551 	EXP 	T1_Delay: autoDraw = False
+69.5551 	EXP 	T2_text: autoDraw = False
+69.5551 	EXP 	Gray_Square2: autoDraw = False
+69.5551 	EXP 	X_or_Y: autoDraw = False
+69.5551 	EXP 	Gray_Square3: autoDraw = True
+69.5551 	EXP 	text_3: autoDraw = True
+71.3278 	EXP 	Gray_Square3: autoDraw = False
+71.3278 	EXP 	text_3: autoDraw = False
+71.3278 	EXP 	Gray_Square3: autoDraw = False
+71.3278 	EXP 	text_3: autoDraw = False
+71.3278 	EXP 	T1_text: text = 'X'
+71.3278 	EXP 	T2_text: text = '1'
+71.3278 	EXP 	Gray_Square: autoDraw = True
+71.3278 	EXP 	T1_text: autoDraw = True
+71.4273 	EXP 	T1_text: autoDraw = False
+71.4448 	EXP 	T1_Delay: autoDraw = True
+72.2297 	EXP 	T1_Delay: autoDraw = False
+72.2297 	EXP 	T2_text: autoDraw = True
+72.6813 	DATA 	Keypress: z
+72.6869 	EXP 	New trial (rep=7, index=0): None
+72.6986 	EXP 	Gray_Square: autoDraw = False
+72.6986 	EXP 	T1_text: autoDraw = False
+72.6986 	EXP 	T1_Delay: autoDraw = False
+72.6986 	EXP 	T2_text: autoDraw = False
+72.6986 	EXP 	Gray_Square2: autoDraw = False
+72.6986 	EXP 	X_or_Y: autoDraw = False
+72.6986 	EXP 	Gray_Square3: autoDraw = True
+72.6986 	EXP 	text_3: autoDraw = True
+74.6541 	EXP 	Gray_Square3: autoDraw = False
+74.6541 	EXP 	text_3: autoDraw = False
+74.6541 	EXP 	Gray_Square3: autoDraw = False
+74.6541 	EXP 	text_3: autoDraw = False
+74.6541 	EXP 	T1_text: text = 'X'
+74.6541 	EXP 	T2_text: text = '2'
+74.6541 	EXP 	Gray_Square: autoDraw = True
+74.6541 	EXP 	T1_text: autoDraw = True
+74.7538 	EXP 	T1_text: autoDraw = False
+74.7713 	EXP 	T1_Delay: autoDraw = True
+75.5562 	EXP 	T1_Delay: autoDraw = False
+75.5562 	EXP 	T2_text: autoDraw = True
+76.0085 	DATA 	Keypress: slash
+76.0141 	EXP 	New trial (rep=8, index=0): None
+76.0243 	EXP 	Gray_Square: autoDraw = False
+76.0243 	EXP 	T1_text: autoDraw = False
+76.0243 	EXP 	T1_Delay: autoDraw = False
+76.0243 	EXP 	T2_text: autoDraw = False
+76.0243 	EXP 	Gray_Square2: autoDraw = False
+76.0243 	EXP 	X_or_Y: autoDraw = False
+76.0243 	EXP 	Gray_Square3: autoDraw = True
+76.0243 	EXP 	text_3: autoDraw = True
+77.9472 	EXP 	Gray_Square3: autoDraw = False
+77.9472 	EXP 	text_3: autoDraw = False
+77.9472 	EXP 	Gray_Square3: autoDraw = False
+77.9472 	EXP 	text_3: autoDraw = False
+77.9472 	EXP 	T1_text: text = '#'
+77.9472 	EXP 	T2_text: text = '2'
+77.9472 	EXP 	Gray_Square: autoDraw = True
+77.9472 	EXP 	T1_text: autoDraw = True
+78.0470 	EXP 	T1_text: autoDraw = False
+78.0641 	EXP 	T1_Delay: autoDraw = True
+78.8494 	EXP 	T1_Delay: autoDraw = False
+78.8494 	EXP 	T2_text: autoDraw = True
+79.2676 	DATA 	Keypress: slash
+79.2732 	EXP 	New trial (rep=9, index=0): None
+79.2845 	EXP 	Gray_Square: autoDraw = False
+79.2845 	EXP 	T1_text: autoDraw = False
+79.2845 	EXP 	T1_Delay: autoDraw = False
+79.2845 	EXP 	T2_text: autoDraw = False
+79.2845 	EXP 	Gray_Square2: autoDraw = False
+79.2845 	EXP 	X_or_Y: autoDraw = False
+79.2845 	EXP 	Gray_Square3: autoDraw = True
+79.2845 	EXP 	text_3: autoDraw = True
+80.6552 	EXP 	Gray_Square3: autoDraw = False
+80.6552 	EXP 	text_3: autoDraw = False
+80.6552 	EXP 	Gray_Square3: autoDraw = False
+80.6552 	EXP 	text_3: autoDraw = False
+80.6552 	EXP 	T1_text: text = '#'
+80.6552 	EXP 	T2_text: text = '2'
+80.6552 	EXP 	Gray_Square: autoDraw = True
+80.6552 	EXP 	T1_text: autoDraw = True
+80.7550 	EXP 	T1_text: autoDraw = False
+80.7722 	EXP 	T1_Delay: autoDraw = True
+81.5580 	EXP 	T1_Delay: autoDraw = False
+81.5580 	EXP 	T2_text: autoDraw = True
+81.8583 	DATA 	Keypress: slash
+81.8639 	EXP 	New trial (rep=10, index=0): None
+81.8751 	EXP 	Gray_Square: autoDraw = False
+81.8751 	EXP 	T1_text: autoDraw = False
+81.8751 	EXP 	T1_Delay: autoDraw = False
+81.8751 	EXP 	T2_text: autoDraw = False
+81.8751 	EXP 	Gray_Square2: autoDraw = False
+81.8751 	EXP 	X_or_Y: autoDraw = False
+81.8751 	EXP 	Gray_Square3: autoDraw = True
+81.8751 	EXP 	text_3: autoDraw = True
+82.9458 	EXP 	Gray_Square3: autoDraw = False
+82.9458 	EXP 	text_3: autoDraw = False
+82.9458 	EXP 	Gray_Square3: autoDraw = False
+82.9458 	EXP 	text_3: autoDraw = False
+82.9458 	EXP 	T1_text: text = 'Y'
+82.9458 	EXP 	T2_text: text = '1'
+82.9458 	EXP 	Gray_Square: autoDraw = True
+82.9458 	EXP 	T1_text: autoDraw = True
+83.0285 	EXP 	T1_text: autoDraw = False
+83.0456 	EXP 	T1_Delay: autoDraw = True
+83.8318 	EXP 	T1_Delay: autoDraw = False
+83.8318 	EXP 	T2_text: autoDraw = True
+84.1488 	DATA 	Keypress: slash
+84.1545 	EXP 	New trial (rep=11, index=0): None
+84.1657 	EXP 	Gray_Square: autoDraw = False
+84.1657 	EXP 	T1_text: autoDraw = False
+84.1657 	EXP 	T1_Delay: autoDraw = False
+84.1657 	EXP 	T2_text: autoDraw = False
+84.1657 	EXP 	Gray_Square2: autoDraw = False
+84.1657 	EXP 	X_or_Y: autoDraw = False
+84.1657 	EXP 	Gray_Square3: autoDraw = True
+84.1657 	EXP 	text_3: autoDraw = True
+85.6203 	EXP 	Gray_Square3: autoDraw = False
+85.6203 	EXP 	text_3: autoDraw = False
+85.6203 	EXP 	Gray_Square3: autoDraw = False
+85.6203 	EXP 	text_3: autoDraw = False
+85.6203 	EXP 	T1_text: text = 'X'
+85.6203 	EXP 	T2_text: text = '2'
+85.6203 	EXP 	Gray_Square: autoDraw = True
+85.6203 	EXP 	T1_text: autoDraw = True
+85.7031 	EXP 	T1_text: autoDraw = False
+85.7205 	EXP 	T1_Delay: autoDraw = True
+86.5055 	EXP 	T1_Delay: autoDraw = False
+86.5055 	EXP 	T2_text: autoDraw = True
+86.9401 	DATA 	Keypress: slash
+86.9457 	EXP 	New trial (rep=12, index=0): None
+86.9565 	EXP 	Gray_Square: autoDraw = False
+86.9565 	EXP 	T1_text: autoDraw = False
+86.9565 	EXP 	T1_Delay: autoDraw = False
+86.9565 	EXP 	T2_text: autoDraw = False
+86.9565 	EXP 	Gray_Square2: autoDraw = False
+86.9565 	EXP 	X_or_Y: autoDraw = False
+86.9565 	EXP 	Gray_Square3: autoDraw = True
+86.9565 	EXP 	text_3: autoDraw = True
+88.3443 	EXP 	Gray_Square3: autoDraw = False
+88.3443 	EXP 	text_3: autoDraw = False
+88.3443 	EXP 	Gray_Square3: autoDraw = False
+88.3443 	EXP 	text_3: autoDraw = False
+88.3443 	EXP 	T1_text: text = 'Y'
+88.3443 	EXP 	T2_text: text = '2'
+88.3443 	EXP 	Gray_Square: autoDraw = True
+88.3443 	EXP 	T1_text: autoDraw = True
+88.4446 	EXP 	T1_text: autoDraw = False
+88.4619 	EXP 	T1_Delay: autoDraw = True
+89.2475 	EXP 	T1_Delay: autoDraw = False
+89.2475 	EXP 	T2_text: autoDraw = True
+89.7655 	DATA 	Keypress: slash
+89.7711 	EXP 	New trial (rep=13, index=0): None
+89.7825 	EXP 	Gray_Square: autoDraw = False
+89.7825 	EXP 	T1_text: autoDraw = False
+89.7825 	EXP 	T1_Delay: autoDraw = False
+89.7825 	EXP 	T2_text: autoDraw = False
+89.7825 	EXP 	Gray_Square2: autoDraw = False
+89.7825 	EXP 	X_or_Y: autoDraw = False
+89.7825 	EXP 	Gray_Square3: autoDraw = True
+89.7825 	EXP 	text_3: autoDraw = True
+91.4211 	EXP 	Gray_Square3: autoDraw = False
+91.4211 	EXP 	text_3: autoDraw = False
+91.4211 	EXP 	Gray_Square3: autoDraw = False
+91.4211 	EXP 	text_3: autoDraw = False
+91.4211 	EXP 	T1_text: text = 'Y'
+91.4211 	EXP 	T2_text: text = '2'
+91.4211 	EXP 	Gray_Square: autoDraw = True
+91.4211 	EXP 	T1_text: autoDraw = True
+91.5204 	EXP 	T1_text: autoDraw = False
+91.5375 	EXP 	T1_Delay: autoDraw = True
+92.3228 	EXP 	T1_Delay: autoDraw = False
+92.3228 	EXP 	T2_text: autoDraw = True
+92.7745 	DATA 	Keypress: slash
+92.7801 	EXP 	New trial (rep=14, index=0): None
+92.7914 	EXP 	Gray_Square: autoDraw = False
+92.7914 	EXP 	T1_text: autoDraw = False
+92.7914 	EXP 	T1_Delay: autoDraw = False
+92.7914 	EXP 	T2_text: autoDraw = False
+92.7914 	EXP 	Gray_Square2: autoDraw = False
+92.7914 	EXP 	X_or_Y: autoDraw = False
+92.7914 	EXP 	Gray_Square3: autoDraw = True
+92.7914 	EXP 	text_3: autoDraw = True
+94.4124 	EXP 	Gray_Square3: autoDraw = False
+94.4124 	EXP 	text_3: autoDraw = False
+94.4124 	EXP 	Gray_Square3: autoDraw = False
+94.4124 	EXP 	text_3: autoDraw = False
+94.4124 	EXP 	T1_text: text = '#'
+94.4124 	EXP 	T2_text: text = '1'
+94.4124 	EXP 	Gray_Square: autoDraw = True
+94.4124 	EXP 	T1_text: autoDraw = True
+94.4960 	EXP 	T1_text: autoDraw = False
+94.5127 	EXP 	T1_Delay: autoDraw = True
+95.2989 	EXP 	T1_Delay: autoDraw = False
+95.2989 	EXP 	T2_text: autoDraw = True
+95.7500 	DATA 	Keypress: z
+95.7556 	EXP 	New trial (rep=15, index=0): None
+95.7669 	EXP 	Gray_Square: autoDraw = False
+95.7669 	EXP 	T1_text: autoDraw = False
+95.7669 	EXP 	T1_Delay: autoDraw = False
+95.7669 	EXP 	T2_text: autoDraw = False
+95.7669 	EXP 	Gray_Square2: autoDraw = False
+95.7669 	EXP 	X_or_Y: autoDraw = False
+95.7669 	EXP 	Gray_Square3: autoDraw = True
+95.7669 	EXP 	text_3: autoDraw = True
+96.9869 	EXP 	Gray_Square3: autoDraw = False
+96.9869 	EXP 	text_3: autoDraw = False
+96.9869 	EXP 	Gray_Square3: autoDraw = False
+96.9869 	EXP 	text_3: autoDraw = False
+96.9869 	EXP 	T1_text: text = '#'
+96.9869 	EXP 	T2_text: text = '2'
+96.9869 	EXP 	Gray_Square: autoDraw = True
+96.9869 	EXP 	T1_text: autoDraw = True
+97.0867 	EXP 	T1_text: autoDraw = False
+97.1039 	EXP 	T1_Delay: autoDraw = True
+97.8899 	EXP 	T1_Delay: autoDraw = False
+97.8899 	EXP 	T2_text: autoDraw = True
+98.3243 	DATA 	Keypress: slash
+98.3299 	EXP 	New trial (rep=16, index=0): None
+98.3412 	EXP 	Gray_Square: autoDraw = False
+98.3412 	EXP 	T1_text: autoDraw = False
+98.3412 	EXP 	T1_Delay: autoDraw = False
+98.3412 	EXP 	T2_text: autoDraw = False
+98.3412 	EXP 	Gray_Square2: autoDraw = False
+98.3412 	EXP 	X_or_Y: autoDraw = False
+98.3412 	EXP 	Gray_Square3: autoDraw = True
+98.3412 	EXP 	text_3: autoDraw = True
+99.3772 	EXP 	Gray_Square3: autoDraw = False
+99.3772 	EXP 	text_3: autoDraw = False
+99.3772 	EXP 	Gray_Square3: autoDraw = False
+99.3772 	EXP 	text_3: autoDraw = False
+99.3772 	EXP 	T1_text: text = 'X'
+99.3772 	EXP 	T2_text: text = '2'
+99.3772 	EXP 	Gray_Square: autoDraw = True
+99.3772 	EXP 	T1_text: autoDraw = True
+99.4775 	EXP 	T1_text: autoDraw = False
+99.4947 	EXP 	T1_Delay: autoDraw = True
+100.2809 	EXP 	T1_Delay: autoDraw = False
+100.2809 	EXP 	T2_text: autoDraw = True
+100.6813 	DATA 	Keypress: slash
+100.6869 	EXP 	New trial (rep=17, index=0): None
+100.6983 	EXP 	Gray_Square: autoDraw = False
+100.6983 	EXP 	T1_text: autoDraw = False
+100.6983 	EXP 	T1_Delay: autoDraw = False
+100.6983 	EXP 	T2_text: autoDraw = False
+100.6983 	EXP 	Gray_Square2: autoDraw = False
+100.6983 	EXP 	X_or_Y: autoDraw = False
+100.6983 	EXP 	Gray_Square3: autoDraw = True
+100.6983 	EXP 	text_3: autoDraw = True
+102.1852 	EXP 	Gray_Square3: autoDraw = False
+102.1852 	EXP 	text_3: autoDraw = False
+102.1852 	EXP 	Gray_Square3: autoDraw = False
+102.1852 	EXP 	text_3: autoDraw = False
+102.1852 	EXP 	T1_text: text = 'X'
+102.1852 	EXP 	T2_text: text = '1'
+102.1852 	EXP 	Gray_Square: autoDraw = True
+102.1852 	EXP 	T1_text: autoDraw = True
+102.2858 	EXP 	T1_text: autoDraw = False
+102.3032 	EXP 	T1_Delay: autoDraw = True
+103.0882 	EXP 	T1_Delay: autoDraw = False
+103.0882 	EXP 	T2_text: autoDraw = True
+103.5064 	DATA 	Keypress: z
+103.5120 	EXP 	New trial (rep=18, index=0): None
+103.5236 	EXP 	Gray_Square: autoDraw = False
+103.5236 	EXP 	T1_text: autoDraw = False
+103.5236 	EXP 	T1_Delay: autoDraw = False
+103.5236 	EXP 	T2_text: autoDraw = False
+103.5236 	EXP 	Gray_Square2: autoDraw = False
+103.5236 	EXP 	X_or_Y: autoDraw = False
+103.5236 	EXP 	Gray_Square3: autoDraw = True
+103.5236 	EXP 	text_3: autoDraw = True
+104.6261 	EXP 	Gray_Square3: autoDraw = False
+104.6261 	EXP 	text_3: autoDraw = False
+104.6261 	EXP 	Gray_Square3: autoDraw = False
+104.6261 	EXP 	text_3: autoDraw = False
+104.6261 	EXP 	T1_text: text = 'Y'
+104.6261 	EXP 	T2_text: text = '2'
+104.6261 	EXP 	Gray_Square: autoDraw = True
+104.6261 	EXP 	T1_text: autoDraw = True
+104.7097 	EXP 	T1_text: autoDraw = False
+104.7267 	EXP 	T1_Delay: autoDraw = True
+105.5121 	EXP 	T1_Delay: autoDraw = False
+105.5121 	EXP 	T2_text: autoDraw = True
+105.8802 	DATA 	Keypress: slash
+105.8858 	EXP 	New trial (rep=19, index=0): None
+105.8972 	EXP 	Gray_Square: autoDraw = False
+105.8972 	EXP 	T1_text: autoDraw = False
+105.8972 	EXP 	T1_Delay: autoDraw = False
+105.8972 	EXP 	T2_text: autoDraw = False
+105.8972 	EXP 	Gray_Square2: autoDraw = False
+105.8972 	EXP 	X_or_Y: autoDraw = False
+105.8972 	EXP 	Gray_Square3: autoDraw = True
+105.8972 	EXP 	text_3: autoDraw = True
+106.9330 	EXP 	Gray_Square3: autoDraw = False
+106.9330 	EXP 	text_3: autoDraw = False
+106.9330 	EXP 	Gray_Square3: autoDraw = False
+106.9330 	EXP 	text_3: autoDraw = False
+106.9330 	EXP 	T1_text: text = '#'
+106.9330 	EXP 	T2_text: text = '1'
+106.9330 	EXP 	Gray_Square: autoDraw = True
+106.9330 	EXP 	T1_text: autoDraw = True
+107.0162 	EXP 	T1_text: autoDraw = False
+107.0329 	EXP 	T1_Delay: autoDraw = True
+107.8190 	EXP 	T1_Delay: autoDraw = False
+107.8190 	EXP 	T2_text: autoDraw = True
+108.1871 	DATA 	Keypress: z
+108.1928 	EXP 	New trial (rep=20, index=0): None
+108.2041 	EXP 	Gray_Square: autoDraw = False
+108.2041 	EXP 	T1_text: autoDraw = False
+108.2041 	EXP 	T1_Delay: autoDraw = False
+108.2041 	EXP 	T2_text: autoDraw = False
+108.2041 	EXP 	Gray_Square2: autoDraw = False
+108.2041 	EXP 	X_or_Y: autoDraw = False
+108.2041 	EXP 	Gray_Square3: autoDraw = True
+108.2041 	EXP 	text_3: autoDraw = True
+109.5752 	EXP 	Gray_Square3: autoDraw = False
+109.5752 	EXP 	text_3: autoDraw = False
+109.5752 	EXP 	Gray_Square3: autoDraw = False
+109.5752 	EXP 	text_3: autoDraw = False
+109.5752 	EXP 	T1_text: text = 'Y'
+109.5752 	EXP 	T2_text: text = '1'
+109.5752 	EXP 	Gray_Square: autoDraw = True
+109.5752 	EXP 	T1_text: autoDraw = True
+109.6745 	EXP 	T1_text: autoDraw = False
+109.6916 	EXP 	T1_Delay: autoDraw = True
+110.4769 	EXP 	T1_Delay: autoDraw = False
+110.4769 	EXP 	T2_text: autoDraw = True
+110.7788 	DATA 	Keypress: slash
+110.7841 	EXP 	New trial (rep=21, index=0): None
+110.7945 	EXP 	Gray_Square: autoDraw = False
+110.7945 	EXP 	T1_text: autoDraw = False
+110.7945 	EXP 	T1_Delay: autoDraw = False
+110.7945 	EXP 	T2_text: autoDraw = False
+110.7945 	EXP 	Gray_Square2: autoDraw = False
+110.7945 	EXP 	X_or_Y: autoDraw = False
+110.7945 	EXP 	Gray_Square3: autoDraw = True
+110.7945 	EXP 	text_3: autoDraw = True
+112.3156 	EXP 	Gray_Square3: autoDraw = False
+112.3156 	EXP 	text_3: autoDraw = False
+112.3156 	EXP 	Gray_Square3: autoDraw = False
+112.3156 	EXP 	text_3: autoDraw = False
+112.3156 	EXP 	T1_text: text = 'X'
+112.3156 	EXP 	T2_text: text = '1'
+112.3156 	EXP 	Gray_Square: autoDraw = True
+112.3156 	EXP 	T1_text: autoDraw = True
+112.4160 	EXP 	T1_text: autoDraw = False
+112.4331 	EXP 	T1_Delay: autoDraw = True
+113.2183 	EXP 	T1_Delay: autoDraw = False
+113.2183 	EXP 	T2_text: autoDraw = True
+113.7202 	DATA 	Keypress: z
+113.7258 	EXP 	New trial (rep=22, index=0): None
+113.7371 	EXP 	Gray_Square: autoDraw = False
+113.7371 	EXP 	T1_text: autoDraw = False
+113.7371 	EXP 	T1_Delay: autoDraw = False
+113.7371 	EXP 	T2_text: autoDraw = False
+113.7371 	EXP 	Gray_Square2: autoDraw = False
+113.7371 	EXP 	X_or_Y: autoDraw = False
+113.7371 	EXP 	Gray_Square3: autoDraw = True
+113.7371 	EXP 	text_3: autoDraw = True
+115.2411 	EXP 	Gray_Square3: autoDraw = False
+115.2411 	EXP 	text_3: autoDraw = False
+115.2411 	EXP 	Gray_Square3: autoDraw = False
+115.2411 	EXP 	text_3: autoDraw = False
+115.2411 	EXP 	T1_text: text = 'Y'
+115.2411 	EXP 	T2_text: text = '2'
+115.2411 	EXP 	Gray_Square: autoDraw = True
+115.2411 	EXP 	T1_text: autoDraw = True
+115.3247 	EXP 	T1_text: autoDraw = False
+115.3420 	EXP 	T1_Delay: autoDraw = True
+116.1279 	EXP 	T1_Delay: autoDraw = False
+116.1279 	EXP 	T2_text: autoDraw = True
+116.6642 	DATA 	Keypress: slash
+116.6843 	EXP 	New trial (rep=23, index=0): None
+116.6959 	EXP 	Gray_Square: autoDraw = False
+116.6959 	EXP 	T1_text: autoDraw = False
+116.6959 	EXP 	T1_Delay: autoDraw = False
+116.6959 	EXP 	T2_text: autoDraw = False
+116.6959 	EXP 	Gray_Square2: autoDraw = False
+116.6959 	EXP 	X_or_Y: autoDraw = False
+116.6959 	EXP 	Gray_Square3: autoDraw = True
+116.6959 	EXP 	text_3: autoDraw = True
+117.8995 	EXP 	Gray_Square3: autoDraw = False
+117.8995 	EXP 	text_3: autoDraw = False
+117.8995 	EXP 	Gray_Square3: autoDraw = False
+117.8995 	EXP 	text_3: autoDraw = False
+117.8995 	EXP 	T1_text: text = '#'
+117.8995 	EXP 	T2_text: text = '2'
+117.8995 	EXP 	Gray_Square: autoDraw = True
+117.8995 	EXP 	T1_text: autoDraw = True
+117.9992 	EXP 	T1_text: autoDraw = False
+118.0163 	EXP 	T1_Delay: autoDraw = True
+118.8016 	EXP 	T1_Delay: autoDraw = False
+118.8016 	EXP 	T2_text: autoDraw = True
+119.2367 	DATA 	Keypress: slash
+119.2423 	EXP 	New trial (rep=24, index=0): None
+119.2534 	EXP 	Gray_Square: autoDraw = False
+119.2534 	EXP 	T1_text: autoDraw = False
+119.2534 	EXP 	T1_Delay: autoDraw = False
+119.2534 	EXP 	T2_text: autoDraw = False
+119.2534 	EXP 	Gray_Square2: autoDraw = False
+119.2534 	EXP 	X_or_Y: autoDraw = False
+119.2534 	EXP 	Gray_Square3: autoDraw = True
+119.2534 	EXP 	text_3: autoDraw = True
+120.6906 	EXP 	Gray_Square3: autoDraw = False
+120.6906 	EXP 	text_3: autoDraw = False
+120.6906 	EXP 	Gray_Square3: autoDraw = False
+120.6906 	EXP 	text_3: autoDraw = False
+120.6906 	EXP 	T1_text: text = 'Y'
+120.6906 	EXP 	T2_text: text = '2'
+120.6906 	EXP 	Gray_Square: autoDraw = True
+120.6906 	EXP 	T1_text: autoDraw = True
+120.7909 	EXP 	T1_text: autoDraw = False
+120.8076 	EXP 	T1_Delay: autoDraw = True
+121.5933 	EXP 	T1_Delay: autoDraw = False
+121.5933 	EXP 	T2_text: autoDraw = True
+121.9947 	DATA 	Keypress: slash
+122.0003 	EXP 	New trial (rep=25, index=0): None
+122.0117 	EXP 	Gray_Square: autoDraw = False
+122.0117 	EXP 	T1_text: autoDraw = False
+122.0117 	EXP 	T1_Delay: autoDraw = False
+122.0117 	EXP 	T2_text: autoDraw = False
+122.0117 	EXP 	Gray_Square2: autoDraw = False
+122.0117 	EXP 	X_or_Y: autoDraw = False
+122.0117 	EXP 	Gray_Square3: autoDraw = True
+122.0117 	EXP 	text_3: autoDraw = True
+123.9174 	EXP 	Gray_Square3: autoDraw = False
+123.9174 	EXP 	text_3: autoDraw = False
+123.9174 	EXP 	Gray_Square3: autoDraw = False
+123.9174 	EXP 	text_3: autoDraw = False
+123.9174 	EXP 	T1_text: text = 'Y'
+123.9174 	EXP 	T2_text: text = '2'
+123.9174 	EXP 	Gray_Square: autoDraw = True
+123.9174 	EXP 	T1_text: autoDraw = True
+124.0171 	EXP 	T1_text: autoDraw = False
+124.0342 	EXP 	T1_Delay: autoDraw = True
+124.8201 	EXP 	T1_Delay: autoDraw = False
+124.8201 	EXP 	T2_text: autoDraw = True
+125.2721 	DATA 	Keypress: slash
+125.2777 	EXP 	New trial (rep=26, index=0): None
+125.2876 	EXP 	Gray_Square: autoDraw = False
+125.2876 	EXP 	T1_text: autoDraw = False
+125.2876 	EXP 	T1_Delay: autoDraw = False
+125.2876 	EXP 	T2_text: autoDraw = False
+125.2876 	EXP 	Gray_Square2: autoDraw = False
+125.2876 	EXP 	X_or_Y: autoDraw = False
+125.2876 	EXP 	Gray_Square3: autoDraw = True
+125.2876 	EXP 	text_3: autoDraw = True
+127.1108 	EXP 	Gray_Square3: autoDraw = False
+127.1108 	EXP 	text_3: autoDraw = False
+127.1108 	EXP 	Gray_Square3: autoDraw = False
+127.1108 	EXP 	text_3: autoDraw = False
+127.1108 	EXP 	T1_text: text = '#'
+127.1108 	EXP 	T2_text: text = '2'
+127.1108 	EXP 	Gray_Square: autoDraw = True
+127.1108 	EXP 	T1_text: autoDraw = True
+127.2096 	EXP 	T1_text: autoDraw = False
+127.2264 	EXP 	T1_Delay: autoDraw = True
+128.0128 	EXP 	T1_Delay: autoDraw = False
+128.0128 	EXP 	T2_text: autoDraw = True
+128.4645 	DATA 	Keypress: slash
+128.4701 	EXP 	New trial (rep=27, index=0): None
+128.4804 	EXP 	Gray_Square: autoDraw = False
+128.4804 	EXP 	T1_text: autoDraw = False
+128.4804 	EXP 	T1_Delay: autoDraw = False
+128.4804 	EXP 	T2_text: autoDraw = False
+128.4804 	EXP 	Gray_Square2: autoDraw = False
+128.4804 	EXP 	X_or_Y: autoDraw = False
+128.4804 	EXP 	Gray_Square3: autoDraw = True
+128.4804 	EXP 	text_3: autoDraw = True
+129.5343 	EXP 	Gray_Square3: autoDraw = False
+129.5343 	EXP 	text_3: autoDraw = False
+129.5343 	EXP 	Gray_Square3: autoDraw = False
+129.5343 	EXP 	text_3: autoDraw = False
+129.5343 	EXP 	T1_text: text = 'Y'
+129.5343 	EXP 	T2_text: text = '1'
+129.5343 	EXP 	Gray_Square: autoDraw = True
+129.5343 	EXP 	T1_text: autoDraw = True
+129.6171 	EXP 	T1_text: autoDraw = False
+129.6343 	EXP 	T1_Delay: autoDraw = True
+130.4204 	EXP 	T1_Delay: autoDraw = False
+130.4204 	EXP 	T2_text: autoDraw = True
+130.9381 	DATA 	Keypress: z
+130.9437 	EXP 	New trial (rep=28, index=0): None
+130.9552 	EXP 	Gray_Square: autoDraw = False
+130.9552 	EXP 	T1_text: autoDraw = False
+130.9552 	EXP 	T1_Delay: autoDraw = False
+130.9552 	EXP 	T2_text: autoDraw = False
+130.9552 	EXP 	Gray_Square2: autoDraw = False
+130.9552 	EXP 	X_or_Y: autoDraw = False
+130.9552 	EXP 	Gray_Square3: autoDraw = True
+130.9552 	EXP 	text_3: autoDraw = True
+132.5769 	EXP 	Gray_Square3: autoDraw = False
+132.5769 	EXP 	text_3: autoDraw = False
+132.5769 	EXP 	Gray_Square3: autoDraw = False
+132.5769 	EXP 	text_3: autoDraw = False
+132.5769 	EXP 	T1_text: text = '#'
+132.5769 	EXP 	T2_text: text = '2'
+132.5769 	EXP 	Gray_Square: autoDraw = True
+132.5769 	EXP 	T1_text: autoDraw = True
+132.6768 	EXP 	T1_text: autoDraw = False
+132.6930 	EXP 	T1_Delay: autoDraw = True
+133.4619 	EXP 	T1_Delay: autoDraw = False
+133.4619 	EXP 	T2_text: autoDraw = True
+134.2145 	DATA 	Keypress: slash
+134.2201 	EXP 	New trial (rep=29, index=0): None
+134.2318 	EXP 	Gray_Square: autoDraw = False
+134.2318 	EXP 	T1_text: autoDraw = False
+134.2318 	EXP 	T1_Delay: autoDraw = False
+134.2318 	EXP 	T2_text: autoDraw = False
+134.2318 	EXP 	Gray_Square2: autoDraw = False
+134.2318 	EXP 	X_or_Y: autoDraw = False
+134.2318 	EXP 	Gray_Square3: autoDraw = True
+134.2318 	EXP 	text_3: autoDraw = True
+136.0371 	EXP 	Gray_Square3: autoDraw = False
+136.0371 	EXP 	text_3: autoDraw = False
+136.0371 	EXP 	Gray_Square3: autoDraw = False
+136.0371 	EXP 	text_3: autoDraw = False
+136.0371 	EXP 	T1_text: text = '#'
+136.0371 	EXP 	T2_text: text = '2'
+136.0371 	EXP 	Gray_Square: autoDraw = True
+136.0371 	EXP 	T1_text: autoDraw = True
+136.1363 	EXP 	T1_text: autoDraw = False
+136.1534 	EXP 	T1_Delay: autoDraw = True
+136.9391 	EXP 	T1_Delay: autoDraw = False
+136.9391 	EXP 	T2_text: autoDraw = True
+137.4414 	DATA 	Keypress: slash
+137.4470 	EXP 	New trial (rep=30, index=0): None
+137.4579 	EXP 	Gray_Square: autoDraw = False
+137.4579 	EXP 	T1_text: autoDraw = False
+137.4579 	EXP 	T1_Delay: autoDraw = False
+137.4579 	EXP 	T2_text: autoDraw = False
+137.4579 	EXP 	Gray_Square2: autoDraw = False
+137.4579 	EXP 	X_or_Y: autoDraw = False
+137.4579 	EXP 	Gray_Square3: autoDraw = True
+137.4579 	EXP 	text_3: autoDraw = True
+138.6939 	EXP 	Gray_Square3: autoDraw = False
+138.6939 	EXP 	text_3: autoDraw = False
+138.6939 	EXP 	Gray_Square3: autoDraw = False
+138.6939 	EXP 	text_3: autoDraw = False
+138.6939 	EXP 	T1_text: text = 'Y'
+138.6939 	EXP 	T2_text: text = '2'
+138.6939 	EXP 	Gray_Square: autoDraw = True
+138.6939 	EXP 	T1_text: autoDraw = True
+138.7942 	EXP 	T1_text: autoDraw = False
+138.8113 	EXP 	T1_Delay: autoDraw = True
+139.5966 	EXP 	T1_Delay: autoDraw = False
+139.5966 	EXP 	T2_text: autoDraw = True
+140.8840 	DATA 	Keypress: slash
+140.8896 	EXP 	New trial (rep=31, index=0): None
+140.9004 	EXP 	Gray_Square: autoDraw = False
+140.9004 	EXP 	T1_text: autoDraw = False
+140.9004 	EXP 	T1_Delay: autoDraw = False
+140.9004 	EXP 	T2_text: autoDraw = False
+140.9004 	EXP 	Gray_Square2: autoDraw = False
+140.9004 	EXP 	X_or_Y: autoDraw = False
+140.9004 	EXP 	Gray_Square3: autoDraw = True
+140.9004 	EXP 	text_3: autoDraw = True
+142.1374 	EXP 	Gray_Square3: autoDraw = False
+142.1374 	EXP 	text_3: autoDraw = False
+142.1374 	EXP 	Gray_Square3: autoDraw = False
+142.1374 	EXP 	text_3: autoDraw = False
+142.1374 	EXP 	T1_text: text = 'X'
+142.1374 	EXP 	T2_text: text = '1'
+142.1374 	EXP 	Gray_Square: autoDraw = True
+142.1374 	EXP 	T1_text: autoDraw = True
+142.2377 	EXP 	T1_text: autoDraw = False
+142.2544 	EXP 	T1_Delay: autoDraw = True
+143.0404 	EXP 	T1_Delay: autoDraw = False
+143.0404 	EXP 	T2_text: autoDraw = True
+143.6098 	DATA 	Keypress: z
+143.6154 	EXP 	New trial (rep=32, index=0): None
+143.6255 	EXP 	Gray_Square: autoDraw = False
+143.6255 	EXP 	T1_text: autoDraw = False
+143.6255 	EXP 	T1_Delay: autoDraw = False
+143.6255 	EXP 	T2_text: autoDraw = False
+143.6255 	EXP 	Gray_Square2: autoDraw = False
+143.6255 	EXP 	X_or_Y: autoDraw = False
+143.6255 	EXP 	Gray_Square3: autoDraw = True
+143.6255 	EXP 	text_3: autoDraw = True
+145.2646 	EXP 	Gray_Square3: autoDraw = False
+145.2646 	EXP 	text_3: autoDraw = False
+145.2646 	EXP 	Gray_Square3: autoDraw = False
+145.2646 	EXP 	text_3: autoDraw = False
+145.2646 	EXP 	T1_text: text = '#'
+145.2646 	EXP 	T2_text: text = '2'
+145.2646 	EXP 	Gray_Square: autoDraw = True
+145.2646 	EXP 	T1_text: autoDraw = True
+145.3473 	EXP 	T1_text: autoDraw = False
+145.3645 	EXP 	T1_Delay: autoDraw = True
+146.1497 	EXP 	T1_Delay: autoDraw = False
+146.1497 	EXP 	T2_text: autoDraw = True
+146.6181 	DATA 	Keypress: slash
+146.6237 	EXP 	New trial (rep=33, index=0): None
+146.6350 	EXP 	Gray_Square: autoDraw = False
+146.6350 	EXP 	T1_text: autoDraw = False
+146.6350 	EXP 	T1_Delay: autoDraw = False
+146.6350 	EXP 	T2_text: autoDraw = False
+146.6350 	EXP 	Gray_Square2: autoDraw = False
+146.6350 	EXP 	X_or_Y: autoDraw = False
+146.6350 	EXP 	Gray_Square3: autoDraw = True
+146.6350 	EXP 	text_3: autoDraw = True
+147.7550 	EXP 	Gray_Square3: autoDraw = False
+147.7550 	EXP 	text_3: autoDraw = False
+147.7550 	EXP 	Gray_Square3: autoDraw = False
+147.7550 	EXP 	text_3: autoDraw = False
+147.7550 	EXP 	T1_text: text = '#'
+147.7550 	EXP 	T2_text: text = '1'
+147.7550 	EXP 	Gray_Square: autoDraw = True
+147.7550 	EXP 	T1_text: autoDraw = True
+147.8548 	EXP 	T1_text: autoDraw = False
+147.8715 	EXP 	T1_Delay: autoDraw = True
+148.6575 	EXP 	T1_Delay: autoDraw = False
+148.6575 	EXP 	T2_text: autoDraw = True
+149.1255 	DATA 	Keypress: z
+149.1311 	EXP 	New trial (rep=34, index=0): None
+149.1424 	EXP 	Gray_Square: autoDraw = False
+149.1424 	EXP 	T1_text: autoDraw = False
+149.1424 	EXP 	T1_Delay: autoDraw = False
+149.1424 	EXP 	T2_text: autoDraw = False
+149.1424 	EXP 	Gray_Square2: autoDraw = False
+149.1424 	EXP 	X_or_Y: autoDraw = False
+149.1424 	EXP 	Gray_Square3: autoDraw = True
+149.1424 	EXP 	text_3: autoDraw = True
+150.1626 	EXP 	Gray_Square3: autoDraw = False
+150.1626 	EXP 	text_3: autoDraw = False
+150.1626 	EXP 	Gray_Square3: autoDraw = False
+150.1626 	EXP 	text_3: autoDraw = False
+150.1626 	EXP 	T1_text: text = '#'
+150.1626 	EXP 	T2_text: text = '1'
+150.1626 	EXP 	Gray_Square: autoDraw = True
+150.1626 	EXP 	T1_text: autoDraw = True
+150.2619 	EXP 	T1_text: autoDraw = False
+150.2789 	EXP 	T1_Delay: autoDraw = True
+151.0649 	EXP 	T1_Delay: autoDraw = False
+151.0649 	EXP 	T2_text: autoDraw = True
+151.6998 	DATA 	Keypress: z
+151.7054 	EXP 	New trial (rep=35, index=0): None
+151.7169 	EXP 	Gray_Square: autoDraw = False
+151.7169 	EXP 	T1_text: autoDraw = False
+151.7169 	EXP 	T1_Delay: autoDraw = False
+151.7169 	EXP 	T2_text: autoDraw = False
+151.7169 	EXP 	Gray_Square2: autoDraw = False
+151.7169 	EXP 	X_or_Y: autoDraw = False
+151.7169 	EXP 	Gray_Square3: autoDraw = True
+151.7169 	EXP 	text_3: autoDraw = True
+153.1037 	EXP 	Gray_Square3: autoDraw = False
+153.1037 	EXP 	text_3: autoDraw = False
+153.1037 	EXP 	Gray_Square3: autoDraw = False
+153.1037 	EXP 	text_3: autoDraw = False
+153.1037 	EXP 	T1_text: text = 'Y'
+153.1037 	EXP 	T2_text: text = '1'
+153.1037 	EXP 	Gray_Square: autoDraw = True
+153.1037 	EXP 	T1_text: autoDraw = True
+153.2040 	EXP 	T1_text: autoDraw = False
+153.2213 	EXP 	T1_Delay: autoDraw = True
+154.0064 	EXP 	T1_Delay: autoDraw = False
+154.0064 	EXP 	T2_text: autoDraw = True
+154.5082 	DATA 	Keypress: z
+154.5138 	EXP 	New trial (rep=36, index=0): None
+154.5251 	EXP 	Gray_Square: autoDraw = False
+154.5251 	EXP 	T1_text: autoDraw = False
+154.5251 	EXP 	T1_Delay: autoDraw = False
+154.5251 	EXP 	T2_text: autoDraw = False
+154.5251 	EXP 	Gray_Square2: autoDraw = False
+154.5251 	EXP 	X_or_Y: autoDraw = False
+154.5251 	EXP 	Gray_Square3: autoDraw = True
+154.5251 	EXP 	text_3: autoDraw = True
+156.1628 	EXP 	Gray_Square3: autoDraw = False
+156.1628 	EXP 	text_3: autoDraw = False
+156.1628 	EXP 	Gray_Square3: autoDraw = False
+156.1628 	EXP 	text_3: autoDraw = False
+156.1628 	EXP 	T1_text: text = 'X'
+156.1628 	EXP 	T2_text: text = '1'
+156.1628 	EXP 	Gray_Square: autoDraw = True
+156.1628 	EXP 	T1_text: autoDraw = True
+156.2632 	EXP 	T1_text: autoDraw = False
+156.2803 	EXP 	T1_Delay: autoDraw = True
+157.0662 	EXP 	T1_Delay: autoDraw = False
+157.0662 	EXP 	T2_text: autoDraw = True
+157.5171 	DATA 	Keypress: z
+157.5227 	EXP 	New trial (rep=37, index=0): None
+157.5333 	EXP 	Gray_Square: autoDraw = False
+157.5333 	EXP 	T1_text: autoDraw = False
+157.5333 	EXP 	T1_Delay: autoDraw = False
+157.5333 	EXP 	T2_text: autoDraw = False
+157.5333 	EXP 	Gray_Square2: autoDraw = False
+157.5333 	EXP 	X_or_Y: autoDraw = False
+157.5333 	EXP 	Gray_Square3: autoDraw = True
+157.5333 	EXP 	text_3: autoDraw = True
+159.2892 	EXP 	Gray_Square3: autoDraw = False
+159.2892 	EXP 	text_3: autoDraw = False
+159.2892 	EXP 	Gray_Square3: autoDraw = False
+159.2892 	EXP 	text_3: autoDraw = False
+159.2892 	EXP 	T1_text: text = '#'
+159.2892 	EXP 	T2_text: text = '1'
+159.2892 	EXP 	Gray_Square: autoDraw = True
+159.2892 	EXP 	T1_text: autoDraw = True
+159.3891 	EXP 	T1_text: autoDraw = False
+159.4062 	EXP 	T1_Delay: autoDraw = True
+160.1922 	EXP 	T1_Delay: autoDraw = False
+160.1922 	EXP 	T2_text: autoDraw = True
+160.6264 	DATA 	Keypress: z
+160.6320 	EXP 	New trial (rep=38, index=0): None
+160.6432 	EXP 	Gray_Square: autoDraw = False
+160.6432 	EXP 	T1_text: autoDraw = False
+160.6432 	EXP 	T1_Delay: autoDraw = False
+160.6432 	EXP 	T2_text: autoDraw = False
+160.6432 	EXP 	Gray_Square2: autoDraw = False
+160.6432 	EXP 	X_or_Y: autoDraw = False
+160.6432 	EXP 	Gray_Square3: autoDraw = True
+160.6432 	EXP 	text_3: autoDraw = True
+161.6801 	EXP 	Gray_Square3: autoDraw = False
+161.6801 	EXP 	text_3: autoDraw = False
+161.6801 	EXP 	Gray_Square3: autoDraw = False
+161.6801 	EXP 	text_3: autoDraw = False
+161.6801 	EXP 	T1_text: text = '#'
+161.6801 	EXP 	T2_text: text = '2'
+161.6801 	EXP 	Gray_Square: autoDraw = True
+161.6801 	EXP 	T1_text: autoDraw = True
+161.7795 	EXP 	T1_text: autoDraw = False
+161.7971 	EXP 	T1_Delay: autoDraw = True
+162.5816 	EXP 	T1_Delay: autoDraw = False
+162.5816 	EXP 	T2_text: autoDraw = True
+163.0670 	DATA 	Keypress: slash
+163.0726 	EXP 	New trial (rep=39, index=0): None
+163.0839 	EXP 	Gray_Square: autoDraw = False
+163.0839 	EXP 	T1_text: autoDraw = False
+163.0839 	EXP 	T1_Delay: autoDraw = False
+163.0839 	EXP 	T2_text: autoDraw = False
+163.0839 	EXP 	Gray_Square2: autoDraw = False
+163.0839 	EXP 	X_or_Y: autoDraw = False
+163.0839 	EXP 	Gray_Square3: autoDraw = True
+163.0839 	EXP 	text_3: autoDraw = True
+164.2714 	EXP 	Gray_Square3: autoDraw = False
+164.2714 	EXP 	text_3: autoDraw = False
+164.2714 	EXP 	Gray_Square3: autoDraw = False
+164.2714 	EXP 	text_3: autoDraw = False
+164.2714 	EXP 	T1_text: text = 'X'
+164.2714 	EXP 	T2_text: text = '1'
+164.2714 	EXP 	Gray_Square: autoDraw = True
+164.2714 	EXP 	T1_text: autoDraw = True
+164.3539 	EXP 	T1_text: autoDraw = False
+164.3711 	EXP 	T1_Delay: autoDraw = True
+165.1562 	EXP 	T1_Delay: autoDraw = False
+165.1562 	EXP 	T2_text: autoDraw = True
+165.6087 	DATA 	Keypress: z
+165.6143 	EXP 	New trial (rep=40, index=0): None
+165.6243 	EXP 	Gray_Square: autoDraw = False
+165.6243 	EXP 	T1_text: autoDraw = False
+165.6243 	EXP 	T1_Delay: autoDraw = False
+165.6243 	EXP 	T2_text: autoDraw = False
+165.6243 	EXP 	Gray_Square2: autoDraw = False
+165.6243 	EXP 	X_or_Y: autoDraw = False
+165.6243 	EXP 	Gray_Square3: autoDraw = True
+165.6243 	EXP 	text_3: autoDraw = True
+167.5636 	EXP 	Gray_Square3: autoDraw = False
+167.5636 	EXP 	text_3: autoDraw = False
+167.5636 	EXP 	Gray_Square3: autoDraw = False
+167.5636 	EXP 	text_3: autoDraw = False
+167.5636 	EXP 	T1_text: text = '#'
+167.5636 	EXP 	T2_text: text = '1'
+167.5636 	EXP 	Gray_Square: autoDraw = True
+167.5636 	EXP 	T1_text: autoDraw = True
+167.6634 	EXP 	T1_text: autoDraw = False
+167.6801 	EXP 	T1_Delay: autoDraw = True
+168.4661 	EXP 	T1_Delay: autoDraw = False
+168.4661 	EXP 	T2_text: autoDraw = True
+168.9355 	DATA 	Keypress: z
+168.9411 	EXP 	New trial (rep=41, index=0): None
+168.9509 	EXP 	Gray_Square: autoDraw = False
+168.9509 	EXP 	T1_text: autoDraw = False
+168.9509 	EXP 	T1_Delay: autoDraw = False
+168.9509 	EXP 	T2_text: autoDraw = False
+168.9509 	EXP 	Gray_Square2: autoDraw = False
+168.9509 	EXP 	X_or_Y: autoDraw = False
+168.9509 	EXP 	Gray_Square3: autoDraw = True
+168.9509 	EXP 	text_3: autoDraw = True
+170.6894 	EXP 	Gray_Square3: autoDraw = False
+170.6894 	EXP 	text_3: autoDraw = False
+170.6894 	EXP 	Gray_Square3: autoDraw = False
+170.6894 	EXP 	text_3: autoDraw = False
+170.6894 	EXP 	T1_text: text = 'Y'
+170.6894 	EXP 	T2_text: text = '1'
+170.6894 	EXP 	Gray_Square: autoDraw = True
+170.6894 	EXP 	T1_text: autoDraw = True
+170.7897 	EXP 	T1_text: autoDraw = False
+170.8070 	EXP 	T1_Delay: autoDraw = True
+171.5925 	EXP 	T1_Delay: autoDraw = False
+171.5925 	EXP 	T2_text: autoDraw = True
+172.1115 	DATA 	Keypress: z
+172.1171 	EXP 	New trial (rep=42, index=0): None
+172.1270 	EXP 	Gray_Square: autoDraw = False
+172.1270 	EXP 	T1_text: autoDraw = False
+172.1270 	EXP 	T1_Delay: autoDraw = False
+172.1270 	EXP 	T2_text: autoDraw = False
+172.1270 	EXP 	Gray_Square2: autoDraw = False
+172.1270 	EXP 	X_or_Y: autoDraw = False
+172.1270 	EXP 	Gray_Square3: autoDraw = True
+172.1270 	EXP 	text_3: autoDraw = True
+174.0666 	EXP 	Gray_Square3: autoDraw = False
+174.0666 	EXP 	text_3: autoDraw = False
+174.0666 	EXP 	Gray_Square3: autoDraw = False
+174.0666 	EXP 	text_3: autoDraw = False
+174.0666 	EXP 	T1_text: text = 'Y'
+174.0666 	EXP 	T2_text: text = '1'
+174.0666 	EXP 	Gray_Square: autoDraw = True
+174.0666 	EXP 	T1_text: autoDraw = True
+174.1664 	EXP 	T1_text: autoDraw = False
+174.1835 	EXP 	T1_Delay: autoDraw = True
+174.9697 	EXP 	T1_Delay: autoDraw = False
+174.9697 	EXP 	T2_text: autoDraw = True
+175.4712 	DATA 	Keypress: z
+175.4768 	EXP 	New trial (rep=43, index=0): None
+175.4870 	EXP 	Gray_Square: autoDraw = False
+175.4870 	EXP 	T1_text: autoDraw = False
+175.4870 	EXP 	T1_Delay: autoDraw = False
+175.4870 	EXP 	T2_text: autoDraw = False
+175.4870 	EXP 	Gray_Square2: autoDraw = False
+175.4870 	EXP 	X_or_Y: autoDraw = False
+175.4870 	EXP 	Gray_Square3: autoDraw = True
+175.4870 	EXP 	text_3: autoDraw = True
+176.8589 	EXP 	Gray_Square3: autoDraw = False
+176.8589 	EXP 	text_3: autoDraw = False
+176.8589 	EXP 	Gray_Square3: autoDraw = False
+176.8589 	EXP 	text_3: autoDraw = False
+176.8589 	EXP 	T1_text: text = '#'
+176.8589 	EXP 	T2_text: text = '1'
+176.8589 	EXP 	Gray_Square: autoDraw = True
+176.8589 	EXP 	T1_text: autoDraw = True
+176.9580 	EXP 	T1_text: autoDraw = False
+176.9754 	EXP 	T1_Delay: autoDraw = True
+177.7601 	EXP 	T1_Delay: autoDraw = False
+177.7601 	EXP 	T2_text: autoDraw = True
+178.1786 	DATA 	Keypress: z
+178.1843 	EXP 	New trial (rep=44, index=0): None
+178.1951 	EXP 	Gray_Square: autoDraw = False
+178.1951 	EXP 	T1_text: autoDraw = False
+178.1951 	EXP 	T1_Delay: autoDraw = False
+178.1951 	EXP 	T2_text: autoDraw = False
+178.1951 	EXP 	Gray_Square2: autoDraw = False
+178.1951 	EXP 	X_or_Y: autoDraw = False
+178.1951 	EXP 	Gray_Square3: autoDraw = True
+178.1951 	EXP 	text_3: autoDraw = True
+179.6167 	EXP 	Gray_Square3: autoDraw = False
+179.6167 	EXP 	text_3: autoDraw = False
+179.6167 	EXP 	Gray_Square3: autoDraw = False
+179.6167 	EXP 	text_3: autoDraw = False
+179.6167 	EXP 	T1_text: text = 'Y'
+179.6167 	EXP 	T2_text: text = '1'
+179.6167 	EXP 	Gray_Square: autoDraw = True
+179.6167 	EXP 	T1_text: autoDraw = True
+179.7162 	EXP 	T1_text: autoDraw = False
+179.7337 	EXP 	T1_Delay: autoDraw = True
+180.5186 	EXP 	T1_Delay: autoDraw = False
+180.5186 	EXP 	T2_text: autoDraw = True
+180.9711 	DATA 	Keypress: z
+180.9767 	EXP 	New trial (rep=45, index=0): None
+180.9867 	EXP 	Gray_Square: autoDraw = False
+180.9867 	EXP 	T1_text: autoDraw = False
+180.9867 	EXP 	T1_Delay: autoDraw = False
+180.9867 	EXP 	T2_text: autoDraw = False
+180.9867 	EXP 	Gray_Square2: autoDraw = False
+180.9867 	EXP 	X_or_Y: autoDraw = False
+180.9867 	EXP 	Gray_Square3: autoDraw = True
+180.9867 	EXP 	text_3: autoDraw = True
+182.1908 	EXP 	Gray_Square3: autoDraw = False
+182.1908 	EXP 	text_3: autoDraw = False
+182.1908 	EXP 	Gray_Square3: autoDraw = False
+182.1908 	EXP 	text_3: autoDraw = False
+182.1908 	EXP 	T1_text: text = 'Y'
+182.1908 	EXP 	T2_text: text = '2'
+182.1908 	EXP 	Gray_Square: autoDraw = True
+182.1908 	EXP 	T1_text: autoDraw = True
+182.2906 	EXP 	T1_text: autoDraw = False
+182.3077 	EXP 	T1_Delay: autoDraw = True
+183.0930 	EXP 	T1_Delay: autoDraw = False
+183.0930 	EXP 	T2_text: autoDraw = True
+183.6456 	DATA 	Keypress: slash
+183.6512 	EXP 	New trial (rep=46, index=0): None
+183.6613 	EXP 	Gray_Square: autoDraw = False
+183.6613 	EXP 	T1_text: autoDraw = False
+183.6613 	EXP 	T1_Delay: autoDraw = False
+183.6613 	EXP 	T2_text: autoDraw = False
+183.6613 	EXP 	Gray_Square2: autoDraw = False
+183.6613 	EXP 	X_or_Y: autoDraw = False
+183.6613 	EXP 	Gray_Square3: autoDraw = True
+183.6613 	EXP 	text_3: autoDraw = True
+185.3837 	EXP 	Gray_Square3: autoDraw = False
+185.3837 	EXP 	text_3: autoDraw = False
+185.3837 	EXP 	Gray_Square3: autoDraw = False
+185.3837 	EXP 	text_3: autoDraw = False
+185.3837 	EXP 	T1_text: text = '#'
+185.3837 	EXP 	T2_text: text = '2'
+185.3837 	EXP 	Gray_Square: autoDraw = True
+185.3837 	EXP 	T1_text: autoDraw = True
+185.4834 	EXP 	T1_text: autoDraw = False
+185.5007 	EXP 	T1_Delay: autoDraw = True
+186.2866 	EXP 	T1_Delay: autoDraw = False
+186.2866 	EXP 	T2_text: autoDraw = True
+186.7709 	DATA 	Keypress: slash
+186.7765 	EXP 	New trial (rep=47, index=0): None
+186.7881 	EXP 	Gray_Square: autoDraw = False
+186.7881 	EXP 	T1_text: autoDraw = False
+186.7881 	EXP 	T1_Delay: autoDraw = False
+186.7881 	EXP 	T2_text: autoDraw = False
+186.7881 	EXP 	Gray_Square2: autoDraw = False
+186.7881 	EXP 	X_or_Y: autoDraw = False
+186.7881 	EXP 	Gray_Square3: autoDraw = True
+186.7881 	EXP 	text_3: autoDraw = True
+188.4929 	EXP 	Gray_Square3: autoDraw = False
+188.4929 	EXP 	text_3: autoDraw = False
+188.4929 	EXP 	Gray_Square3: autoDraw = False
+188.4929 	EXP 	text_3: autoDraw = False
+188.4929 	EXP 	T1_text: text = 'Y'
+188.4929 	EXP 	T2_text: text = '2'
+188.4929 	EXP 	Gray_Square: autoDraw = True
+188.4929 	EXP 	T1_text: autoDraw = True
+188.5927 	EXP 	T1_text: autoDraw = False
+188.6100 	EXP 	T1_Delay: autoDraw = True
+189.3951 	EXP 	T1_Delay: autoDraw = False
+189.3951 	EXP 	T2_text: autoDraw = True
+189.9637 	DATA 	Keypress: slash
+189.9694 	EXP 	New trial (rep=48, index=0): None
+189.9810 	EXP 	Gray_Square: autoDraw = False
+189.9810 	EXP 	T1_text: autoDraw = False
+189.9810 	EXP 	T1_Delay: autoDraw = False
+189.9810 	EXP 	T2_text: autoDraw = False
+189.9810 	EXP 	Gray_Square2: autoDraw = False
+189.9810 	EXP 	X_or_Y: autoDraw = False
+189.9810 	EXP 	Gray_Square3: autoDraw = True
+189.9810 	EXP 	text_3: autoDraw = True
+191.9529 	EXP 	Gray_Square3: autoDraw = False
+191.9529 	EXP 	text_3: autoDraw = False
+191.9529 	EXP 	Gray_Square3: autoDraw = False
+191.9529 	EXP 	text_3: autoDraw = False
+191.9529 	EXP 	T1_text: text = '#'
+191.9529 	EXP 	T2_text: text = '2'
+191.9529 	EXP 	Gray_Square: autoDraw = True
+191.9529 	EXP 	T1_text: autoDraw = True
+192.0532 	EXP 	T1_text: autoDraw = False
+192.0696 	EXP 	T1_Delay: autoDraw = True
+192.8718 	EXP 	T1_Delay: autoDraw = False
+192.8718 	EXP 	T2_text: autoDraw = True
+193.3412 	DATA 	Keypress: slash
+193.3468 	EXP 	New trial (rep=49, index=0): None
+193.3569 	EXP 	Gray_Square: autoDraw = False
+193.3569 	EXP 	T1_text: autoDraw = False
+193.3569 	EXP 	T1_Delay: autoDraw = False
+193.3569 	EXP 	T2_text: autoDraw = False
+193.3569 	EXP 	Gray_Square2: autoDraw = False
+193.3569 	EXP 	X_or_Y: autoDraw = False
+193.3569 	EXP 	Gray_Square3: autoDraw = True
+193.3569 	EXP 	text_3: autoDraw = True
+194.4272 	EXP 	Gray_Square3: autoDraw = False
+194.4272 	EXP 	text_3: autoDraw = False
+194.4272 	EXP 	Gray_Square3: autoDraw = False
+194.4272 	EXP 	text_3: autoDraw = False
+194.4272 	EXP 	T1_text: text = 'X'
+194.4272 	EXP 	T2_text: text = '2'
+194.4272 	EXP 	Gray_Square: autoDraw = True
+194.4272 	EXP 	T1_text: autoDraw = True
+194.5270 	EXP 	T1_text: autoDraw = False
+194.5445 	EXP 	T1_Delay: autoDraw = True
+195.3303 	EXP 	T1_Delay: autoDraw = False
+195.3303 	EXP 	T2_text: autoDraw = True
+195.8318 	DATA 	Keypress: slash
+195.8350 	EXP 	New trial (rep=50, index=0): None
+195.8673 	EXP 	Gray_Square: autoDraw = False
+195.8673 	EXP 	T1_text: autoDraw = False
+195.8673 	EXP 	T1_Delay: autoDraw = False
+195.8673 	EXP 	T2_text: autoDraw = False
+195.8673 	EXP 	Gray_Square2: autoDraw = False
+195.8673 	EXP 	X_or_Y: autoDraw = False
+195.8673 	EXP 	Gray_Square3: autoDraw = True
+195.8673 	EXP 	text_3: autoDraw = True
+196.9674 	EXP 	Gray_Square3: autoDraw = False
+196.9674 	EXP 	text_3: autoDraw = False
+196.9674 	EXP 	Gray_Square3: autoDraw = False
+196.9674 	EXP 	text_3: autoDraw = False
+196.9674 	EXP 	T1_text: text = 'Y'
+196.9674 	EXP 	T2_text: text = '2'
+196.9674 	EXP 	Gray_Square: autoDraw = True
+196.9674 	EXP 	T1_text: autoDraw = True
+197.0681 	EXP 	T1_text: autoDraw = False
+197.0843 	EXP 	T1_Delay: autoDraw = True
+197.8889 	EXP 	T1_Delay: autoDraw = False
+197.8889 	EXP 	T2_text: autoDraw = True
+198.3723 	DATA 	Keypress: slash
+198.3780 	EXP 	New trial (rep=51, index=0): None
+198.4055 	EXP 	Gray_Square: autoDraw = False
+198.4055 	EXP 	T1_text: autoDraw = False
+198.4055 	EXP 	T1_Delay: autoDraw = False
+198.4055 	EXP 	T2_text: autoDraw = False
+198.4055 	EXP 	Gray_Square2: autoDraw = False
+198.4055 	EXP 	X_or_Y: autoDraw = False
+198.4055 	EXP 	Gray_Square3: autoDraw = True
+198.4055 	EXP 	text_3: autoDraw = True
+199.6770 	EXP 	Gray_Square3: autoDraw = False
+199.6770 	EXP 	text_3: autoDraw = False
+199.6770 	EXP 	Gray_Square3: autoDraw = False
+199.6770 	EXP 	text_3: autoDraw = False
+199.6770 	EXP 	T1_text: text = 'Y'
+199.6770 	EXP 	T2_text: text = '2'
+199.6770 	EXP 	Gray_Square: autoDraw = True
+199.6770 	EXP 	T1_text: autoDraw = True
+199.7772 	EXP 	T1_text: autoDraw = False
+199.8107 	EXP 	T1_Delay: autoDraw = True
+200.5796 	EXP 	T1_Delay: autoDraw = False
+200.5796 	EXP 	T2_text: autoDraw = True
+201.0144 	DATA 	Keypress: slash
+201.0200 	EXP 	New trial (rep=52, index=0): None
+201.0471 	EXP 	Gray_Square: autoDraw = False
+201.0471 	EXP 	T1_text: autoDraw = False
+201.0471 	EXP 	T1_Delay: autoDraw = False
+201.0471 	EXP 	T2_text: autoDraw = False
+201.0471 	EXP 	Gray_Square2: autoDraw = False
+201.0471 	EXP 	X_or_Y: autoDraw = False
+201.0471 	EXP 	Gray_Square3: autoDraw = True
+201.0471 	EXP 	text_3: autoDraw = True
+203.0193 	EXP 	Gray_Square3: autoDraw = False
+203.0193 	EXP 	text_3: autoDraw = False
+203.0193 	EXP 	Gray_Square3: autoDraw = False
+203.0193 	EXP 	text_3: autoDraw = False
+203.0193 	EXP 	T1_text: text = 'Y'
+203.0193 	EXP 	T2_text: text = '1'
+203.0193 	EXP 	Gray_Square: autoDraw = True
+203.0193 	EXP 	T1_text: autoDraw = True
+203.1196 	EXP 	T1_text: autoDraw = False
+203.1530 	EXP 	T1_Delay: autoDraw = True
+203.9056 	EXP 	T1_Delay: autoDraw = False
+203.9056 	EXP 	T2_text: autoDraw = True
+204.3739 	DATA 	Keypress: z
+204.3796 	EXP 	New trial (rep=53, index=0): None
+204.3897 	EXP 	Gray_Square: autoDraw = False
+204.3897 	EXP 	T1_text: autoDraw = False
+204.3897 	EXP 	T1_Delay: autoDraw = False
+204.3897 	EXP 	T2_text: autoDraw = False
+204.3897 	EXP 	Gray_Square2: autoDraw = False
+204.3897 	EXP 	X_or_Y: autoDraw = False
+204.3897 	EXP 	Gray_Square3: autoDraw = True
+204.3897 	EXP 	text_3: autoDraw = True
+205.9951 	EXP 	Gray_Square3: autoDraw = False
+205.9951 	EXP 	text_3: autoDraw = False
+205.9951 	EXP 	Gray_Square3: autoDraw = False
+205.9951 	EXP 	text_3: autoDraw = False
+205.9951 	EXP 	T1_text: text = 'Y'
+205.9951 	EXP 	T2_text: text = '1'
+205.9951 	EXP 	Gray_Square: autoDraw = True
+205.9951 	EXP 	T1_text: autoDraw = True
+206.0948 	EXP 	T1_text: autoDraw = False
+206.1121 	EXP 	T1_Delay: autoDraw = True
+206.8972 	EXP 	T1_Delay: autoDraw = False
+206.8972 	EXP 	T2_text: autoDraw = True
+207.3488 	DATA 	Keypress: z
+207.3544 	EXP 	New trial (rep=54, index=0): None
+207.3660 	EXP 	Gray_Square: autoDraw = False
+207.3660 	EXP 	T1_text: autoDraw = False
+207.3660 	EXP 	T1_Delay: autoDraw = False
+207.3660 	EXP 	T2_text: autoDraw = False
+207.3660 	EXP 	Gray_Square2: autoDraw = False
+207.3660 	EXP 	X_or_Y: autoDraw = False
+207.3660 	EXP 	Gray_Square3: autoDraw = True
+207.3660 	EXP 	text_3: autoDraw = True
+208.5187 	EXP 	Gray_Square3: autoDraw = False
+208.5187 	EXP 	text_3: autoDraw = False
+208.5187 	EXP 	Gray_Square3: autoDraw = False
+208.5187 	EXP 	text_3: autoDraw = False
+208.5187 	EXP 	T1_text: text = 'X'
+208.5187 	EXP 	T2_text: text = '2'
+208.5187 	EXP 	Gray_Square: autoDraw = True
+208.5187 	EXP 	T1_text: autoDraw = True
+208.6022 	EXP 	T1_text: autoDraw = False
+208.6189 	EXP 	T1_Delay: autoDraw = True
+209.4046 	EXP 	T1_Delay: autoDraw = False
+209.4046 	EXP 	T2_text: autoDraw = True
+209.8730 	DATA 	Keypress: slash
+209.8786 	EXP 	New trial (rep=55, index=0): None
+209.8901 	EXP 	Gray_Square: autoDraw = False
+209.8901 	EXP 	T1_text: autoDraw = False
+209.8901 	EXP 	T1_Delay: autoDraw = False
+209.8901 	EXP 	T2_text: autoDraw = False
+209.8901 	EXP 	Gray_Square2: autoDraw = False
+209.8901 	EXP 	X_or_Y: autoDraw = False
+209.8901 	EXP 	Gray_Square3: autoDraw = True
+209.8901 	EXP 	text_3: autoDraw = True
+210.9759 	EXP 	Gray_Square3: autoDraw = False
+210.9759 	EXP 	text_3: autoDraw = False
+210.9759 	EXP 	Gray_Square3: autoDraw = False
+210.9759 	EXP 	text_3: autoDraw = False
+210.9759 	EXP 	T1_text: text = 'X'
+210.9759 	EXP 	T2_text: text = '2'
+210.9759 	EXP 	Gray_Square: autoDraw = True
+210.9759 	EXP 	T1_text: autoDraw = True
+211.0763 	EXP 	T1_text: autoDraw = False
+211.0763 	EXP 	T1_Delay: autoDraw = True
+211.8787 	EXP 	T1_Delay: autoDraw = False
+211.8787 	EXP 	T2_text: autoDraw = True
+212.2810 	DATA 	Keypress: slash
+212.2867 	EXP 	New trial (rep=56, index=0): None
+212.2966 	EXP 	Gray_Square: autoDraw = False
+212.2966 	EXP 	T1_text: autoDraw = False
+212.2966 	EXP 	T1_Delay: autoDraw = False
+212.2966 	EXP 	T2_text: autoDraw = False
+212.2966 	EXP 	Gray_Square2: autoDraw = False
+212.2966 	EXP 	X_or_Y: autoDraw = False
+212.2966 	EXP 	Gray_Square3: autoDraw = True
+212.2966 	EXP 	text_3: autoDraw = True
+213.6517 	EXP 	Gray_Square3: autoDraw = False
+213.6517 	EXP 	text_3: autoDraw = False
+213.6517 	EXP 	Gray_Square3: autoDraw = False
+213.6517 	EXP 	text_3: autoDraw = False
+213.6517 	EXP 	T1_text: text = 'Y'
+213.6517 	EXP 	T2_text: text = '1'
+213.6517 	EXP 	Gray_Square: autoDraw = True
+213.6517 	EXP 	T1_text: autoDraw = True
+213.7342 	EXP 	T1_text: autoDraw = False
+213.7514 	EXP 	T1_Delay: autoDraw = True
+214.5365 	EXP 	T1_Delay: autoDraw = False
+214.5365 	EXP 	T2_text: autoDraw = True
+215.0233 	DATA 	Keypress: z
+215.0436 	EXP 	New trial (rep=57, index=0): None
+215.0553 	EXP 	Gray_Square: autoDraw = False
+215.0553 	EXP 	T1_text: autoDraw = False
+215.0553 	EXP 	T1_Delay: autoDraw = False
+215.0553 	EXP 	T2_text: autoDraw = False
+215.0553 	EXP 	Gray_Square2: autoDraw = False
+215.0553 	EXP 	X_or_Y: autoDraw = False
+215.0553 	EXP 	Gray_Square3: autoDraw = True
+215.0553 	EXP 	text_3: autoDraw = True
+216.4930 	EXP 	Gray_Square3: autoDraw = False
+216.4930 	EXP 	text_3: autoDraw = False
+216.4930 	EXP 	Gray_Square3: autoDraw = False
+216.4930 	EXP 	text_3: autoDraw = False
+216.4930 	EXP 	T1_text: text = '#'
+216.4930 	EXP 	T2_text: text = '1'
+216.4930 	EXP 	Gray_Square: autoDraw = True
+216.4930 	EXP 	T1_text: autoDraw = True
+216.5927 	EXP 	T1_text: autoDraw = False
+216.6099 	EXP 	T1_Delay: autoDraw = True
+217.3958 	EXP 	T1_Delay: autoDraw = False
+217.3958 	EXP 	T2_text: autoDraw = True
+217.8467 	DATA 	Keypress: z
+217.8523 	EXP 	New trial (rep=58, index=0): None
+217.8641 	EXP 	Gray_Square: autoDraw = False
+217.8641 	EXP 	T1_text: autoDraw = False
+217.8641 	EXP 	T1_Delay: autoDraw = False
+217.8641 	EXP 	T2_text: autoDraw = False
+217.8641 	EXP 	Gray_Square2: autoDraw = False
+217.8641 	EXP 	X_or_Y: autoDraw = False
+217.8641 	EXP 	Gray_Square3: autoDraw = True
+217.8641 	EXP 	text_3: autoDraw = True
+219.1010 	EXP 	Gray_Square3: autoDraw = False
+219.1010 	EXP 	text_3: autoDraw = False
+219.1010 	EXP 	Gray_Square3: autoDraw = False
+219.1010 	EXP 	text_3: autoDraw = False
+219.1010 	EXP 	T1_text: text = 'Y'
+219.1010 	EXP 	T2_text: text = '2'
+219.1010 	EXP 	Gray_Square: autoDraw = True
+219.1010 	EXP 	T1_text: autoDraw = True
+219.1837 	EXP 	T1_text: autoDraw = False
+219.2005 	EXP 	T1_Delay: autoDraw = True
+219.9868 	EXP 	T1_Delay: autoDraw = False
+219.9868 	EXP 	T2_text: autoDraw = True
+220.4545 	DATA 	Keypress: slash
+220.4601 	EXP 	New trial (rep=59, index=0): None
+220.4714 	EXP 	Gray_Square: autoDraw = False
+220.4714 	EXP 	T1_text: autoDraw = False
+220.4714 	EXP 	T1_Delay: autoDraw = False
+220.4714 	EXP 	T2_text: autoDraw = False
+220.4714 	EXP 	Gray_Square2: autoDraw = False
+220.4714 	EXP 	X_or_Y: autoDraw = False
+220.4714 	EXP 	Gray_Square3: autoDraw = True
+220.4714 	EXP 	text_3: autoDraw = True
+221.7915 	EXP 	Gray_Square3: autoDraw = False
+221.7915 	EXP 	text_3: autoDraw = False
+221.7915 	EXP 	Gray_Square3: autoDraw = False
+221.7915 	EXP 	text_3: autoDraw = False
+221.7915 	EXP 	T1_text: text = 'Y'
+221.7915 	EXP 	T2_text: text = '1'
+221.7915 	EXP 	Gray_Square: autoDraw = True
+221.7915 	EXP 	T1_text: autoDraw = True
+221.8918 	EXP 	T1_text: autoDraw = False
+221.9092 	EXP 	T1_Delay: autoDraw = True
+222.6941 	EXP 	T1_Delay: autoDraw = False
+222.6941 	EXP 	T2_text: autoDraw = True
+223.2959 	DATA 	Keypress: z
+223.3015 	EXP 	New trial (rep=60, index=0): None
+223.3128 	EXP 	Gray_Square: autoDraw = False
+223.3128 	EXP 	T1_text: autoDraw = False
+223.3128 	EXP 	T1_Delay: autoDraw = False
+223.3128 	EXP 	T2_text: autoDraw = False
+223.3128 	EXP 	Gray_Square2: autoDraw = False
+223.3128 	EXP 	X_or_Y: autoDraw = False
+223.3128 	EXP 	Gray_Square3: autoDraw = True
+223.3128 	EXP 	text_3: autoDraw = True
+224.5998 	EXP 	Gray_Square3: autoDraw = False
+224.5998 	EXP 	text_3: autoDraw = False
+224.5998 	EXP 	Gray_Square3: autoDraw = False
+224.5998 	EXP 	text_3: autoDraw = False
+224.5998 	EXP 	T1_text: text = '#'
+224.5998 	EXP 	T2_text: text = '1'
+224.5998 	EXP 	Gray_Square: autoDraw = True
+224.5998 	EXP 	T1_text: autoDraw = True
+224.7001 	EXP 	T1_text: autoDraw = False
+224.7176 	EXP 	T1_Delay: autoDraw = True
+225.5032 	EXP 	T1_Delay: autoDraw = False
+225.5032 	EXP 	T2_text: autoDraw = True
+225.9876 	DATA 	Keypress: z
+225.9932 	EXP 	New trial (rep=61, index=0): None
+226.0050 	EXP 	Gray_Square: autoDraw = False
+226.0050 	EXP 	T1_text: autoDraw = False
+226.0050 	EXP 	T1_Delay: autoDraw = False
+226.0050 	EXP 	T2_text: autoDraw = False
+226.0050 	EXP 	Gray_Square2: autoDraw = False
+226.0050 	EXP 	X_or_Y: autoDraw = False
+226.0050 	EXP 	Gray_Square3: autoDraw = True
+226.0050 	EXP 	text_3: autoDraw = True
+227.0248 	EXP 	Gray_Square3: autoDraw = False
+227.0248 	EXP 	text_3: autoDraw = False
+227.0248 	EXP 	Gray_Square3: autoDraw = False
+227.0248 	EXP 	text_3: autoDraw = False
+227.0248 	EXP 	T1_text: text = 'X'
+227.0248 	EXP 	T2_text: text = '1'
+227.0248 	EXP 	Gray_Square: autoDraw = True
+227.0248 	EXP 	T1_text: autoDraw = True
+227.1240 	EXP 	T1_text: autoDraw = False
+227.1412 	EXP 	T1_Delay: autoDraw = True
+227.9269 	EXP 	T1_Delay: autoDraw = False
+227.9269 	EXP 	T2_text: autoDraw = True
+228.3276 	DATA 	Keypress: z
+228.3333 	EXP 	New trial (rep=62, index=0): None
+228.3440 	EXP 	Gray_Square: autoDraw = False
+228.3440 	EXP 	T1_text: autoDraw = False
+228.3440 	EXP 	T1_Delay: autoDraw = False
+228.3440 	EXP 	T2_text: autoDraw = False
+228.3440 	EXP 	Gray_Square2: autoDraw = False
+228.3440 	EXP 	X_or_Y: autoDraw = False
+228.3440 	EXP 	Gray_Square3: autoDraw = True
+228.3440 	EXP 	text_3: autoDraw = True
+230.1342 	EXP 	Gray_Square3: autoDraw = False
+230.1342 	EXP 	text_3: autoDraw = False
+230.1342 	EXP 	Gray_Square3: autoDraw = False
+230.1342 	EXP 	text_3: autoDraw = False
+230.1342 	EXP 	T1_text: text = '#'
+230.1342 	EXP 	T2_text: text = '1'
+230.1342 	EXP 	Gray_Square: autoDraw = True
+230.1342 	EXP 	T1_text: autoDraw = True
+230.2333 	EXP 	T1_text: autoDraw = False
+230.2507 	EXP 	T1_Delay: autoDraw = True
+231.0367 	EXP 	T1_Delay: autoDraw = False
+231.0367 	EXP 	T2_text: autoDraw = True
+231.4706 	DATA 	Keypress: z
+231.4762 	EXP 	New trial (rep=63, index=0): None
+231.4876 	EXP 	Gray_Square: autoDraw = False
+231.4876 	EXP 	T1_text: autoDraw = False
+231.4876 	EXP 	T1_Delay: autoDraw = False
+231.4876 	EXP 	T2_text: autoDraw = False
+231.4876 	EXP 	Gray_Square2: autoDraw = False
+231.4876 	EXP 	X_or_Y: autoDraw = False
+231.4876 	EXP 	Gray_Square3: autoDraw = True
+231.4876 	EXP 	text_3: autoDraw = True
+232.7918 	EXP 	Gray_Square3: autoDraw = False
+232.7918 	EXP 	text_3: autoDraw = False
+232.7918 	EXP 	Gray_Square3: autoDraw = False
+232.7918 	EXP 	text_3: autoDraw = False
+232.7918 	EXP 	T1_text: text = '#'
+232.7918 	EXP 	T2_text: text = '1'
+232.7918 	EXP 	Gray_Square: autoDraw = True
+232.7918 	EXP 	T1_text: autoDraw = True
+232.8912 	EXP 	T1_text: autoDraw = False
+232.9085 	EXP 	T1_Delay: autoDraw = True
+233.6941 	EXP 	T1_Delay: autoDraw = False
+233.6941 	EXP 	T2_text: autoDraw = True
+234.2294 	DATA 	Keypress: z
+234.2350 	EXP 	New trial (rep=64, index=0): None
+234.2452 	EXP 	Gray_Square: autoDraw = False
+234.2452 	EXP 	T1_text: autoDraw = False
+234.2452 	EXP 	T1_Delay: autoDraw = False
+234.2452 	EXP 	T2_text: autoDraw = False
+234.2452 	EXP 	Gray_Square2: autoDraw = False
+234.2452 	EXP 	X_or_Y: autoDraw = False
+234.2452 	EXP 	Gray_Square3: autoDraw = True
+234.2452 	EXP 	text_3: autoDraw = True
+235.6672 	EXP 	Gray_Square3: autoDraw = False
+235.6672 	EXP 	text_3: autoDraw = False
+235.6672 	EXP 	Gray_Square3: autoDraw = False
+235.6672 	EXP 	text_3: autoDraw = False
+235.6672 	EXP 	T1_text: text = 'Y'
+235.6672 	EXP 	T2_text: text = '2'
+235.6672 	EXP 	Gray_Square: autoDraw = True
+235.6672 	EXP 	T1_text: autoDraw = True
+235.7497 	EXP 	T1_text: autoDraw = False
+235.7669 	EXP 	T1_Delay: autoDraw = True
+236.5526 	EXP 	T1_Delay: autoDraw = False
+236.5526 	EXP 	T2_text: autoDraw = True
+237.1212 	DATA 	Keypress: slash
+237.1240 	EXP 	New trial (rep=65, index=0): None
+237.1371 	EXP 	Gray_Square: autoDraw = False
+237.1371 	EXP 	T1_text: autoDraw = False
+237.1371 	EXP 	T1_Delay: autoDraw = False
+237.1371 	EXP 	T2_text: autoDraw = False
+237.1371 	EXP 	Gray_Square2: autoDraw = False
+237.1371 	EXP 	X_or_Y: autoDraw = False
+237.1371 	EXP 	Gray_Square3: autoDraw = True
+237.1371 	EXP 	text_3: autoDraw = True
+238.7926 	EXP 	Gray_Square3: autoDraw = False
+238.7926 	EXP 	text_3: autoDraw = False
+238.7926 	EXP 	Gray_Square3: autoDraw = False
+238.7926 	EXP 	text_3: autoDraw = False
+238.7926 	EXP 	T1_text: text = 'X'
+238.7926 	EXP 	T2_text: text = '2'
+238.7926 	EXP 	Gray_Square: autoDraw = True
+238.7926 	EXP 	T1_text: autoDraw = True
+238.8757 	EXP 	T1_text: autoDraw = False
+238.8930 	EXP 	T1_Delay: autoDraw = True
+239.6781 	EXP 	T1_Delay: autoDraw = False
+239.6781 	EXP 	T2_text: autoDraw = True
+240.1464 	DATA 	Keypress: slash
+240.1521 	EXP 	New trial (rep=66, index=0): None
+240.1635 	EXP 	Gray_Square: autoDraw = False
+240.1635 	EXP 	T1_text: autoDraw = False
+240.1635 	EXP 	T1_Delay: autoDraw = False
+240.1635 	EXP 	T2_text: autoDraw = False
+240.1635 	EXP 	Gray_Square2: autoDraw = False
+240.1635 	EXP 	X_or_Y: autoDraw = False
+240.1635 	EXP 	Gray_Square3: autoDraw = True
+240.1635 	EXP 	text_3: autoDraw = True
+241.3507 	EXP 	Gray_Square3: autoDraw = False
+241.3507 	EXP 	text_3: autoDraw = False
+241.3507 	EXP 	Gray_Square3: autoDraw = False
+241.3507 	EXP 	text_3: autoDraw = False
+241.3507 	EXP 	T1_text: text = 'Y'
+241.3507 	EXP 	T2_text: text = '1'
+241.3507 	EXP 	Gray_Square: autoDraw = True
+241.3507 	EXP 	T1_text: autoDraw = True
+241.4333 	EXP 	T1_text: autoDraw = False
+241.4508 	EXP 	T1_Delay: autoDraw = True
+242.2362 	EXP 	T1_Delay: autoDraw = False
+242.2362 	EXP 	T2_text: autoDraw = True
+242.7049 	DATA 	Keypress: z
+242.7105 	EXP 	New trial (rep=67, index=0): None
+242.7204 	EXP 	Gray_Square: autoDraw = False
+242.7204 	EXP 	T1_text: autoDraw = False
+242.7204 	EXP 	T1_Delay: autoDraw = False
+242.7204 	EXP 	T2_text: autoDraw = False
+242.7204 	EXP 	Gray_Square2: autoDraw = False
+242.7204 	EXP 	X_or_Y: autoDraw = False
+242.7204 	EXP 	Gray_Square3: autoDraw = True
+242.7204 	EXP 	text_3: autoDraw = True
+244.5426 	EXP 	Gray_Square3: autoDraw = False
+244.5426 	EXP 	text_3: autoDraw = False
+244.5426 	EXP 	Gray_Square3: autoDraw = False
+244.5426 	EXP 	text_3: autoDraw = False
+244.5426 	EXP 	T1_text: text = 'X'
+244.5426 	EXP 	T2_text: text = '1'
+244.5426 	EXP 	Gray_Square: autoDraw = True
+244.5426 	EXP 	T1_text: autoDraw = True
+244.6428 	EXP 	T1_text: autoDraw = False
+244.6603 	EXP 	T1_Delay: autoDraw = True
+245.4452 	EXP 	T1_Delay: autoDraw = False
+245.4452 	EXP 	T2_text: autoDraw = True
+245.9980 	DATA 	Keypress: z
+246.0035 	EXP 	New trial (rep=68, index=0): None
+246.0136 	EXP 	Gray_Square: autoDraw = False
+246.0136 	EXP 	T1_text: autoDraw = False
+246.0136 	EXP 	T1_Delay: autoDraw = False
+246.0136 	EXP 	T2_text: autoDraw = False
+246.0136 	EXP 	Gray_Square2: autoDraw = False
+246.0136 	EXP 	X_or_Y: autoDraw = False
+246.0136 	EXP 	Gray_Square3: autoDraw = True
+246.0136 	EXP 	text_3: autoDraw = True
+247.1837 	EXP 	Gray_Square3: autoDraw = False
+247.1837 	EXP 	text_3: autoDraw = False
+247.1837 	EXP 	Gray_Square3: autoDraw = False
+247.1837 	EXP 	text_3: autoDraw = False
+247.1837 	EXP 	T1_text: text = '#'
+247.1837 	EXP 	T2_text: text = '2'
+247.1837 	EXP 	Gray_Square: autoDraw = True
+247.1837 	EXP 	T1_text: autoDraw = True
+247.2673 	EXP 	T1_text: autoDraw = False
+247.2847 	EXP 	T1_Delay: autoDraw = True
+248.0706 	EXP 	T1_Delay: autoDraw = False
+248.0706 	EXP 	T2_text: autoDraw = True
+248.4877 	DATA 	Keypress: slash
+248.4933 	EXP 	New trial (rep=69, index=0): None
+248.5040 	EXP 	Gray_Square: autoDraw = False
+248.5040 	EXP 	T1_text: autoDraw = False
+248.5040 	EXP 	T1_Delay: autoDraw = False
+248.5040 	EXP 	T2_text: autoDraw = False
+248.5040 	EXP 	Gray_Square2: autoDraw = False
+248.5040 	EXP 	X_or_Y: autoDraw = False
+248.5040 	EXP 	Gray_Square3: autoDraw = True
+248.5040 	EXP 	text_3: autoDraw = True
+249.6745 	EXP 	Gray_Square3: autoDraw = False
+249.6745 	EXP 	text_3: autoDraw = False
+249.6745 	EXP 	Gray_Square3: autoDraw = False
+249.6745 	EXP 	text_3: autoDraw = False
+249.6745 	EXP 	T1_text: text = 'Y'
+249.6745 	EXP 	T2_text: text = '2'
+249.6745 	EXP 	Gray_Square: autoDraw = True
+249.6745 	EXP 	T1_text: autoDraw = True
+249.7748 	EXP 	T1_text: autoDraw = False
+249.7915 	EXP 	T1_Delay: autoDraw = True
+250.5778 	EXP 	T1_Delay: autoDraw = False
+250.5778 	EXP 	T2_text: autoDraw = True
+251.1124 	DATA 	Keypress: slash
+251.1180 	EXP 	New trial (rep=70, index=0): None
+251.1296 	EXP 	Gray_Square: autoDraw = False
+251.1296 	EXP 	T1_text: autoDraw = False
+251.1296 	EXP 	T1_Delay: autoDraw = False
+251.1296 	EXP 	T2_text: autoDraw = False
+251.1296 	EXP 	Gray_Square2: autoDraw = False
+251.1296 	EXP 	X_or_Y: autoDraw = False
+251.1296 	EXP 	Gray_Square3: autoDraw = True
+251.1296 	EXP 	text_3: autoDraw = True
+252.1657 	EXP 	Gray_Square3: autoDraw = False
+252.1657 	EXP 	text_3: autoDraw = False
+252.1657 	EXP 	Gray_Square3: autoDraw = False
+252.1657 	EXP 	text_3: autoDraw = False
+252.1657 	EXP 	T1_text: text = 'X'
+252.1657 	EXP 	T2_text: text = '2'
+252.1657 	EXP 	Gray_Square: autoDraw = True
+252.1657 	EXP 	T1_text: autoDraw = True
+252.2655 	EXP 	T1_text: autoDraw = False
+252.2822 	EXP 	T1_Delay: autoDraw = True
+253.0684 	EXP 	T1_Delay: autoDraw = False
+253.0684 	EXP 	T2_text: autoDraw = True
+253.5025 	DATA 	Keypress: slash
+253.5081 	EXP 	New trial (rep=71, index=0): None
+253.5193 	EXP 	Gray_Square: autoDraw = False
+253.5193 	EXP 	T1_text: autoDraw = False
+253.5193 	EXP 	T1_Delay: autoDraw = False
+253.5193 	EXP 	T2_text: autoDraw = False
+253.5193 	EXP 	Gray_Square2: autoDraw = False
+253.5193 	EXP 	X_or_Y: autoDraw = False
+253.5193 	EXP 	Gray_Square3: autoDraw = True
+253.5193 	EXP 	text_3: autoDraw = True
+255.0906 	EXP 	Gray_Square3: autoDraw = False
+255.0906 	EXP 	text_3: autoDraw = False
+255.0906 	EXP 	Gray_Square3: autoDraw = False
+255.0906 	EXP 	text_3: autoDraw = False
+255.0906 	EXP 	T1_text: text = 'X'
+255.0906 	EXP 	T2_text: text = '1'
+255.0906 	EXP 	Gray_Square: autoDraw = True
+255.0906 	EXP 	T1_text: autoDraw = True
+255.1909 	EXP 	T1_text: autoDraw = False
+255.2076 	EXP 	T1_Delay: autoDraw = True
+255.9933 	EXP 	T1_Delay: autoDraw = False
+255.9933 	EXP 	T2_text: autoDraw = True
+256.5953 	DATA 	Keypress: z
+256.6009 	EXP 	New trial (rep=72, index=0): None
+256.6123 	EXP 	Gray_Square: autoDraw = False
+256.6123 	EXP 	T1_text: autoDraw = False
+256.6123 	EXP 	T1_Delay: autoDraw = False
+256.6123 	EXP 	T2_text: autoDraw = False
+256.6123 	EXP 	Gray_Square2: autoDraw = False
+256.6123 	EXP 	X_or_Y: autoDraw = False
+256.6123 	EXP 	Gray_Square3: autoDraw = True
+256.6123 	EXP 	text_3: autoDraw = True
+258.0003 	EXP 	Gray_Square3: autoDraw = False
+258.0003 	EXP 	text_3: autoDraw = False
+258.0003 	EXP 	Gray_Square3: autoDraw = False
+258.0003 	EXP 	text_3: autoDraw = False
+258.0003 	EXP 	T1_text: text = 'X'
+258.0003 	EXP 	T2_text: text = '2'
+258.0003 	EXP 	Gray_Square: autoDraw = True
+258.0003 	EXP 	T1_text: autoDraw = True
+258.0995 	EXP 	T1_text: autoDraw = False
+258.1166 	EXP 	T1_Delay: autoDraw = True
+258.9026 	EXP 	T1_Delay: autoDraw = False
+258.9026 	EXP 	T2_text: autoDraw = True
+259.2876 	DATA 	Keypress: slash
+259.2932 	EXP 	New trial (rep=73, index=0): None
+259.3031 	EXP 	Gray_Square: autoDraw = False
+259.3031 	EXP 	T1_text: autoDraw = False
+259.3031 	EXP 	T1_Delay: autoDraw = False
+259.3031 	EXP 	T2_text: autoDraw = False
+259.3031 	EXP 	Gray_Square2: autoDraw = False
+259.3031 	EXP 	X_or_Y: autoDraw = False
+259.3031 	EXP 	Gray_Square3: autoDraw = True
+259.3031 	EXP 	text_3: autoDraw = True
+261.1591 	EXP 	Gray_Square3: autoDraw = False
+261.1591 	EXP 	text_3: autoDraw = False
+261.1591 	EXP 	Gray_Square3: autoDraw = False
+261.1591 	EXP 	text_3: autoDraw = False
+261.1591 	EXP 	T1_text: text = 'X'
+261.1591 	EXP 	T2_text: text = '1'
+261.1591 	EXP 	Gray_Square: autoDraw = True
+261.1591 	EXP 	T1_text: autoDraw = True
+261.2611 	EXP 	T1_text: autoDraw = False
+261.2757 	EXP 	T1_Delay: autoDraw = True
+262.0613 	EXP 	T1_Delay: autoDraw = False
+262.0613 	EXP 	T2_text: autoDraw = True
+262.5465 	DATA 	Keypress: z
+262.5522 	EXP 	New trial (rep=74, index=0): None
+262.5638 	EXP 	Gray_Square: autoDraw = False
+262.5638 	EXP 	T1_text: autoDraw = False
+262.5638 	EXP 	T1_Delay: autoDraw = False
+262.5638 	EXP 	T2_text: autoDraw = False
+262.5638 	EXP 	Gray_Square2: autoDraw = False
+262.5638 	EXP 	X_or_Y: autoDraw = False
+262.5638 	EXP 	Gray_Square3: autoDraw = True
+262.5638 	EXP 	text_3: autoDraw = True
+263.6002 	EXP 	Gray_Square3: autoDraw = False
+263.6002 	EXP 	text_3: autoDraw = False
+263.6002 	EXP 	Gray_Square3: autoDraw = False
+263.6002 	EXP 	text_3: autoDraw = False
+263.6002 	EXP 	T1_text: text = '#'
+263.6002 	EXP 	T2_text: text = '2'
+263.6002 	EXP 	Gray_Square: autoDraw = True
+263.6002 	EXP 	T1_text: autoDraw = True
+263.6992 	EXP 	T1_text: autoDraw = False
+263.7161 	EXP 	T1_Delay: autoDraw = True
+264.5030 	EXP 	T1_Delay: autoDraw = False
+264.5030 	EXP 	T2_text: autoDraw = True
+264.9034 	DATA 	Keypress: slash
+264.9091 	EXP 	New trial (rep=75, index=0): None
+264.9205 	EXP 	Gray_Square: autoDraw = False
+264.9205 	EXP 	T1_text: autoDraw = False
+264.9205 	EXP 	T1_Delay: autoDraw = False
+264.9205 	EXP 	T2_text: autoDraw = False
+264.9205 	EXP 	Gray_Square2: autoDraw = False
+264.9205 	EXP 	X_or_Y: autoDraw = False
+264.9205 	EXP 	Gray_Square3: autoDraw = True
+264.9205 	EXP 	text_3: autoDraw = True
+266.7261 	EXP 	Gray_Square3: autoDraw = False
+266.7261 	EXP 	text_3: autoDraw = False
+266.7261 	EXP 	Gray_Square3: autoDraw = False
+266.7261 	EXP 	text_3: autoDraw = False
+266.7261 	EXP 	T1_text: text = 'X'
+266.7261 	EXP 	T2_text: text = '1'
+266.7261 	EXP 	Gray_Square: autoDraw = True
+266.7261 	EXP 	T1_text: autoDraw = True
+266.8088 	EXP 	T1_text: autoDraw = False
+266.8259 	EXP 	T1_Delay: autoDraw = True
+267.6119 	EXP 	T1_Delay: autoDraw = False
+267.6119 	EXP 	T2_text: autoDraw = True
+268.0628 	DATA 	Keypress: z
+268.0684 	EXP 	New trial (rep=76, index=0): None
+268.0802 	EXP 	Gray_Square: autoDraw = False
+268.0802 	EXP 	T1_text: autoDraw = False
+268.0802 	EXP 	T1_Delay: autoDraw = False
+268.0802 	EXP 	T2_text: autoDraw = False
+268.0802 	EXP 	Gray_Square2: autoDraw = False
+268.0802 	EXP 	X_or_Y: autoDraw = False
+268.0802 	EXP 	Gray_Square3: autoDraw = True
+268.0802 	EXP 	text_3: autoDraw = True
+269.3497 	EXP 	Gray_Square3: autoDraw = False
+269.3497 	EXP 	text_3: autoDraw = False
+269.3497 	EXP 	Gray_Square3: autoDraw = False
+269.3497 	EXP 	text_3: autoDraw = False
+269.3497 	EXP 	T1_text: text = '#'
+269.3497 	EXP 	T2_text: text = '2'
+269.3497 	EXP 	Gray_Square: autoDraw = True
+269.3497 	EXP 	T1_text: autoDraw = True
+269.4333 	EXP 	T1_text: autoDraw = False
+269.4504 	EXP 	T1_Delay: autoDraw = True
+270.2363 	EXP 	T1_Delay: autoDraw = False
+270.2363 	EXP 	T2_text: autoDraw = True
+270.6214 	DATA 	Keypress: slash
+270.6269 	EXP 	New trial (rep=77, index=0): None
+270.6369 	EXP 	Gray_Square: autoDraw = False
+270.6369 	EXP 	T1_text: autoDraw = False
+270.6369 	EXP 	T1_Delay: autoDraw = False
+270.6369 	EXP 	T2_text: autoDraw = False
+270.6369 	EXP 	Gray_Square2: autoDraw = False
+270.6369 	EXP 	X_or_Y: autoDraw = False
+270.6369 	EXP 	Gray_Square3: autoDraw = True
+270.6369 	EXP 	text_3: autoDraw = True
+271.7903 	EXP 	Gray_Square3: autoDraw = False
+271.7903 	EXP 	text_3: autoDraw = False
+271.7903 	EXP 	Gray_Square3: autoDraw = False
+271.7903 	EXP 	text_3: autoDraw = False
+271.7903 	EXP 	T1_text: text = '#'
+271.7903 	EXP 	T2_text: text = '2'
+271.7903 	EXP 	Gray_Square: autoDraw = True
+271.7903 	EXP 	T1_text: autoDraw = True
+271.8906 	EXP 	T1_text: autoDraw = False
+271.9077 	EXP 	T1_Delay: autoDraw = True
+272.6930 	EXP 	T1_Delay: autoDraw = False
+272.6930 	EXP 	T2_text: autoDraw = True
+273.1112 	DATA 	Keypress: slash
+273.1168 	EXP 	New trial (rep=78, index=0): None
+273.1281 	EXP 	Gray_Square: autoDraw = False
+273.1281 	EXP 	T1_text: autoDraw = False
+273.1281 	EXP 	T1_Delay: autoDraw = False
+273.1281 	EXP 	T2_text: autoDraw = False
+273.1281 	EXP 	Gray_Square2: autoDraw = False
+273.1281 	EXP 	X_or_Y: autoDraw = False
+273.1281 	EXP 	Gray_Square3: autoDraw = True
+273.1281 	EXP 	text_3: autoDraw = True
+274.5986 	EXP 	Gray_Square3: autoDraw = False
+274.5986 	EXP 	text_3: autoDraw = False
+274.5986 	EXP 	Gray_Square3: autoDraw = False
+274.5986 	EXP 	text_3: autoDraw = False
+274.5986 	EXP 	T1_text: text = 'X'
+274.5986 	EXP 	T2_text: text = '1'
+274.5986 	EXP 	Gray_Square: autoDraw = True
+274.5986 	EXP 	T1_text: autoDraw = True
+274.6823 	EXP 	T1_text: autoDraw = False
+274.6993 	EXP 	T1_Delay: autoDraw = True
+275.4855 	EXP 	T1_Delay: autoDraw = False
+275.4855 	EXP 	T2_text: autoDraw = True
+275.9530 	DATA 	Keypress: z
+275.9585 	EXP 	New trial (rep=79, index=0): None
+275.9702 	EXP 	Gray_Square: autoDraw = False
+275.9702 	EXP 	T1_text: autoDraw = False
+275.9702 	EXP 	T1_Delay: autoDraw = False
+275.9702 	EXP 	T2_text: autoDraw = False
+275.9702 	EXP 	Gray_Square2: autoDraw = False
+275.9702 	EXP 	X_or_Y: autoDraw = False
+275.9702 	EXP 	Gray_Square3: autoDraw = True
+275.9702 	EXP 	text_3: autoDraw = True
+277.9754 	EXP 	Gray_Square3: autoDraw = False
+277.9754 	EXP 	text_3: autoDraw = False
+277.9754 	EXP 	Gray_Square3: autoDraw = False
+277.9754 	EXP 	text_3: autoDraw = False
+277.9754 	EXP 	T1_text: text = '#'
+277.9754 	EXP 	T2_text: text = '2'
+277.9754 	EXP 	Gray_Square: autoDraw = True
+277.9754 	EXP 	T1_text: autoDraw = True
+278.0590 	EXP 	T1_text: autoDraw = False
+278.0761 	EXP 	T1_Delay: autoDraw = True
+278.8610 	EXP 	T1_Delay: autoDraw = False
+278.8610 	EXP 	T2_text: autoDraw = True
+279.2962 	DATA 	Keypress: slash
+279.3010 	EXP 	New trial (rep=0, index=1): OrderedDict([('Task_Instructions', u'In the upcoming task, you will be presented with a series of numbers and letters. This time however, you will be asked to respond to both. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row.  Then, place your right middle and ring finger on the [ and ] keys respectively. Press "Z" to view an example of how the trials in this stage of the experiment will proceed.'), ('Block_type', u'Remember_T1'), ('Trial_example', u'example2.jpg'), ('TrialNumber', 80)])
+279.5644 	EXP 	Gray_Square: autoDraw = False
+279.5644 	EXP 	T1_text: autoDraw = False
+279.5644 	EXP 	T1_Delay: autoDraw = False
+279.5644 	EXP 	T2_text: autoDraw = False
+279.5644 	EXP 	Gray_Square2: autoDraw = False
+279.5644 	EXP 	X_or_Y: autoDraw = False
+279.5644 	EXP 	text: text = u'In the upcoming task, you will be presented with a series of numbers and letters. This time however, you will be asked to respond to both. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row.  Then, place your right middle and ring finger on the [ and ] keys respectively. Press "Z" to view an example of how the trials in this stage of the experiment will proceed.'
+279.5644 	EXP 	text: autoDraw = True
+314.1003 	DATA 	Keypress: z
+314.2002 	EXP 	text: autoDraw = False
+314.2002 	EXP 	image: image = u'example2.jpg'
+314.2002 	EXP 	image: autoDraw = True
+334.5772 	DATA 	Keypress: slash
+334.5945 	EXP 	image: autoDraw = False
+334.5945 	EXP 	text_4: autoDraw = True
+334.5945 	EXP 	Gray_Square_2: autoDraw = True
+337.5702 	EXP 	Created sequence: sequential, trialTypes=1, nReps=80, seed=None
+337.5717 	EXP 	New trial (rep=0, index=0): None
+337.5872 	EXP 	text_4: autoDraw = False
+337.5872 	EXP 	Gray_Square_2: autoDraw = False
+337.5872 	EXP 	text_4: autoDraw = False
+337.5872 	EXP 	Gray_Square_2: autoDraw = False
+337.5872 	EXP 	Gray_Square3: autoDraw = True
+337.5872 	EXP 	text_3: autoDraw = True
+338.7240 	EXP 	Gray_Square3: autoDraw = False
+338.7240 	EXP 	text_3: autoDraw = False
+338.7240 	EXP 	Gray_Square3: autoDraw = False
+338.7240 	EXP 	text_3: autoDraw = False
+338.7240 	EXP 	T1_text: text = '#'
+338.7240 	EXP 	T2_text: text = '1'
+338.7240 	EXP 	Gray_Square: autoDraw = True
+338.7240 	EXP 	T1_text: autoDraw = True
+338.8232 	EXP 	T1_text: autoDraw = False
+338.8405 	EXP 	T1_Delay: autoDraw = True
+339.6259 	EXP 	T1_Delay: autoDraw = False
+339.6259 	EXP 	T2_text: autoDraw = True
+340.2786 	DATA 	Keypress: z
+340.2848 	EXP 	New trial (rep=1, index=0): None
+340.2942 	EXP 	Gray_Square: autoDraw = False
+340.2942 	EXP 	T1_text: autoDraw = False
+340.2942 	EXP 	T1_Delay: autoDraw = False
+340.2942 	EXP 	T2_text: autoDraw = False
+340.2942 	EXP 	Gray_Square2: autoDraw = False
+340.2942 	EXP 	X_or_Y: autoDraw = False
+340.2942 	EXP 	Gray_Square3: autoDraw = True
+340.2942 	EXP 	text_3: autoDraw = True
+341.9166 	EXP 	Gray_Square3: autoDraw = False
+341.9166 	EXP 	text_3: autoDraw = False
+341.9166 	EXP 	Gray_Square3: autoDraw = False
+341.9166 	EXP 	text_3: autoDraw = False
+341.9166 	EXP 	T1_text: text = 'X'
+341.9166 	EXP 	T2_text: text = '1'
+341.9166 	EXP 	Gray_Square: autoDraw = True
+341.9166 	EXP 	T1_text: autoDraw = True
+342.0160 	EXP 	T1_text: autoDraw = False
+342.0333 	EXP 	T1_Delay: autoDraw = True
+342.8184 	EXP 	T1_Delay: autoDraw = False
+342.8184 	EXP 	T2_text: autoDraw = True
+343.4706 	DATA 	Keypress: z
+343.4878 	EXP 	Gray_Square: autoDraw = False
+343.4878 	EXP 	T1_text: autoDraw = False
+343.4878 	EXP 	T1_Delay: autoDraw = False
+343.4878 	EXP 	T2_text: autoDraw = False
+343.4878 	EXP 	Gray_Square2: autoDraw = True
+343.4878 	EXP 	X_or_Y: autoDraw = True
+345.3428 	DATA 	Keypress: bracketleft
+345.3470 	EXP 	New trial (rep=2, index=0): None
+345.3604 	EXP 	Gray_Square2: autoDraw = False
+345.3604 	EXP 	X_or_Y: autoDraw = False
+345.3604 	EXP 	Gray_Square3: autoDraw = True
+345.3604 	EXP 	text_3: autoDraw = True
+346.9309 	EXP 	Gray_Square3: autoDraw = False
+346.9309 	EXP 	text_3: autoDraw = False
+346.9309 	EXP 	Gray_Square3: autoDraw = False
+346.9309 	EXP 	text_3: autoDraw = False
+346.9309 	EXP 	T1_text: text = 'Y'
+346.9309 	EXP 	T2_text: text = '1'
+346.9309 	EXP 	Gray_Square: autoDraw = True
+346.9309 	EXP 	T1_text: autoDraw = True
+347.0309 	EXP 	T1_text: autoDraw = False
+347.0482 	EXP 	T1_Delay: autoDraw = True
+347.8339 	EXP 	T1_Delay: autoDraw = False
+347.8339 	EXP 	T2_text: autoDraw = True
+349.9064 	DATA 	Keypress: z
+349.9237 	EXP 	Gray_Square: autoDraw = False
+349.9237 	EXP 	T1_text: autoDraw = False
+349.9237 	EXP 	T1_Delay: autoDraw = False
+349.9237 	EXP 	T2_text: autoDraw = False
+349.9237 	EXP 	Gray_Square2: autoDraw = True
+349.9237 	EXP 	X_or_Y: autoDraw = True
+350.3578 	DATA 	Keypress: bracketright
+350.3618 	EXP 	New trial (rep=3, index=0): None
+350.3753 	EXP 	Gray_Square2: autoDraw = False
+350.3753 	EXP 	X_or_Y: autoDraw = False
+350.3753 	EXP 	Gray_Square3: autoDraw = True
+350.3753 	EXP 	text_3: autoDraw = True
+351.4784 	EXP 	Gray_Square3: autoDraw = False
+351.4784 	EXP 	text_3: autoDraw = False
+351.4784 	EXP 	Gray_Square3: autoDraw = False
+351.4784 	EXP 	text_3: autoDraw = False
+351.4784 	EXP 	T1_text: text = '#'
+351.4784 	EXP 	T2_text: text = '2'
+351.4784 	EXP 	Gray_Square: autoDraw = True
+351.4784 	EXP 	T1_text: autoDraw = True
+351.5610 	EXP 	T1_text: autoDraw = False
+351.5783 	EXP 	T1_Delay: autoDraw = True
+352.3635 	EXP 	T1_Delay: autoDraw = False
+352.3635 	EXP 	T2_text: autoDraw = True
+354.8880 	DATA 	Keypress: slash
+354.8935 	EXP 	New trial (rep=4, index=0): None
+354.9054 	EXP 	Gray_Square: autoDraw = False
+354.9054 	EXP 	T1_text: autoDraw = False
+354.9054 	EXP 	T1_Delay: autoDraw = False
+354.9054 	EXP 	T2_text: autoDraw = False
+354.9054 	EXP 	Gray_Square2: autoDraw = False
+354.9054 	EXP 	X_or_Y: autoDraw = False
+354.9054 	EXP 	Gray_Square3: autoDraw = True
+354.9054 	EXP 	text_3: autoDraw = True
+356.7274 	EXP 	Gray_Square3: autoDraw = False
+356.7274 	EXP 	text_3: autoDraw = False
+356.7274 	EXP 	Gray_Square3: autoDraw = False
+356.7274 	EXP 	text_3: autoDraw = False
+356.7274 	EXP 	T1_text: text = '#'
+356.7274 	EXP 	T2_text: text = '1'
+356.7274 	EXP 	Gray_Square: autoDraw = True
+356.7274 	EXP 	T1_text: autoDraw = True
+356.8267 	EXP 	T1_text: autoDraw = False
+356.8441 	EXP 	T1_Delay: autoDraw = True
+357.6291 	EXP 	T1_Delay: autoDraw = False
+357.6291 	EXP 	T2_text: autoDraw = True
+360.0868 	DATA 	Keypress: z
+360.0924 	EXP 	New trial (rep=5, index=0): None
+360.1037 	EXP 	Gray_Square: autoDraw = False
+360.1037 	EXP 	T1_text: autoDraw = False
+360.1037 	EXP 	T1_Delay: autoDraw = False
+360.1037 	EXP 	T2_text: autoDraw = False
+360.1037 	EXP 	Gray_Square2: autoDraw = False
+360.1037 	EXP 	X_or_Y: autoDraw = False
+360.1037 	EXP 	Gray_Square3: autoDraw = True
+360.1037 	EXP 	text_3: autoDraw = True
+361.8082 	EXP 	Gray_Square3: autoDraw = False
+361.8082 	EXP 	text_3: autoDraw = False
+361.8082 	EXP 	Gray_Square3: autoDraw = False
+361.8082 	EXP 	text_3: autoDraw = False
+361.8082 	EXP 	T1_text: text = 'X'
+361.8082 	EXP 	T2_text: text = '1'
+361.8082 	EXP 	Gray_Square: autoDraw = True
+361.8082 	EXP 	T1_text: autoDraw = True
+361.9085 	EXP 	T1_text: autoDraw = False
+361.9260 	EXP 	T1_Delay: autoDraw = True
+362.7109 	EXP 	T1_Delay: autoDraw = False
+362.7109 	EXP 	T2_text: autoDraw = True
+363.5805 	DATA 	Keypress: z
+363.5974 	EXP 	Gray_Square: autoDraw = False
+363.5974 	EXP 	T1_text: autoDraw = False
+363.5974 	EXP 	T1_Delay: autoDraw = False
+363.5974 	EXP 	T2_text: autoDraw = False
+363.5974 	EXP 	Gray_Square2: autoDraw = True
+363.5974 	EXP 	X_or_Y: autoDraw = True
+364.3494 	DATA 	Keypress: bracketleft
+364.3535 	EXP 	New trial (rep=6, index=0): None
+364.3663 	EXP 	Gray_Square2: autoDraw = False
+364.3663 	EXP 	X_or_Y: autoDraw = False
+364.3663 	EXP 	Gray_Square3: autoDraw = True
+364.3663 	EXP 	text_3: autoDraw = True
+366.2715 	EXP 	Gray_Square3: autoDraw = False
+366.2715 	EXP 	text_3: autoDraw = False
+366.2715 	EXP 	Gray_Square3: autoDraw = False
+366.2715 	EXP 	text_3: autoDraw = False
+366.2715 	EXP 	T1_text: text = 'X'
+366.2715 	EXP 	T2_text: text = '1'
+366.2715 	EXP 	Gray_Square: autoDraw = True
+366.2715 	EXP 	T1_text: autoDraw = True
+366.3718 	EXP 	T1_text: autoDraw = False
+366.3885 	EXP 	T1_Delay: autoDraw = True
+367.1743 	EXP 	T1_Delay: autoDraw = False
+367.1743 	EXP 	T2_text: autoDraw = True
+368.0282 	DATA 	Keypress: z
+368.0604 	EXP 	Gray_Square: autoDraw = False
+368.0604 	EXP 	T1_text: autoDraw = False
+368.0604 	EXP 	T1_Delay: autoDraw = False
+368.0604 	EXP 	T2_text: autoDraw = False
+368.0604 	EXP 	Gray_Square2: autoDraw = True
+368.0604 	EXP 	X_or_Y: autoDraw = True
+368.5616 	DATA 	Keypress: bracketleft
+368.5657 	EXP 	New trial (rep=7, index=0): None
+368.5781 	EXP 	Gray_Square2: autoDraw = False
+368.5781 	EXP 	X_or_Y: autoDraw = False
+368.5781 	EXP 	Gray_Square3: autoDraw = True
+368.5781 	EXP 	text_3: autoDraw = True
+370.3678 	EXP 	Gray_Square3: autoDraw = False
+370.3678 	EXP 	text_3: autoDraw = False
+370.3678 	EXP 	Gray_Square3: autoDraw = False
+370.3678 	EXP 	text_3: autoDraw = False
+370.3678 	EXP 	T1_text: text = 'X'
+370.3678 	EXP 	T2_text: text = '1'
+370.3678 	EXP 	Gray_Square: autoDraw = True
+370.3678 	EXP 	T1_text: autoDraw = True
+370.4673 	EXP 	T1_text: autoDraw = False
+370.4848 	EXP 	T1_Delay: autoDraw = True
+371.2700 	EXP 	T1_Delay: autoDraw = False
+371.2700 	EXP 	T2_text: autoDraw = True
+373.7610 	DATA 	Keypress: z
+373.7769 	EXP 	Gray_Square: autoDraw = False
+373.7769 	EXP 	T1_text: autoDraw = False
+373.7769 	EXP 	T1_Delay: autoDraw = False
+373.7769 	EXP 	T2_text: autoDraw = False
+373.7769 	EXP 	Gray_Square2: autoDraw = True
+373.7769 	EXP 	X_or_Y: autoDraw = True
+374.6153 	DATA 	Keypress: bracketleft
+374.6193 	EXP 	New trial (rep=8, index=0): None
+374.6299 	EXP 	Gray_Square2: autoDraw = False
+374.6299 	EXP 	X_or_Y: autoDraw = False
+374.6299 	EXP 	Gray_Square3: autoDraw = True
+374.6299 	EXP 	text_3: autoDraw = True
+376.6019 	EXP 	Gray_Square3: autoDraw = False
+376.6019 	EXP 	text_3: autoDraw = False
+376.6019 	EXP 	Gray_Square3: autoDraw = False
+376.6019 	EXP 	text_3: autoDraw = False
+376.6019 	EXP 	T1_text: text = 'Y'
+376.6019 	EXP 	T2_text: text = '2'
+376.6019 	EXP 	Gray_Square: autoDraw = True
+376.6019 	EXP 	T1_text: autoDraw = True
+376.7022 	EXP 	T1_text: autoDraw = False
+376.7189 	EXP 	T1_Delay: autoDraw = True
+377.5046 	EXP 	T1_Delay: autoDraw = False
+377.5046 	EXP 	T2_text: autoDraw = True
+379.2936 	DATA 	Keypress: slash
+379.3100 	EXP 	Gray_Square: autoDraw = False
+379.3100 	EXP 	T1_text: autoDraw = False
+379.3100 	EXP 	T1_Delay: autoDraw = False
+379.3100 	EXP 	T2_text: autoDraw = False
+379.3100 	EXP 	Gray_Square2: autoDraw = True
+379.3100 	EXP 	X_or_Y: autoDraw = True
+379.8619 	DATA 	Keypress: bracketright
+379.8659 	EXP 	New trial (rep=9, index=0): None
+379.8783 	EXP 	Gray_Square2: autoDraw = False
+379.8783 	EXP 	X_or_Y: autoDraw = False
+379.8783 	EXP 	Gray_Square3: autoDraw = True
+379.8783 	EXP 	text_3: autoDraw = True
+381.8355 	EXP 	Gray_Square3: autoDraw = False
+381.8355 	EXP 	text_3: autoDraw = False
+381.8355 	EXP 	Gray_Square3: autoDraw = False
+381.8355 	EXP 	text_3: autoDraw = False
+381.8355 	EXP 	T1_text: text = 'Y'
+381.8355 	EXP 	T2_text: text = '1'
+381.8355 	EXP 	Gray_Square: autoDraw = True
+381.8355 	EXP 	T1_text: autoDraw = True
+381.9348 	EXP 	T1_text: autoDraw = False
+381.9518 	EXP 	T1_Delay: autoDraw = True
+382.7378 	EXP 	T1_Delay: autoDraw = False
+382.7378 	EXP 	T2_text: autoDraw = True
+385.0279 	DATA 	Keypress: z
+385.0605 	EXP 	Gray_Square: autoDraw = False
+385.0605 	EXP 	T1_text: autoDraw = False
+385.0605 	EXP 	T1_Delay: autoDraw = False
+385.0605 	EXP 	T2_text: autoDraw = False
+385.0605 	EXP 	Gray_Square2: autoDraw = True
+385.0605 	EXP 	X_or_Y: autoDraw = True
+385.6629 	DATA 	Keypress: bracketright
+385.6669 	EXP 	New trial (rep=10, index=0): None
+385.6798 	EXP 	Gray_Square2: autoDraw = False
+385.6798 	EXP 	X_or_Y: autoDraw = False
+385.6798 	EXP 	Gray_Square3: autoDraw = True
+385.6798 	EXP 	text_3: autoDraw = True
+386.8667 	EXP 	Gray_Square3: autoDraw = False
+386.8667 	EXP 	text_3: autoDraw = False
+386.8667 	EXP 	Gray_Square3: autoDraw = False
+386.8667 	EXP 	text_3: autoDraw = False
+386.8667 	EXP 	T1_text: text = 'X'
+386.8667 	EXP 	T2_text: text = '1'
+386.8667 	EXP 	Gray_Square: autoDraw = True
+386.8667 	EXP 	T1_text: autoDraw = True
+386.9664 	EXP 	T1_text: autoDraw = False
+386.9837 	EXP 	T1_Delay: autoDraw = True
+387.7692 	EXP 	T1_Delay: autoDraw = False
+387.7692 	EXP 	T2_text: autoDraw = True
+389.6580 	DATA 	Keypress: z
+389.6757 	EXP 	Gray_Square: autoDraw = False
+389.6757 	EXP 	T1_text: autoDraw = False
+389.6757 	EXP 	T1_Delay: autoDraw = False
+389.6757 	EXP 	T2_text: autoDraw = False
+389.6757 	EXP 	Gray_Square2: autoDraw = True
+389.6757 	EXP 	X_or_Y: autoDraw = True
+390.2437 	DATA 	Keypress: bracketleft
+390.2477 	EXP 	New trial (rep=11, index=0): None
+390.2596 	EXP 	Gray_Square2: autoDraw = False
+390.2596 	EXP 	X_or_Y: autoDraw = False
+390.2596 	EXP 	Gray_Square3: autoDraw = True
+390.2596 	EXP 	text_3: autoDraw = True
+391.3467 	EXP 	Gray_Square3: autoDraw = False
+391.3467 	EXP 	text_3: autoDraw = False
+391.3467 	EXP 	Gray_Square3: autoDraw = False
+391.3467 	EXP 	text_3: autoDraw = False
+391.3467 	EXP 	T1_text: text = 'Y'
+391.3467 	EXP 	T2_text: text = '1'
+391.3467 	EXP 	Gray_Square: autoDraw = True
+391.3467 	EXP 	T1_text: autoDraw = True
+391.4464 	EXP 	T1_text: autoDraw = False
+391.4640 	EXP 	T1_Delay: autoDraw = True
+392.2488 	EXP 	T1_Delay: autoDraw = False
+392.2488 	EXP 	T2_text: autoDraw = True
+393.3190 	DATA 	Keypress: z
+393.3359 	EXP 	Gray_Square: autoDraw = False
+393.3359 	EXP 	T1_text: autoDraw = False
+393.3359 	EXP 	T1_Delay: autoDraw = False
+393.3359 	EXP 	T2_text: autoDraw = False
+393.3359 	EXP 	Gray_Square2: autoDraw = True
+393.3359 	EXP 	X_or_Y: autoDraw = True
+393.8213 	DATA 	Keypress: bracketright
+393.8255 	EXP 	New trial (rep=12, index=0): None
+393.8369 	EXP 	Gray_Square2: autoDraw = False
+393.8369 	EXP 	X_or_Y: autoDraw = False
+393.8369 	EXP 	Gray_Square3: autoDraw = True
+393.8369 	EXP 	text_3: autoDraw = True
+395.3916 	EXP 	Gray_Square3: autoDraw = False
+395.3916 	EXP 	text_3: autoDraw = False
+395.3916 	EXP 	Gray_Square3: autoDraw = False
+395.3916 	EXP 	text_3: autoDraw = False
+395.3916 	EXP 	T1_text: text = 'X'
+395.3916 	EXP 	T2_text: text = '2'
+395.3916 	EXP 	Gray_Square: autoDraw = True
+395.3916 	EXP 	T1_text: autoDraw = True
+395.4751 	EXP 	T1_text: autoDraw = False
+395.4924 	EXP 	T1_Delay: autoDraw = True
+396.2783 	EXP 	T1_Delay: autoDraw = False
+396.2783 	EXP 	T2_text: autoDraw = True
+398.2169 	DATA 	Keypress: slash
+398.2338 	EXP 	Gray_Square: autoDraw = False
+398.2338 	EXP 	T1_text: autoDraw = False
+398.2338 	EXP 	T1_Delay: autoDraw = False
+398.2338 	EXP 	T2_text: autoDraw = False
+398.2338 	EXP 	Gray_Square2: autoDraw = True
+398.2338 	EXP 	X_or_Y: autoDraw = True
+398.8855 	DATA 	Keypress: bracketleft
+398.8896 	EXP 	New trial (rep=13, index=0): None
+398.9025 	EXP 	Gray_Square2: autoDraw = False
+398.9025 	EXP 	X_or_Y: autoDraw = False
+398.9025 	EXP 	Gray_Square3: autoDraw = True
+398.9025 	EXP 	text_3: autoDraw = True
+400.8921 	EXP 	Gray_Square3: autoDraw = False
+400.8921 	EXP 	text_3: autoDraw = False
+400.8921 	EXP 	Gray_Square3: autoDraw = False
+400.8921 	EXP 	text_3: autoDraw = False
+400.8921 	EXP 	T1_text: text = 'Y'
+400.8921 	EXP 	T2_text: text = '2'
+400.8921 	EXP 	Gray_Square: autoDraw = True
+400.8921 	EXP 	T1_text: autoDraw = True
+400.9915 	EXP 	T1_text: autoDraw = False
+401.0089 	EXP 	T1_Delay: autoDraw = True
+401.7945 	EXP 	T1_Delay: autoDraw = False
+401.7945 	EXP 	T2_text: autoDraw = True
+403.9339 	DATA 	Keypress: slash
+403.9509 	EXP 	Gray_Square: autoDraw = False
+403.9509 	EXP 	T1_text: autoDraw = False
+403.9509 	EXP 	T1_Delay: autoDraw = False
+403.9509 	EXP 	T2_text: autoDraw = False
+403.9509 	EXP 	Gray_Square2: autoDraw = True
+403.9509 	EXP 	X_or_Y: autoDraw = True
+404.5190 	DATA 	Keypress: bracketright
+404.5230 	EXP 	New trial (rep=14, index=0): None
+404.5365 	EXP 	Gray_Square2: autoDraw = False
+404.5365 	EXP 	X_or_Y: autoDraw = False
+404.5365 	EXP 	Gray_Square3: autoDraw = True
+404.5365 	EXP 	text_3: autoDraw = True
+405.8226 	EXP 	Gray_Square3: autoDraw = False
+405.8226 	EXP 	text_3: autoDraw = False
+405.8226 	EXP 	Gray_Square3: autoDraw = False
+405.8226 	EXP 	text_3: autoDraw = False
+405.8226 	EXP 	T1_text: text = 'Y'
+405.8226 	EXP 	T2_text: text = '2'
+405.8226 	EXP 	Gray_Square: autoDraw = True
+405.8226 	EXP 	T1_text: autoDraw = True
+405.9228 	EXP 	T1_text: autoDraw = False
+405.9403 	EXP 	T1_Delay: autoDraw = True
+406.7252 	EXP 	T1_Delay: autoDraw = False
+406.7252 	EXP 	T2_text: autoDraw = True
+407.4778 	DATA 	Keypress: slash
+407.4947 	EXP 	Gray_Square: autoDraw = False
+407.4947 	EXP 	T1_text: autoDraw = False
+407.4947 	EXP 	T1_Delay: autoDraw = False
+407.4947 	EXP 	T2_text: autoDraw = False
+407.4947 	EXP 	Gray_Square2: autoDraw = True
+407.4947 	EXP 	X_or_Y: autoDraw = True
+407.8957 	DATA 	Keypress: bracketright
+407.8997 	EXP 	New trial (rep=15, index=0): None
+407.9128 	EXP 	Gray_Square2: autoDraw = False
+407.9128 	EXP 	X_or_Y: autoDraw = False
+407.9128 	EXP 	Gray_Square3: autoDraw = True
+407.9128 	EXP 	text_3: autoDraw = True
+409.3832 	EXP 	Gray_Square3: autoDraw = False
+409.3832 	EXP 	text_3: autoDraw = False
+409.3832 	EXP 	Gray_Square3: autoDraw = False
+409.3832 	EXP 	text_3: autoDraw = False
+409.3832 	EXP 	T1_text: text = 'X'
+409.3832 	EXP 	T2_text: text = '1'
+409.3832 	EXP 	Gray_Square: autoDraw = True
+409.3832 	EXP 	T1_text: autoDraw = True
+409.4667 	EXP 	T1_text: autoDraw = False
+409.4838 	EXP 	T1_Delay: autoDraw = True
+410.2688 	EXP 	T1_Delay: autoDraw = False
+410.2688 	EXP 	T2_text: autoDraw = True
+410.7876 	DATA 	Keypress: z
+410.8050 	EXP 	Gray_Square: autoDraw = False
+410.8050 	EXP 	T1_text: autoDraw = False
+410.8050 	EXP 	T1_Delay: autoDraw = False
+410.8050 	EXP 	T2_text: autoDraw = False
+410.8050 	EXP 	Gray_Square2: autoDraw = True
+410.8050 	EXP 	X_or_Y: autoDraw = True
+411.3560 	DATA 	Keypress: bracketleft
+411.3601 	EXP 	New trial (rep=16, index=0): None
+411.3729 	EXP 	Gray_Square2: autoDraw = False
+411.3729 	EXP 	X_or_Y: autoDraw = False
+411.3729 	EXP 	Gray_Square3: autoDraw = True
+411.3729 	EXP 	text_3: autoDraw = True
+412.9614 	EXP 	Gray_Square3: autoDraw = False
+412.9614 	EXP 	text_3: autoDraw = False
+412.9614 	EXP 	Gray_Square3: autoDraw = False
+412.9614 	EXP 	text_3: autoDraw = False
+412.9614 	EXP 	T1_text: text = 'Y'
+412.9614 	EXP 	T2_text: text = '2'
+412.9614 	EXP 	Gray_Square: autoDraw = True
+412.9614 	EXP 	T1_text: autoDraw = True
+413.0608 	EXP 	T1_text: autoDraw = False
+413.0781 	EXP 	T1_Delay: autoDraw = True
+413.8642 	EXP 	T1_Delay: autoDraw = False
+413.8642 	EXP 	T2_text: autoDraw = True
+414.9834 	DATA 	Keypress: slash
+415.0009 	EXP 	Gray_Square: autoDraw = False
+415.0009 	EXP 	T1_text: autoDraw = False
+415.0009 	EXP 	T1_Delay: autoDraw = False
+415.0009 	EXP 	T2_text: autoDraw = False
+415.0009 	EXP 	Gray_Square2: autoDraw = True
+415.0009 	EXP 	X_or_Y: autoDraw = True
+416.4211 	DATA 	Keypress: bracketright
+416.4251 	EXP 	New trial (rep=17, index=0): None
+416.4380 	EXP 	Gray_Square2: autoDraw = False
+416.4380 	EXP 	X_or_Y: autoDraw = False
+416.4380 	EXP 	Gray_Square3: autoDraw = True
+416.4380 	EXP 	text_3: autoDraw = True
+417.5575 	EXP 	Gray_Square3: autoDraw = False
+417.5575 	EXP 	text_3: autoDraw = False
+417.5575 	EXP 	Gray_Square3: autoDraw = False
+417.5575 	EXP 	text_3: autoDraw = False
+417.5575 	EXP 	T1_text: text = 'X'
+417.5575 	EXP 	T2_text: text = '1'
+417.5575 	EXP 	Gray_Square: autoDraw = True
+417.5575 	EXP 	T1_text: autoDraw = True
+417.6411 	EXP 	T1_text: autoDraw = False
+417.6582 	EXP 	T1_Delay: autoDraw = True
+418.4435 	EXP 	T1_Delay: autoDraw = False
+418.4435 	EXP 	T2_text: autoDraw = True
+420.5834 	DATA 	Keypress: z
+420.5998 	EXP 	Gray_Square: autoDraw = False
+420.5998 	EXP 	T1_text: autoDraw = False
+420.5998 	EXP 	T1_Delay: autoDraw = False
+420.5998 	EXP 	T2_text: autoDraw = False
+420.5998 	EXP 	Gray_Square2: autoDraw = True
+420.5998 	EXP 	X_or_Y: autoDraw = True
+421.0190 	DATA 	Keypress: bracketleft
+421.0391 	EXP 	New trial (rep=18, index=0): None
+421.0512 	EXP 	Gray_Square2: autoDraw = False
+421.0512 	EXP 	X_or_Y: autoDraw = False
+421.0512 	EXP 	Gray_Square3: autoDraw = True
+421.0512 	EXP 	text_3: autoDraw = True
+422.6058 	EXP 	Gray_Square3: autoDraw = False
+422.6058 	EXP 	text_3: autoDraw = False
+422.6058 	EXP 	Gray_Square3: autoDraw = False
+422.6058 	EXP 	text_3: autoDraw = False
+422.6058 	EXP 	T1_text: text = 'Y'
+422.6058 	EXP 	T2_text: text = '1'
+422.6058 	EXP 	Gray_Square: autoDraw = True
+422.6058 	EXP 	T1_text: autoDraw = True
+422.7061 	EXP 	T1_text: autoDraw = False
+422.7234 	EXP 	T1_Delay: autoDraw = True
+423.5085 	EXP 	T1_Delay: autoDraw = False
+423.5085 	EXP 	T2_text: autoDraw = True
+424.1115 	DATA 	Keypress: z
+424.1270 	EXP 	Gray_Square: autoDraw = False
+424.1270 	EXP 	T1_text: autoDraw = False
+424.1270 	EXP 	T1_Delay: autoDraw = False
+424.1270 	EXP 	T2_text: autoDraw = False
+424.1270 	EXP 	Gray_Square2: autoDraw = True
+424.1270 	EXP 	X_or_Y: autoDraw = True
+424.5787 	DATA 	Keypress: bracketright
+424.5826 	EXP 	New trial (rep=19, index=0): None
+424.5958 	EXP 	Gray_Square2: autoDraw = False
+424.5958 	EXP 	X_or_Y: autoDraw = False
+424.5958 	EXP 	Gray_Square3: autoDraw = True
+424.5958 	EXP 	text_3: autoDraw = True
+426.1664 	EXP 	Gray_Square3: autoDraw = False
+426.1664 	EXP 	text_3: autoDraw = False
+426.1664 	EXP 	Gray_Square3: autoDraw = False
+426.1664 	EXP 	text_3: autoDraw = False
+426.1664 	EXP 	T1_text: text = 'X'
+426.1664 	EXP 	T2_text: text = '2'
+426.1664 	EXP 	Gray_Square: autoDraw = True
+426.1664 	EXP 	T1_text: autoDraw = True
+426.2500 	EXP 	T1_text: autoDraw = False
+426.2674 	EXP 	T1_Delay: autoDraw = True
+427.0530 	EXP 	T1_Delay: autoDraw = False
+427.0530 	EXP 	T2_text: autoDraw = True
+428.5068 	DATA 	Keypress: z
+428.5237 	EXP 	Gray_Square: autoDraw = False
+428.5237 	EXP 	T1_text: autoDraw = False
+428.5237 	EXP 	T1_Delay: autoDraw = False
+428.5237 	EXP 	T2_text: autoDraw = False
+428.5237 	EXP 	Gray_Square2: autoDraw = True
+428.5237 	EXP 	X_or_Y: autoDraw = True
+429.0416 	DATA 	Keypress: bracketright
+429.0457 	EXP 	New trial (rep=20, index=0): None
+429.0581 	EXP 	Gray_Square2: autoDraw = False
+429.0581 	EXP 	X_or_Y: autoDraw = False
+429.0581 	EXP 	Gray_Square3: autoDraw = True
+429.0581 	EXP 	text_3: autoDraw = True
+430.0784 	EXP 	Gray_Square3: autoDraw = False
+430.0784 	EXP 	text_3: autoDraw = False
+430.0784 	EXP 	Gray_Square3: autoDraw = False
+430.0784 	EXP 	text_3: autoDraw = False
+430.0784 	EXP 	T1_text: text = '#'
+430.0784 	EXP 	T2_text: text = '2'
+430.0784 	EXP 	Gray_Square: autoDraw = True
+430.0784 	EXP 	T1_text: autoDraw = True
+430.1781 	EXP 	T1_text: autoDraw = False
+430.1950 	EXP 	T1_Delay: autoDraw = True
+430.9816 	EXP 	T1_Delay: autoDraw = False
+430.9816 	EXP 	T2_text: autoDraw = True
+433.9401 	DATA 	Keypress: slash
+433.9457 	EXP 	New trial (rep=21, index=0): None
+433.9561 	EXP 	Gray_Square: autoDraw = False
+433.9561 	EXP 	T1_text: autoDraw = False
+433.9561 	EXP 	T1_Delay: autoDraw = False
+433.9561 	EXP 	T2_text: autoDraw = False
+433.9561 	EXP 	Gray_Square2: autoDraw = False
+433.9561 	EXP 	X_or_Y: autoDraw = False
+433.9561 	EXP 	Gray_Square3: autoDraw = True
+433.9561 	EXP 	text_3: autoDraw = True
+434.5748 	DATA 	Keypress: bracketleft
+435.4274 	EXP 	Gray_Square3: autoDraw = False
+435.4274 	EXP 	text_3: autoDraw = False
+435.4274 	EXP 	Gray_Square3: autoDraw = False
+435.4274 	EXP 	text_3: autoDraw = False
+435.4274 	EXP 	T1_text: text = 'X'
+435.4274 	EXP 	T2_text: text = '1'
+435.4274 	EXP 	Gray_Square: autoDraw = True
+435.4274 	EXP 	T1_text: autoDraw = True
+435.5107 	EXP 	T1_text: autoDraw = False
+435.5287 	EXP 	T1_Delay: autoDraw = True
+436.3480 	EXP 	T1_Delay: autoDraw = False
+436.3480 	EXP 	T2_text: autoDraw = True
+437.7515 	DATA 	Keypress: z
+437.7847 	EXP 	Gray_Square: autoDraw = False
+437.7847 	EXP 	T1_text: autoDraw = False
+437.7847 	EXP 	T1_Delay: autoDraw = False
+437.7847 	EXP 	T2_text: autoDraw = False
+437.7847 	EXP 	Gray_Square2: autoDraw = True
+437.7847 	EXP 	X_or_Y: autoDraw = True
+438.1862 	DATA 	Keypress: bracketleft
+438.1902 	EXP 	New trial (rep=22, index=0): None
+438.2193 	EXP 	Gray_Square2: autoDraw = False
+438.2193 	EXP 	X_or_Y: autoDraw = False
+438.2193 	EXP 	Gray_Square3: autoDraw = True
+438.2193 	EXP 	text_3: autoDraw = True
+439.3226 	EXP 	Gray_Square3: autoDraw = False
+439.3226 	EXP 	text_3: autoDraw = False
+439.3226 	EXP 	Gray_Square3: autoDraw = False
+439.3226 	EXP 	text_3: autoDraw = False
+439.3226 	EXP 	T1_text: text = 'Y'
+439.3226 	EXP 	T2_text: text = '2'
+439.3226 	EXP 	Gray_Square: autoDraw = True
+439.3226 	EXP 	T1_text: autoDraw = True
+439.3894 	EXP 	T1_text: autoDraw = False
+439.4229 	EXP 	T1_Delay: autoDraw = True
+440.1918 	EXP 	T1_Delay: autoDraw = False
+440.1918 	EXP 	T2_text: autoDraw = True
+441.6294 	DATA 	Keypress: slash
+441.6465 	EXP 	Gray_Square: autoDraw = False
+441.6465 	EXP 	T1_text: autoDraw = False
+441.6465 	EXP 	T1_Delay: autoDraw = False
+441.6465 	EXP 	T2_text: autoDraw = False
+441.6465 	EXP 	Gray_Square2: autoDraw = True
+441.6465 	EXP 	X_or_Y: autoDraw = True
+442.0808 	DATA 	Keypress: bracketright
+442.0848 	EXP 	New trial (rep=23, index=0): None
+442.0982 	EXP 	Gray_Square2: autoDraw = False
+442.0982 	EXP 	X_or_Y: autoDraw = False
+442.0982 	EXP 	Gray_Square3: autoDraw = True
+442.0982 	EXP 	text_3: autoDraw = True
+443.9527 	EXP 	Gray_Square3: autoDraw = False
+443.9527 	EXP 	text_3: autoDraw = False
+443.9527 	EXP 	Gray_Square3: autoDraw = False
+443.9527 	EXP 	text_3: autoDraw = False
+443.9527 	EXP 	T1_text: text = '#'
+443.9527 	EXP 	T2_text: text = '1'
+443.9527 	EXP 	Gray_Square: autoDraw = True
+443.9527 	EXP 	T1_text: autoDraw = True
+444.0363 	EXP 	T1_text: autoDraw = False
+444.0535 	EXP 	T1_Delay: autoDraw = True
+444.8394 	EXP 	T1_Delay: autoDraw = False
+444.8394 	EXP 	T2_text: autoDraw = True
+446.3268 	DATA 	Keypress: z
+446.3325 	EXP 	New trial (rep=24, index=0): None
+446.3437 	EXP 	Gray_Square: autoDraw = False
+446.3437 	EXP 	T1_text: autoDraw = False
+446.3437 	EXP 	T1_Delay: autoDraw = False
+446.3437 	EXP 	T2_text: autoDraw = False
+446.3437 	EXP 	Gray_Square2: autoDraw = False
+446.3437 	EXP 	X_or_Y: autoDraw = False
+446.3437 	EXP 	Gray_Square3: autoDraw = True
+446.3437 	EXP 	text_3: autoDraw = True
+448.1151 	EXP 	Gray_Square3: autoDraw = False
+448.1151 	EXP 	text_3: autoDraw = False
+448.1151 	EXP 	Gray_Square3: autoDraw = False
+448.1151 	EXP 	text_3: autoDraw = False
+448.1151 	EXP 	T1_text: text = '#'
+448.1151 	EXP 	T2_text: text = '1'
+448.1151 	EXP 	Gray_Square: autoDraw = True
+448.1151 	EXP 	T1_text: autoDraw = True
+448.2154 	EXP 	T1_text: autoDraw = False
+448.2321 	EXP 	T1_Delay: autoDraw = True
+449.0184 	EXP 	T1_Delay: autoDraw = False
+449.0184 	EXP 	T2_text: autoDraw = True
+449.7544 	DATA 	Keypress: z
+449.7600 	EXP 	New trial (rep=25, index=0): None
+449.7700 	EXP 	Gray_Square: autoDraw = False
+449.7700 	EXP 	T1_text: autoDraw = False
+449.7700 	EXP 	T1_Delay: autoDraw = False
+449.7700 	EXP 	T2_text: autoDraw = False
+449.7700 	EXP 	Gray_Square2: autoDraw = False
+449.7700 	EXP 	X_or_Y: autoDraw = False
+449.7700 	EXP 	Gray_Square3: autoDraw = True
+449.7700 	EXP 	text_3: autoDraw = True
+450.9244 	EXP 	Gray_Square3: autoDraw = False
+450.9244 	EXP 	text_3: autoDraw = False
+450.9244 	EXP 	Gray_Square3: autoDraw = False
+450.9244 	EXP 	text_3: autoDraw = False
+450.9244 	EXP 	T1_text: text = 'Y'
+450.9244 	EXP 	T2_text: text = '2'
+450.9244 	EXP 	Gray_Square: autoDraw = True
+450.9244 	EXP 	T1_text: autoDraw = True
+451.0242 	EXP 	T1_text: autoDraw = False
+451.0404 	EXP 	T1_Delay: autoDraw = True
+451.8094 	EXP 	T1_Delay: autoDraw = False
+451.8094 	EXP 	T2_text: autoDraw = True
+452.5954 	DATA 	Keypress: slash
+452.6126 	EXP 	Gray_Square: autoDraw = False
+452.6126 	EXP 	T1_text: autoDraw = False
+452.6126 	EXP 	T1_Delay: autoDraw = False
+452.6126 	EXP 	T2_text: autoDraw = False
+452.6126 	EXP 	Gray_Square2: autoDraw = True
+452.6126 	EXP 	X_or_Y: autoDraw = True
+452.8628 	DATA 	Keypress: bracketright
+452.8668 	EXP 	New trial (rep=26, index=0): None
+452.8801 	EXP 	Gray_Square2: autoDraw = False
+452.8801 	EXP 	X_or_Y: autoDraw = False
+452.8801 	EXP 	Gray_Square3: autoDraw = True
+452.8801 	EXP 	text_3: autoDraw = True
+454.4852 	EXP 	Gray_Square3: autoDraw = False
+454.4852 	EXP 	text_3: autoDraw = False
+454.4852 	EXP 	Gray_Square3: autoDraw = False
+454.4852 	EXP 	text_3: autoDraw = False
+454.4852 	EXP 	T1_text: text = 'Y'
+454.4852 	EXP 	T2_text: text = '2'
+454.4852 	EXP 	Gray_Square: autoDraw = True
+454.4852 	EXP 	T1_text: autoDraw = True
+454.5844 	EXP 	T1_text: autoDraw = False
+454.6017 	EXP 	T1_Delay: autoDraw = True
+455.3868 	EXP 	T1_Delay: autoDraw = False
+455.3868 	EXP 	T2_text: autoDraw = True
+456.3241 	DATA 	Keypress: slash
+456.3396 	EXP 	Gray_Square: autoDraw = False
+456.3396 	EXP 	T1_text: autoDraw = False
+456.3396 	EXP 	T1_Delay: autoDraw = False
+456.3396 	EXP 	T2_text: autoDraw = False
+456.3396 	EXP 	Gray_Square2: autoDraw = True
+456.3396 	EXP 	X_or_Y: autoDraw = True
+456.6407 	DATA 	Keypress: bracketright
+456.6448 	EXP 	New trial (rep=27, index=0): None
+456.6580 	EXP 	Gray_Square2: autoDraw = False
+456.6580 	EXP 	X_or_Y: autoDraw = False
+456.6580 	EXP 	Gray_Square3: autoDraw = True
+456.6580 	EXP 	text_3: autoDraw = True
+458.6130 	EXP 	Gray_Square3: autoDraw = False
+458.6130 	EXP 	text_3: autoDraw = False
+458.6130 	EXP 	Gray_Square3: autoDraw = False
+458.6130 	EXP 	text_3: autoDraw = False
+458.6130 	EXP 	T1_text: text = '#'
+458.6130 	EXP 	T2_text: text = '1'
+458.6130 	EXP 	Gray_Square: autoDraw = True
+458.6130 	EXP 	T1_text: autoDraw = True
+458.6966 	EXP 	T1_text: autoDraw = False
+458.7140 	EXP 	T1_Delay: autoDraw = True
+459.4999 	EXP 	T1_Delay: autoDraw = False
+459.4999 	EXP 	T2_text: autoDraw = True
+460.3524 	DATA 	Keypress: slash
+460.3580 	EXP 	New trial (rep=28, index=0): None
+460.3682 	EXP 	Gray_Square: autoDraw = False
+460.3682 	EXP 	T1_text: autoDraw = False
+460.3682 	EXP 	T1_Delay: autoDraw = False
+460.3682 	EXP 	T2_text: autoDraw = False
+460.3682 	EXP 	Gray_Square2: autoDraw = False
+460.3682 	EXP 	X_or_Y: autoDraw = False
+460.3682 	EXP 	Gray_Square3: autoDraw = True
+460.3682 	EXP 	text_3: autoDraw = True
+462.1067 	EXP 	Gray_Square3: autoDraw = False
+462.1067 	EXP 	text_3: autoDraw = False
+462.1067 	EXP 	Gray_Square3: autoDraw = False
+462.1067 	EXP 	text_3: autoDraw = False
+462.1067 	EXP 	T1_text: text = 'Y'
+462.1067 	EXP 	T2_text: text = '1'
+462.1067 	EXP 	Gray_Square: autoDraw = True
+462.1067 	EXP 	T1_text: autoDraw = True
+462.2070 	EXP 	T1_text: autoDraw = False
+462.2241 	EXP 	T1_Delay: autoDraw = True
+463.0103 	EXP 	T1_Delay: autoDraw = False
+463.0103 	EXP 	T2_text: autoDraw = True
+463.6951 	DATA 	Keypress: z
+463.7126 	EXP 	Gray_Square: autoDraw = False
+463.7126 	EXP 	T1_text: autoDraw = False
+463.7126 	EXP 	T1_Delay: autoDraw = False
+463.7126 	EXP 	T2_text: autoDraw = False
+463.7126 	EXP 	Gray_Square2: autoDraw = True
+463.7126 	EXP 	X_or_Y: autoDraw = True
+464.1966 	DATA 	Keypress: bracketright
+464.2006 	EXP 	New trial (rep=29, index=0): None
+464.2135 	EXP 	Gray_Square2: autoDraw = False
+464.2135 	EXP 	X_or_Y: autoDraw = False
+464.2135 	EXP 	Gray_Square3: autoDraw = True
+464.2135 	EXP 	text_3: autoDraw = True
+465.5007 	EXP 	Gray_Square3: autoDraw = False
+465.5007 	EXP 	text_3: autoDraw = False
+465.5007 	EXP 	Gray_Square3: autoDraw = False
+465.5007 	EXP 	text_3: autoDraw = False
+465.5007 	EXP 	T1_text: text = 'Y'
+465.5007 	EXP 	T2_text: text = '1'
+465.5007 	EXP 	Gray_Square: autoDraw = True
+465.5007 	EXP 	T1_text: autoDraw = True
+465.6004 	EXP 	T1_text: autoDraw = False
+465.6179 	EXP 	T1_Delay: autoDraw = True
+466.4028 	EXP 	T1_Delay: autoDraw = False
+466.4028 	EXP 	T2_text: autoDraw = True
+467.3068 	DATA 	Keypress: z
+467.3398 	EXP 	Gray_Square: autoDraw = False
+467.3398 	EXP 	T1_text: autoDraw = False
+467.3398 	EXP 	T1_Delay: autoDraw = False
+467.3398 	EXP 	T2_text: autoDraw = False
+467.3398 	EXP 	Gray_Square2: autoDraw = True
+467.3398 	EXP 	X_or_Y: autoDraw = True
+467.8240 	DATA 	Keypress: bracketright
+467.8281 	EXP 	New trial (rep=30, index=0): None
+467.8410 	EXP 	Gray_Square2: autoDraw = False
+467.8410 	EXP 	X_or_Y: autoDraw = False
+467.8410 	EXP 	Gray_Square3: autoDraw = True
+467.8410 	EXP 	text_3: autoDraw = True
+469.6465 	EXP 	Gray_Square3: autoDraw = False
+469.6465 	EXP 	text_3: autoDraw = False
+469.6465 	EXP 	Gray_Square3: autoDraw = False
+469.6465 	EXP 	text_3: autoDraw = False
+469.6465 	EXP 	T1_text: text = 'Y'
+469.6465 	EXP 	T2_text: text = '1'
+469.6465 	EXP 	Gray_Square: autoDraw = True
+469.6465 	EXP 	T1_text: autoDraw = True
+469.7461 	EXP 	T1_text: autoDraw = False
+469.7634 	EXP 	T1_Delay: autoDraw = True
+470.5493 	EXP 	T1_Delay: autoDraw = False
+470.5493 	EXP 	T2_text: autoDraw = True
+471.1840 	DATA 	Keypress: z
+471.2009 	EXP 	Gray_Square: autoDraw = False
+471.2009 	EXP 	T1_text: autoDraw = False
+471.2009 	EXP 	T1_Delay: autoDraw = False
+471.2009 	EXP 	T2_text: autoDraw = False
+471.2009 	EXP 	Gray_Square2: autoDraw = True
+471.2009 	EXP 	X_or_Y: autoDraw = True
+471.6521 	DATA 	Keypress: bracketright
+471.6561 	EXP 	New trial (rep=31, index=0): None
+471.6695 	EXP 	Gray_Square2: autoDraw = False
+471.6695 	EXP 	X_or_Y: autoDraw = False
+471.6695 	EXP 	Gray_Square3: autoDraw = True
+471.6695 	EXP 	text_3: autoDraw = True
+473.1396 	EXP 	Gray_Square3: autoDraw = False
+473.1396 	EXP 	text_3: autoDraw = False
+473.1396 	EXP 	Gray_Square3: autoDraw = False
+473.1396 	EXP 	text_3: autoDraw = False
+473.1396 	EXP 	T1_text: text = 'Y'
+473.1396 	EXP 	T2_text: text = '1'
+473.1396 	EXP 	Gray_Square: autoDraw = True
+473.1396 	EXP 	T1_text: autoDraw = True
+473.2399 	EXP 	T1_text: autoDraw = False
+473.2573 	EXP 	T1_Delay: autoDraw = True
+474.0423 	EXP 	T1_Delay: autoDraw = False
+474.0423 	EXP 	T2_text: autoDraw = True
+474.5942 	DATA 	Keypress: z
+474.6111 	EXP 	Gray_Square: autoDraw = False
+474.6111 	EXP 	T1_text: autoDraw = False
+474.6111 	EXP 	T1_Delay: autoDraw = False
+474.6111 	EXP 	T2_text: autoDraw = False
+474.6111 	EXP 	Gray_Square2: autoDraw = True
+474.6111 	EXP 	X_or_Y: autoDraw = True
+475.0288 	DATA 	Keypress: bracketright
+475.0328 	EXP 	New trial (rep=32, index=0): None
+475.0464 	EXP 	Gray_Square2: autoDraw = False
+475.0464 	EXP 	X_or_Y: autoDraw = False
+475.0464 	EXP 	Gray_Square3: autoDraw = True
+475.0464 	EXP 	text_3: autoDraw = True
+476.8514 	EXP 	Gray_Square3: autoDraw = False
+476.8514 	EXP 	text_3: autoDraw = False
+476.8514 	EXP 	Gray_Square3: autoDraw = False
+476.8514 	EXP 	text_3: autoDraw = False
+476.8514 	EXP 	T1_text: text = '#'
+476.8514 	EXP 	T2_text: text = '2'
+476.8514 	EXP 	Gray_Square: autoDraw = True
+476.8514 	EXP 	T1_text: autoDraw = True
+476.9342 	EXP 	T1_text: autoDraw = False
+476.9513 	EXP 	T1_Delay: autoDraw = True
+477.7366 	EXP 	T1_Delay: autoDraw = False
+477.7366 	EXP 	T2_text: autoDraw = True
+479.4085 	DATA 	Keypress: slash
+479.4141 	EXP 	New trial (rep=33, index=0): None
+479.4259 	EXP 	Gray_Square: autoDraw = False
+479.4259 	EXP 	T1_text: autoDraw = False
+479.4259 	EXP 	T1_Delay: autoDraw = False
+479.4259 	EXP 	T2_text: autoDraw = False
+479.4259 	EXP 	Gray_Square2: autoDraw = False
+479.4259 	EXP 	X_or_Y: autoDraw = False
+479.4259 	EXP 	Gray_Square3: autoDraw = True
+479.4259 	EXP 	text_3: autoDraw = True
+480.8133 	EXP 	Gray_Square3: autoDraw = False
+480.8133 	EXP 	text_3: autoDraw = False
+480.8133 	EXP 	Gray_Square3: autoDraw = False
+480.8133 	EXP 	text_3: autoDraw = False
+480.8133 	EXP 	T1_text: text = 'X'
+480.8133 	EXP 	T2_text: text = '1'
+480.8133 	EXP 	Gray_Square: autoDraw = True
+480.8133 	EXP 	T1_text: autoDraw = True
+480.8956 	EXP 	T1_text: autoDraw = False
+480.9124 	EXP 	T1_Delay: autoDraw = True
+481.6984 	EXP 	T1_Delay: autoDraw = False
+481.6984 	EXP 	T2_text: autoDraw = True
+482.3673 	DATA 	Keypress: z
+482.3842 	EXP 	Gray_Square: autoDraw = False
+482.3842 	EXP 	T1_text: autoDraw = False
+482.3842 	EXP 	T1_Delay: autoDraw = False
+482.3842 	EXP 	T2_text: autoDraw = False
+482.3842 	EXP 	Gray_Square2: autoDraw = True
+482.3842 	EXP 	X_or_Y: autoDraw = True
+483.4205 	DATA 	Keypress: bracketleft
+483.4245 	EXP 	New trial (rep=34, index=0): None
+483.4374 	EXP 	Gray_Square2: autoDraw = False
+483.4374 	EXP 	X_or_Y: autoDraw = False
+483.4374 	EXP 	Gray_Square3: autoDraw = True
+483.4374 	EXP 	text_3: autoDraw = True
+484.7587 	EXP 	Gray_Square3: autoDraw = False
+484.7587 	EXP 	text_3: autoDraw = False
+484.7587 	EXP 	Gray_Square3: autoDraw = False
+484.7587 	EXP 	text_3: autoDraw = False
+484.7587 	EXP 	T1_text: text = '#'
+484.7587 	EXP 	T2_text: text = '1'
+484.7587 	EXP 	Gray_Square: autoDraw = True
+484.7587 	EXP 	T1_text: autoDraw = True
+484.8578 	EXP 	T1_text: autoDraw = False
+484.8751 	EXP 	T1_Delay: autoDraw = True
+485.6601 	EXP 	T1_Delay: autoDraw = False
+485.6601 	EXP 	T2_text: autoDraw = True
+486.5130 	DATA 	Keypress: z
+486.5186 	EXP 	New trial (rep=35, index=0): None
+486.5299 	EXP 	Gray_Square: autoDraw = False
+486.5299 	EXP 	T1_text: autoDraw = False
+486.5299 	EXP 	T1_Delay: autoDraw = False
+486.5299 	EXP 	T2_text: autoDraw = False
+486.5299 	EXP 	Gray_Square2: autoDraw = False
+486.5299 	EXP 	X_or_Y: autoDraw = False
+486.5299 	EXP 	Gray_Square3: autoDraw = True
+486.5299 	EXP 	text_3: autoDraw = True
+487.7330 	EXP 	Gray_Square3: autoDraw = False
+487.7330 	EXP 	text_3: autoDraw = False
+487.7330 	EXP 	Gray_Square3: autoDraw = False
+487.7330 	EXP 	text_3: autoDraw = False
+487.7330 	EXP 	T1_text: text = 'X'
+487.7330 	EXP 	T2_text: text = '1'
+487.7330 	EXP 	Gray_Square: autoDraw = True
+487.7330 	EXP 	T1_text: autoDraw = True
+487.8333 	EXP 	T1_text: autoDraw = False
+487.8506 	EXP 	T1_Delay: autoDraw = True
+488.6361 	EXP 	T1_Delay: autoDraw = False
+488.6361 	EXP 	T2_text: autoDraw = True
+489.2211 	DATA 	Keypress: z
+489.2386 	EXP 	Gray_Square: autoDraw = False
+489.2386 	EXP 	T1_text: autoDraw = False
+489.2386 	EXP 	T1_Delay: autoDraw = False
+489.2386 	EXP 	T2_text: autoDraw = False
+489.2386 	EXP 	Gray_Square2: autoDraw = True
+489.2386 	EXP 	X_or_Y: autoDraw = True
+489.7727 	DATA 	Keypress: bracketleft
+489.7767 	EXP 	New trial (rep=36, index=0): None
+489.7899 	EXP 	Gray_Square2: autoDraw = False
+489.7899 	EXP 	X_or_Y: autoDraw = False
+489.7899 	EXP 	Gray_Square3: autoDraw = True
+489.7899 	EXP 	text_3: autoDraw = True
+491.0592 	EXP 	Gray_Square3: autoDraw = False
+491.0592 	EXP 	text_3: autoDraw = False
+491.0592 	EXP 	Gray_Square3: autoDraw = False
+491.0592 	EXP 	text_3: autoDraw = False
+491.0592 	EXP 	T1_text: text = 'X'
+491.0592 	EXP 	T2_text: text = '2'
+491.0592 	EXP 	Gray_Square: autoDraw = True
+491.0592 	EXP 	T1_text: autoDraw = True
+491.1595 	EXP 	T1_text: autoDraw = False
+491.1763 	EXP 	T1_Delay: autoDraw = True
+491.9622 	EXP 	T1_Delay: autoDraw = False
+491.9622 	EXP 	T2_text: autoDraw = True
+492.7817 	DATA 	Keypress: slash
+492.7989 	EXP 	Gray_Square: autoDraw = False
+492.7989 	EXP 	T1_text: autoDraw = False
+492.7989 	EXP 	T1_Delay: autoDraw = False
+492.7989 	EXP 	T2_text: autoDraw = False
+492.7989 	EXP 	Gray_Square2: autoDraw = True
+492.7989 	EXP 	X_or_Y: autoDraw = True
+493.2831 	DATA 	Keypress: bracketleft
+493.2872 	EXP 	New trial (rep=37, index=0): None
+493.3006 	EXP 	Gray_Square2: autoDraw = False
+493.3006 	EXP 	X_or_Y: autoDraw = False
+493.3006 	EXP 	Gray_Square3: autoDraw = True
+493.3006 	EXP 	text_3: autoDraw = True
+494.7547 	EXP 	Gray_Square3: autoDraw = False
+494.7547 	EXP 	text_3: autoDraw = False
+494.7547 	EXP 	Gray_Square3: autoDraw = False
+494.7547 	EXP 	text_3: autoDraw = False
+494.7547 	EXP 	T1_text: text = 'Y'
+494.7547 	EXP 	T2_text: text = '1'
+494.7547 	EXP 	Gray_Square: autoDraw = True
+494.7547 	EXP 	T1_text: autoDraw = True
+494.8371 	EXP 	T1_text: autoDraw = False
+494.8539 	EXP 	T1_Delay: autoDraw = True
+495.6395 	EXP 	T1_Delay: autoDraw = False
+495.6395 	EXP 	T2_text: autoDraw = True
+496.6264 	DATA 	Keypress: z
+496.6429 	EXP 	Gray_Square: autoDraw = False
+496.6429 	EXP 	T1_text: autoDraw = False
+496.6429 	EXP 	T1_Delay: autoDraw = False
+496.6429 	EXP 	T2_text: autoDraw = False
+496.6429 	EXP 	Gray_Square2: autoDraw = True
+496.6429 	EXP 	X_or_Y: autoDraw = True
+497.1462 	DATA 	Keypress: bracketright
+497.1651 	EXP 	New trial (rep=38, index=0): None
+497.1789 	EXP 	Gray_Square2: autoDraw = False
+497.1789 	EXP 	X_or_Y: autoDraw = False
+497.1789 	EXP 	Gray_Square3: autoDraw = True
+497.1789 	EXP 	text_3: autoDraw = True
+499.1002 	EXP 	Gray_Square3: autoDraw = False
+499.1002 	EXP 	text_3: autoDraw = False
+499.1002 	EXP 	Gray_Square3: autoDraw = False
+499.1002 	EXP 	text_3: autoDraw = False
+499.1002 	EXP 	T1_text: text = 'X'
+499.1002 	EXP 	T2_text: text = '1'
+499.1002 	EXP 	Gray_Square: autoDraw = True
+499.1002 	EXP 	T1_text: autoDraw = True
+499.2010 	EXP 	T1_text: autoDraw = False
+499.2172 	EXP 	T1_Delay: autoDraw = True
+500.0039 	EXP 	T1_Delay: autoDraw = False
+500.0039 	EXP 	T2_text: autoDraw = True
+501.6589 	DATA 	Keypress: z
+501.6745 	EXP 	Gray_Square: autoDraw = False
+501.6745 	EXP 	T1_text: autoDraw = False
+501.6745 	EXP 	T1_Delay: autoDraw = False
+501.6745 	EXP 	T2_text: autoDraw = False
+501.6745 	EXP 	Gray_Square2: autoDraw = True
+501.6745 	EXP 	X_or_Y: autoDraw = True
+502.5608 	DATA 	Keypress: bracketleft
+502.5648 	EXP 	New trial (rep=39, index=0): None
+502.5783 	EXP 	Gray_Square2: autoDraw = False
+502.5783 	EXP 	X_or_Y: autoDraw = False
+502.5783 	EXP 	Gray_Square3: autoDraw = True
+502.5783 	EXP 	text_3: autoDraw = True
+504.3500 	EXP 	Gray_Square3: autoDraw = False
+504.3500 	EXP 	text_3: autoDraw = False
+504.3500 	EXP 	Gray_Square3: autoDraw = False
+504.3500 	EXP 	text_3: autoDraw = False
+504.3500 	EXP 	T1_text: text = 'Y'
+504.3500 	EXP 	T2_text: text = '2'
+504.3500 	EXP 	Gray_Square: autoDraw = True
+504.3500 	EXP 	T1_text: autoDraw = True
+504.4327 	EXP 	T1_text: autoDraw = False
+504.4498 	EXP 	T1_Delay: autoDraw = True
+505.2351 	EXP 	T1_Delay: autoDraw = False
+505.2351 	EXP 	T2_text: autoDraw = True
+506.3059 	DATA 	Keypress: slash
+506.3380 	EXP 	Gray_Square: autoDraw = False
+506.3380 	EXP 	T1_text: autoDraw = False
+506.3380 	EXP 	T1_Delay: autoDraw = False
+506.3380 	EXP 	T2_text: autoDraw = False
+506.3380 	EXP 	Gray_Square2: autoDraw = True
+506.3380 	EXP 	X_or_Y: autoDraw = True
+506.6563 	DATA 	Keypress: bracketright
+506.6603 	EXP 	New trial (rep=40, index=0): None
+506.6733 	EXP 	Gray_Square2: autoDraw = False
+506.6733 	EXP 	X_or_Y: autoDraw = False
+506.6733 	EXP 	Gray_Square3: autoDraw = True
+506.6733 	EXP 	text_3: autoDraw = True
+508.6118 	EXP 	Gray_Square3: autoDraw = False
+508.6118 	EXP 	text_3: autoDraw = False
+508.6118 	EXP 	Gray_Square3: autoDraw = False
+508.6118 	EXP 	text_3: autoDraw = False
+508.6118 	EXP 	T1_text: text = 'X'
+508.6118 	EXP 	T2_text: text = '2'
+508.6118 	EXP 	Gray_Square: autoDraw = True
+508.6118 	EXP 	T1_text: autoDraw = True
+508.7121 	EXP 	T1_text: autoDraw = False
+508.7296 	EXP 	T1_Delay: autoDraw = True
+509.5145 	EXP 	T1_Delay: autoDraw = False
+509.5145 	EXP 	T2_text: autoDraw = True
+510.7852 	DATA 	Keypress: slash
+510.8027 	EXP 	Gray_Square: autoDraw = False
+510.8027 	EXP 	T1_text: autoDraw = False
+510.8027 	EXP 	T1_Delay: autoDraw = False
+510.8027 	EXP 	T2_text: autoDraw = False
+510.8027 	EXP 	Gray_Square2: autoDraw = True
+510.8027 	EXP 	X_or_Y: autoDraw = True
+511.2362 	DATA 	Keypress: bracketleft
+511.2403 	EXP 	New trial (rep=41, index=0): None
+511.2527 	EXP 	Gray_Square2: autoDraw = False
+511.2527 	EXP 	X_or_Y: autoDraw = False
+511.2527 	EXP 	Gray_Square3: autoDraw = True
+511.2527 	EXP 	text_3: autoDraw = True
+513.2098 	EXP 	Gray_Square3: autoDraw = False
+513.2098 	EXP 	text_3: autoDraw = False
+513.2098 	EXP 	Gray_Square3: autoDraw = False
+513.2098 	EXP 	text_3: autoDraw = False
+513.2098 	EXP 	T1_text: text = 'X'
+513.2098 	EXP 	T2_text: text = '2'
+513.2098 	EXP 	Gray_Square: autoDraw = True
+513.2098 	EXP 	T1_text: autoDraw = True
+513.3091 	EXP 	T1_text: autoDraw = False
+513.3262 	EXP 	T1_Delay: autoDraw = True
+514.1115 	EXP 	T1_Delay: autoDraw = False
+514.1115 	EXP 	T2_text: autoDraw = True
+515.2819 	DATA 	Keypress: slash
+515.2989 	EXP 	Gray_Square: autoDraw = False
+515.2989 	EXP 	T1_text: autoDraw = False
+515.2989 	EXP 	T1_Delay: autoDraw = False
+515.2989 	EXP 	T2_text: autoDraw = False
+515.2989 	EXP 	Gray_Square2: autoDraw = True
+515.2989 	EXP 	X_or_Y: autoDraw = True
+515.7842 	DATA 	Keypress: bracketleft
+515.7883 	EXP 	New trial (rep=42, index=0): None
+515.7999 	EXP 	Gray_Square2: autoDraw = False
+515.7999 	EXP 	X_or_Y: autoDraw = False
+515.7999 	EXP 	Gray_Square3: autoDraw = True
+515.7999 	EXP 	text_3: autoDraw = True
+517.3385 	EXP 	Gray_Square3: autoDraw = False
+517.3385 	EXP 	text_3: autoDraw = False
+517.3385 	EXP 	Gray_Square3: autoDraw = False
+517.3385 	EXP 	text_3: autoDraw = False
+517.3385 	EXP 	T1_text: text = 'X'
+517.3385 	EXP 	T2_text: text = '2'
+517.3385 	EXP 	Gray_Square: autoDraw = True
+517.3385 	EXP 	T1_text: autoDraw = True
+517.4380 	EXP 	T1_text: autoDraw = False
+517.4555 	EXP 	T1_Delay: autoDraw = True
+518.2411 	EXP 	T1_Delay: autoDraw = False
+518.2411 	EXP 	T2_text: autoDraw = True
+519.0099 	DATA 	Keypress: slash
+519.0259 	EXP 	Gray_Square: autoDraw = False
+519.0259 	EXP 	T1_text: autoDraw = False
+519.0259 	EXP 	T1_Delay: autoDraw = False
+519.0259 	EXP 	T2_text: autoDraw = False
+519.0259 	EXP 	Gray_Square2: autoDraw = True
+519.0259 	EXP 	X_or_Y: autoDraw = True
+519.4780 	DATA 	Keypress: bracketleft
+519.4820 	EXP 	New trial (rep=43, index=0): None
+519.4939 	EXP 	Gray_Square2: autoDraw = False
+519.4939 	EXP 	X_or_Y: autoDraw = False
+519.4939 	EXP 	Gray_Square3: autoDraw = True
+519.4939 	EXP 	text_3: autoDraw = True
+520.9986 	EXP 	Gray_Square3: autoDraw = False
+520.9986 	EXP 	text_3: autoDraw = False
+520.9986 	EXP 	Gray_Square3: autoDraw = False
+520.9986 	EXP 	text_3: autoDraw = False
+520.9986 	EXP 	T1_text: text = 'Y'
+520.9986 	EXP 	T2_text: text = '1'
+520.9986 	EXP 	Gray_Square: autoDraw = True
+520.9986 	EXP 	T1_text: autoDraw = True
+521.0822 	EXP 	T1_text: autoDraw = False
+521.0994 	EXP 	T1_Delay: autoDraw = True
+521.8846 	EXP 	T1_Delay: autoDraw = False
+521.8846 	EXP 	T2_text: autoDraw = True
+522.5202 	DATA 	Keypress: z
+522.5371 	EXP 	Gray_Square: autoDraw = False
+522.5371 	EXP 	T1_text: autoDraw = False
+522.5371 	EXP 	T1_Delay: autoDraw = False
+522.5371 	EXP 	T2_text: autoDraw = False
+522.5371 	EXP 	Gray_Square2: autoDraw = True
+522.5371 	EXP 	X_or_Y: autoDraw = True
+522.9717 	DATA 	Keypress: bracketright
+522.9757 	EXP 	New trial (rep=44, index=0): None
+522.9880 	EXP 	Gray_Square2: autoDraw = False
+522.9880 	EXP 	X_or_Y: autoDraw = False
+522.9880 	EXP 	Gray_Square3: autoDraw = True
+522.9880 	EXP 	text_3: autoDraw = True
+524.8771 	EXP 	Gray_Square3: autoDraw = False
+524.8771 	EXP 	text_3: autoDraw = False
+524.8771 	EXP 	Gray_Square3: autoDraw = False
+524.8771 	EXP 	text_3: autoDraw = False
+524.8771 	EXP 	T1_text: text = 'X'
+524.8771 	EXP 	T2_text: text = '2'
+524.8771 	EXP 	Gray_Square: autoDraw = True
+524.8771 	EXP 	T1_text: autoDraw = True
+524.9769 	EXP 	T1_text: autoDraw = False
+524.9941 	EXP 	T1_Delay: autoDraw = True
+525.7798 	EXP 	T1_Delay: autoDraw = False
+525.7798 	EXP 	T2_text: autoDraw = True
+526.6671 	DATA 	Keypress: slash
+526.6831 	EXP 	Gray_Square: autoDraw = False
+526.6831 	EXP 	T1_text: autoDraw = False
+526.6831 	EXP 	T1_Delay: autoDraw = False
+526.6831 	EXP 	T2_text: autoDraw = False
+526.6831 	EXP 	Gray_Square2: autoDraw = True
+526.6831 	EXP 	X_or_Y: autoDraw = True
+527.1007 	DATA 	Keypress: bracketleft
+527.1047 	EXP 	New trial (rep=45, index=0): None
+527.1339 	EXP 	Gray_Square2: autoDraw = False
+527.1339 	EXP 	X_or_Y: autoDraw = False
+527.1339 	EXP 	Gray_Square3: autoDraw = True
+527.1339 	EXP 	text_3: autoDraw = True
+528.9226 	EXP 	Gray_Square3: autoDraw = False
+528.9226 	EXP 	text_3: autoDraw = False
+528.9226 	EXP 	Gray_Square3: autoDraw = False
+528.9226 	EXP 	text_3: autoDraw = False
+528.9226 	EXP 	T1_text: text = '#'
+528.9226 	EXP 	T2_text: text = '2'
+528.9226 	EXP 	Gray_Square: autoDraw = True
+528.9226 	EXP 	T1_text: autoDraw = True
+529.0229 	EXP 	T1_text: autoDraw = False
+529.0563 	EXP 	T1_Delay: autoDraw = True
+529.8253 	EXP 	T1_Delay: autoDraw = False
+529.8253 	EXP 	T2_text: autoDraw = True
+530.5945 	DATA 	Keypress: slash
+530.6001 	EXP 	New trial (rep=46, index=0): None
+530.6276 	EXP 	Gray_Square: autoDraw = False
+530.6276 	EXP 	T1_text: autoDraw = False
+530.6276 	EXP 	T1_Delay: autoDraw = False
+530.6276 	EXP 	T2_text: autoDraw = False
+530.6276 	EXP 	Gray_Square2: autoDraw = False
+530.6276 	EXP 	X_or_Y: autoDraw = False
+530.6276 	EXP 	Gray_Square3: autoDraw = True
+530.6276 	EXP 	text_3: autoDraw = True
+531.2297 	DATA 	Keypress: bracketleft
+532.1992 	EXP 	Gray_Square3: autoDraw = False
+532.1992 	EXP 	text_3: autoDraw = False
+532.1992 	EXP 	Gray_Square3: autoDraw = False
+532.1992 	EXP 	text_3: autoDraw = False
+532.1992 	EXP 	T1_text: text = '#'
+532.1992 	EXP 	T2_text: text = '2'
+532.1992 	EXP 	Gray_Square: autoDraw = True
+532.1992 	EXP 	T1_text: autoDraw = True
+532.2990 	EXP 	T1_text: autoDraw = False
+532.3165 	EXP 	T1_Delay: autoDraw = True
+533.1014 	EXP 	T1_Delay: autoDraw = False
+533.1014 	EXP 	T2_text: autoDraw = True
+533.8373 	DATA 	Keypress: slash
+533.8429 	EXP 	New trial (rep=47, index=0): None
+533.8541 	EXP 	Gray_Square: autoDraw = False
+533.8541 	EXP 	T1_text: autoDraw = False
+533.8541 	EXP 	T1_Delay: autoDraw = False
+533.8541 	EXP 	T2_text: autoDraw = False
+533.8541 	EXP 	Gray_Square2: autoDraw = False
+533.8541 	EXP 	X_or_Y: autoDraw = False
+533.8541 	EXP 	Gray_Square3: autoDraw = True
+533.8541 	EXP 	text_3: autoDraw = True
+535.0917 	EXP 	Gray_Square3: autoDraw = False
+535.0917 	EXP 	text_3: autoDraw = False
+535.0917 	EXP 	Gray_Square3: autoDraw = False
+535.0917 	EXP 	text_3: autoDraw = False
+535.0917 	EXP 	T1_text: text = 'Y'
+535.0917 	EXP 	T2_text: text = '1'
+535.0917 	EXP 	Gray_Square: autoDraw = True
+535.0917 	EXP 	T1_text: autoDraw = True
+535.1742 	EXP 	T1_text: autoDraw = False
+535.1915 	EXP 	T1_Delay: autoDraw = True
+535.9777 	EXP 	T1_Delay: autoDraw = False
+535.9777 	EXP 	T2_text: autoDraw = True
+536.6452 	DATA 	Keypress: z
+536.6616 	EXP 	Gray_Square: autoDraw = False
+536.6616 	EXP 	T1_text: autoDraw = False
+536.6616 	EXP 	T1_Delay: autoDraw = False
+536.6616 	EXP 	T2_text: autoDraw = False
+536.6616 	EXP 	Gray_Square2: autoDraw = True
+536.6616 	EXP 	X_or_Y: autoDraw = True
+537.1804 	DATA 	Keypress: bracketleft
+537.1845 	EXP 	New trial (rep=48, index=0): None
+537.1978 	EXP 	Gray_Square2: autoDraw = False
+537.1978 	EXP 	X_or_Y: autoDraw = False
+537.1978 	EXP 	Gray_Square3: autoDraw = True
+537.1978 	EXP 	text_3: autoDraw = True
+537.3983 	DATA 	Keypress: bracketright
+538.9866 	EXP 	Gray_Square3: autoDraw = False
+538.9866 	EXP 	text_3: autoDraw = False
+538.9866 	EXP 	Gray_Square3: autoDraw = False
+538.9866 	EXP 	text_3: autoDraw = False
+538.9866 	EXP 	T1_text: text = 'Y'
+538.9866 	EXP 	T2_text: text = '2'
+538.9866 	EXP 	Gray_Square: autoDraw = True
+538.9866 	EXP 	T1_text: autoDraw = True
+539.0858 	EXP 	T1_text: autoDraw = False
+539.1030 	EXP 	T1_Delay: autoDraw = True
+539.8889 	EXP 	T1_Delay: autoDraw = False
+539.8889 	EXP 	T2_text: autoDraw = True
+541.5097 	DATA 	Keypress: slash
+541.5261 	EXP 	Gray_Square: autoDraw = False
+541.5261 	EXP 	T1_text: autoDraw = False
+541.5261 	EXP 	T1_Delay: autoDraw = False
+541.5261 	EXP 	T2_text: autoDraw = False
+541.5261 	EXP 	Gray_Square2: autoDraw = True
+541.5261 	EXP 	X_or_Y: autoDraw = True
+542.4963 	DATA 	Keypress: bracketright
+542.5003 	EXP 	New trial (rep=49, index=0): None
+542.5137 	EXP 	Gray_Square2: autoDraw = False
+542.5137 	EXP 	X_or_Y: autoDraw = False
+542.5137 	EXP 	Gray_Square3: autoDraw = True
+542.5137 	EXP 	text_3: autoDraw = True
+544.5187 	EXP 	Gray_Square3: autoDraw = False
+544.5187 	EXP 	text_3: autoDraw = False
+544.5187 	EXP 	Gray_Square3: autoDraw = False
+544.5187 	EXP 	text_3: autoDraw = False
+544.5187 	EXP 	T1_text: text = 'X'
+544.5187 	EXP 	T2_text: text = '1'
+544.5187 	EXP 	Gray_Square: autoDraw = True
+544.5187 	EXP 	T1_text: autoDraw = True
+544.6023 	EXP 	T1_text: autoDraw = False
+544.6198 	EXP 	T1_Delay: autoDraw = True
+545.4054 	EXP 	T1_Delay: autoDraw = False
+545.4054 	EXP 	T2_text: autoDraw = True
+546.3578 	DATA 	Keypress: z
+546.3749 	EXP 	Gray_Square: autoDraw = False
+546.3749 	EXP 	T1_text: autoDraw = False
+546.3749 	EXP 	T1_Delay: autoDraw = False
+546.3749 	EXP 	T2_text: autoDraw = False
+546.3749 	EXP 	Gray_Square2: autoDraw = True
+546.3749 	EXP 	X_or_Y: autoDraw = True
+546.6249 	DATA 	Keypress: bracketleft
+546.6292 	EXP 	New trial (rep=50, index=0): None
+546.6419 	EXP 	Gray_Square2: autoDraw = False
+546.6419 	EXP 	X_or_Y: autoDraw = False
+546.6419 	EXP 	Gray_Square3: autoDraw = True
+546.6419 	EXP 	text_3: autoDraw = True
+548.2464 	EXP 	Gray_Square3: autoDraw = False
+548.2464 	EXP 	text_3: autoDraw = False
+548.2464 	EXP 	Gray_Square3: autoDraw = False
+548.2464 	EXP 	text_3: autoDraw = False
+548.2464 	EXP 	T1_text: text = 'Y'
+548.2464 	EXP 	T2_text: text = '1'
+548.2464 	EXP 	Gray_Square: autoDraw = True
+548.2464 	EXP 	T1_text: autoDraw = True
+548.3467 	EXP 	T1_text: autoDraw = False
+548.3642 	EXP 	T1_Delay: autoDraw = True
+549.1491 	EXP 	T1_Delay: autoDraw = False
+549.1491 	EXP 	T2_text: autoDraw = True
+549.9685 	DATA 	Keypress: z
+549.9855 	EXP 	Gray_Square: autoDraw = False
+549.9855 	EXP 	T1_text: autoDraw = False
+549.9855 	EXP 	T1_Delay: autoDraw = False
+549.9855 	EXP 	T2_text: autoDraw = False
+549.9855 	EXP 	Gray_Square2: autoDraw = True
+549.9855 	EXP 	X_or_Y: autoDraw = True
+550.2192 	DATA 	Keypress: bracketright
+550.2233 	EXP 	New trial (rep=51, index=0): None
+550.2362 	EXP 	Gray_Square2: autoDraw = False
+550.2362 	EXP 	X_or_Y: autoDraw = False
+550.2362 	EXP 	Gray_Square3: autoDraw = True
+550.2362 	EXP 	text_3: autoDraw = True
+551.8067 	EXP 	Gray_Square3: autoDraw = False
+551.8067 	EXP 	text_3: autoDraw = False
+551.8067 	EXP 	Gray_Square3: autoDraw = False
+551.8067 	EXP 	text_3: autoDraw = False
+551.8067 	EXP 	T1_text: text = 'Y'
+551.8067 	EXP 	T2_text: text = '1'
+551.8067 	EXP 	Gray_Square: autoDraw = True
+551.8067 	EXP 	T1_text: autoDraw = True
+551.9075 	EXP 	T1_text: autoDraw = False
+551.9247 	EXP 	T1_Delay: autoDraw = True
+552.7103 	EXP 	T1_Delay: autoDraw = False
+552.7103 	EXP 	T2_text: autoDraw = True
+553.4464 	DATA 	Keypress: z
+553.4619 	EXP 	Gray_Square: autoDraw = False
+553.4619 	EXP 	T1_text: autoDraw = False
+553.4619 	EXP 	T1_Delay: autoDraw = False
+553.4619 	EXP 	T2_text: autoDraw = False
+553.4619 	EXP 	Gray_Square2: autoDraw = True
+553.4619 	EXP 	X_or_Y: autoDraw = True
+553.7296 	DATA 	Keypress: bracketright
+553.7321 	EXP 	New trial (rep=52, index=0): None
+553.7468 	EXP 	Gray_Square2: autoDraw = False
+553.7468 	EXP 	X_or_Y: autoDraw = False
+553.7468 	EXP 	Gray_Square3: autoDraw = True
+553.7468 	EXP 	text_3: autoDraw = True
+555.1679 	EXP 	Gray_Square3: autoDraw = False
+555.1679 	EXP 	text_3: autoDraw = False
+555.1679 	EXP 	Gray_Square3: autoDraw = False
+555.1679 	EXP 	text_3: autoDraw = False
+555.1679 	EXP 	T1_text: text = 'X'
+555.1679 	EXP 	T2_text: text = '2'
+555.1679 	EXP 	Gray_Square: autoDraw = True
+555.1679 	EXP 	T1_text: autoDraw = True
+555.2506 	EXP 	T1_text: autoDraw = False
+555.2677 	EXP 	T1_Delay: autoDraw = True
+556.0530 	EXP 	T1_Delay: autoDraw = False
+556.0530 	EXP 	T2_text: autoDraw = True
+557.1403 	DATA 	Keypress: z
+557.1563 	EXP 	Gray_Square: autoDraw = False
+557.1563 	EXP 	T1_text: autoDraw = False
+557.1563 	EXP 	T1_Delay: autoDraw = False
+557.1563 	EXP 	T2_text: autoDraw = False
+557.1563 	EXP 	Gray_Square2: autoDraw = True
+557.1563 	EXP 	X_or_Y: autoDraw = True
+558.1763 	DATA 	Keypress: bracketleft
+558.1803 	EXP 	New trial (rep=53, index=0): None
+558.1932 	EXP 	Gray_Square2: autoDraw = False
+558.1932 	EXP 	X_or_Y: autoDraw = False
+558.1932 	EXP 	Gray_Square3: autoDraw = True
+558.1932 	EXP 	text_3: autoDraw = True
+559.4139 	EXP 	Gray_Square3: autoDraw = False
+559.4139 	EXP 	text_3: autoDraw = False
+559.4139 	EXP 	Gray_Square3: autoDraw = False
+559.4139 	EXP 	text_3: autoDraw = False
+559.4139 	EXP 	T1_text: text = 'Y'
+559.4139 	EXP 	T2_text: text = '1'
+559.4139 	EXP 	Gray_Square: autoDraw = True
+559.4139 	EXP 	T1_text: autoDraw = True
+559.4965 	EXP 	T1_text: autoDraw = False
+559.5141 	EXP 	T1_Delay: autoDraw = True
+560.2999 	EXP 	T1_Delay: autoDraw = False
+560.2999 	EXP 	T2_text: autoDraw = True
+561.4524 	DATA 	Keypress: slash
+561.4691 	EXP 	Gray_Square: autoDraw = False
+561.4691 	EXP 	T1_text: autoDraw = False
+561.4691 	EXP 	T1_Delay: autoDraw = False
+561.4691 	EXP 	T2_text: autoDraw = False
+561.4691 	EXP 	Gray_Square2: autoDraw = True
+561.4691 	EXP 	X_or_Y: autoDraw = True
+561.7867 	DATA 	Keypress: bracketleft
+561.7907 	EXP 	New trial (rep=54, index=0): None
+561.8031 	EXP 	Gray_Square2: autoDraw = False
+561.8031 	EXP 	X_or_Y: autoDraw = False
+561.8031 	EXP 	Gray_Square3: autoDraw = True
+561.8031 	EXP 	text_3: autoDraw = True
+563.2081 	EXP 	Gray_Square3: autoDraw = False
+563.2081 	EXP 	text_3: autoDraw = False
+563.2081 	EXP 	Gray_Square3: autoDraw = False
+563.2081 	EXP 	text_3: autoDraw = False
+563.2081 	EXP 	T1_text: text = 'X'
+563.2081 	EXP 	T2_text: text = '1'
+563.2081 	EXP 	Gray_Square: autoDraw = True
+563.2081 	EXP 	T1_text: autoDraw = True
+563.3079 	EXP 	T1_text: autoDraw = False
+563.3254 	EXP 	T1_Delay: autoDraw = True
+564.1103 	EXP 	T1_Delay: autoDraw = False
+564.1103 	EXP 	T2_text: autoDraw = True
+565.0467 	DATA 	Keypress: slash
+565.0642 	EXP 	Gray_Square: autoDraw = False
+565.0642 	EXP 	T1_text: autoDraw = False
+565.0642 	EXP 	T1_Delay: autoDraw = False
+565.0642 	EXP 	T2_text: autoDraw = False
+565.0642 	EXP 	Gray_Square2: autoDraw = True
+565.0642 	EXP 	X_or_Y: autoDraw = True
+565.6159 	DATA 	Keypress: bracketleft
+565.6199 	EXP 	New trial (rep=55, index=0): None
+565.6316 	EXP 	Gray_Square2: autoDraw = False
+565.6316 	EXP 	X_or_Y: autoDraw = False
+565.6316 	EXP 	Gray_Square3: autoDraw = True
+565.6316 	EXP 	text_3: autoDraw = True
+566.7679 	EXP 	Gray_Square3: autoDraw = False
+566.7679 	EXP 	text_3: autoDraw = False
+566.7679 	EXP 	Gray_Square3: autoDraw = False
+566.7679 	EXP 	text_3: autoDraw = False
+566.7679 	EXP 	T1_text: text = '#'
+566.7679 	EXP 	T2_text: text = '1'
+566.7679 	EXP 	Gray_Square: autoDraw = True
+566.7679 	EXP 	T1_text: autoDraw = True
+566.8682 	EXP 	T1_text: autoDraw = False
+566.8850 	EXP 	T1_Delay: autoDraw = True
+567.6709 	EXP 	T1_Delay: autoDraw = False
+567.6709 	EXP 	T2_text: autoDraw = True
+568.6574 	DATA 	Keypress: slash
+568.6630 	EXP 	New trial (rep=56, index=0): None
+568.6744 	EXP 	Gray_Square: autoDraw = False
+568.6744 	EXP 	T1_text: autoDraw = False
+568.6744 	EXP 	T1_Delay: autoDraw = False
+568.6744 	EXP 	T2_text: autoDraw = False
+568.6744 	EXP 	Gray_Square2: autoDraw = False
+568.6744 	EXP 	X_or_Y: autoDraw = False
+568.6744 	EXP 	Gray_Square3: autoDraw = True
+568.6744 	EXP 	text_3: autoDraw = True
+570.3798 	EXP 	Gray_Square3: autoDraw = False
+570.3798 	EXP 	text_3: autoDraw = False
+570.3798 	EXP 	Gray_Square3: autoDraw = False
+570.3798 	EXP 	text_3: autoDraw = False
+570.3798 	EXP 	T1_text: text = '#'
+570.3798 	EXP 	T2_text: text = '2'
+570.3798 	EXP 	Gray_Square: autoDraw = True
+570.3798 	EXP 	T1_text: autoDraw = True
+570.4792 	EXP 	T1_text: autoDraw = False
+570.4968 	EXP 	T1_Delay: autoDraw = True
+571.2815 	EXP 	T1_Delay: autoDraw = False
+571.2815 	EXP 	T2_text: autoDraw = True
+572.2348 	DATA 	Keypress: slash
+572.2403 	EXP 	New trial (rep=57, index=0): None
+572.2524 	EXP 	Gray_Square: autoDraw = False
+572.2524 	EXP 	T1_text: autoDraw = False
+572.2524 	EXP 	T1_Delay: autoDraw = False
+572.2524 	EXP 	T2_text: autoDraw = False
+572.2524 	EXP 	Gray_Square2: autoDraw = False
+572.2524 	EXP 	X_or_Y: autoDraw = False
+572.2524 	EXP 	Gray_Square3: autoDraw = True
+572.2524 	EXP 	text_3: autoDraw = True
+574.0741 	EXP 	Gray_Square3: autoDraw = False
+574.0741 	EXP 	text_3: autoDraw = False
+574.0741 	EXP 	Gray_Square3: autoDraw = False
+574.0741 	EXP 	text_3: autoDraw = False
+574.0741 	EXP 	T1_text: text = '#'
+574.0741 	EXP 	T2_text: text = '2'
+574.0741 	EXP 	Gray_Square: autoDraw = True
+574.0741 	EXP 	T1_text: autoDraw = True
+574.1736 	EXP 	T1_text: autoDraw = False
+574.1907 	EXP 	T1_Delay: autoDraw = True
+574.9763 	EXP 	T1_Delay: autoDraw = False
+574.9763 	EXP 	T2_text: autoDraw = True
+575.7626 	DATA 	Keypress: slash
+575.7682 	EXP 	New trial (rep=58, index=0): None
+575.7784 	EXP 	Gray_Square: autoDraw = False
+575.7784 	EXP 	T1_text: autoDraw = False
+575.7784 	EXP 	T1_Delay: autoDraw = False
+575.7784 	EXP 	T2_text: autoDraw = False
+575.7784 	EXP 	Gray_Square2: autoDraw = False
+575.7784 	EXP 	X_or_Y: autoDraw = False
+575.7784 	EXP 	Gray_Square3: autoDraw = True
+575.7784 	EXP 	text_3: autoDraw = True
+577.2327 	EXP 	Gray_Square3: autoDraw = False
+577.2327 	EXP 	text_3: autoDraw = False
+577.2327 	EXP 	Gray_Square3: autoDraw = False
+577.2327 	EXP 	text_3: autoDraw = False
+577.2327 	EXP 	T1_text: text = 'X'
+577.2327 	EXP 	T2_text: text = '1'
+577.2327 	EXP 	Gray_Square: autoDraw = True
+577.2327 	EXP 	T1_text: autoDraw = True
+577.3163 	EXP 	T1_text: autoDraw = False
+577.3502 	EXP 	T1_Delay: autoDraw = True
+578.1198 	EXP 	T1_Delay: autoDraw = False
+578.1198 	EXP 	T2_text: autoDraw = True
+579.3900 	DATA 	Keypress: z
+579.4058 	EXP 	Gray_Square: autoDraw = False
+579.4058 	EXP 	T1_text: autoDraw = False
+579.4058 	EXP 	T1_Delay: autoDraw = False
+579.4058 	EXP 	T2_text: autoDraw = False
+579.4058 	EXP 	Gray_Square2: autoDraw = True
+579.4058 	EXP 	X_or_Y: autoDraw = True
+580.5261 	DATA 	Keypress: bracketleft
+580.5302 	EXP 	New trial (rep=59, index=0): None
+580.5430 	EXP 	Gray_Square2: autoDraw = False
+580.5430 	EXP 	X_or_Y: autoDraw = False
+580.5430 	EXP 	Gray_Square3: autoDraw = True
+580.5430 	EXP 	text_3: autoDraw = True
+582.0801 	EXP 	Gray_Square3: autoDraw = False
+582.0801 	EXP 	text_3: autoDraw = False
+582.0801 	EXP 	Gray_Square3: autoDraw = False
+582.0801 	EXP 	text_3: autoDraw = False
+582.0801 	EXP 	T1_text: text = '#'
+582.0801 	EXP 	T2_text: text = '2'
+582.0801 	EXP 	Gray_Square: autoDraw = True
+582.0801 	EXP 	T1_text: autoDraw = True
+582.1804 	EXP 	T1_text: autoDraw = False
+582.1971 	EXP 	T1_Delay: autoDraw = True
+582.9837 	EXP 	T1_Delay: autoDraw = False
+582.9837 	EXP 	T2_text: autoDraw = True
+587.5978 	DATA 	Keypress: slash
+587.6034 	EXP 	New trial (rep=60, index=0): None
+587.6136 	EXP 	Gray_Square: autoDraw = False
+587.6136 	EXP 	T1_text: autoDraw = False
+587.6136 	EXP 	T1_Delay: autoDraw = False
+587.6136 	EXP 	T2_text: autoDraw = False
+587.6136 	EXP 	Gray_Square2: autoDraw = False
+587.6136 	EXP 	X_or_Y: autoDraw = False
+587.6136 	EXP 	Gray_Square3: autoDraw = True
+587.6136 	EXP 	text_3: autoDraw = True
+589.3020 	EXP 	Gray_Square3: autoDraw = False
+589.3020 	EXP 	text_3: autoDraw = False
+589.3020 	EXP 	Gray_Square3: autoDraw = False
+589.3020 	EXP 	text_3: autoDraw = False
+589.3020 	EXP 	T1_text: text = '#'
+589.3020 	EXP 	T2_text: text = '2'
+589.3020 	EXP 	Gray_Square: autoDraw = True
+589.3020 	EXP 	T1_text: autoDraw = True
+589.4022 	EXP 	T1_text: autoDraw = False
+589.4196 	EXP 	T1_Delay: autoDraw = True
+590.2050 	EXP 	T1_Delay: autoDraw = False
+590.2050 	EXP 	T2_text: autoDraw = True
+590.7575 	DATA 	Keypress: slash
+590.7631 	EXP 	New trial (rep=61, index=0): None
+590.7729 	EXP 	Gray_Square: autoDraw = False
+590.7729 	EXP 	T1_text: autoDraw = False
+590.7729 	EXP 	T1_Delay: autoDraw = False
+590.7729 	EXP 	T2_text: autoDraw = False
+590.7729 	EXP 	Gray_Square2: autoDraw = False
+590.7729 	EXP 	X_or_Y: autoDraw = False
+590.7729 	EXP 	Gray_Square3: autoDraw = True
+590.7729 	EXP 	text_3: autoDraw = True
+592.3617 	EXP 	Gray_Square3: autoDraw = False
+592.3617 	EXP 	text_3: autoDraw = False
+592.3617 	EXP 	Gray_Square3: autoDraw = False
+592.3617 	EXP 	text_3: autoDraw = False
+592.3617 	EXP 	T1_text: text = 'Y'
+592.3617 	EXP 	T2_text: text = '2'
+592.3617 	EXP 	Gray_Square: autoDraw = True
+592.3617 	EXP 	T1_text: autoDraw = True
+592.4614 	EXP 	T1_text: autoDraw = False
+592.4952 	EXP 	T1_Delay: autoDraw = True
+593.2644 	EXP 	T1_Delay: autoDraw = False
+593.2644 	EXP 	T2_text: autoDraw = True
+594.1845 	DATA 	Keypress: slash
+594.2166 	EXP 	Gray_Square: autoDraw = False
+594.2166 	EXP 	T1_text: autoDraw = False
+594.2166 	EXP 	T1_Delay: autoDraw = False
+594.2166 	EXP 	T2_text: autoDraw = False
+594.2166 	EXP 	Gray_Square2: autoDraw = True
+594.2166 	EXP 	X_or_Y: autoDraw = True
+595.0694 	DATA 	Keypress: bracketright
+595.0735 	EXP 	New trial (rep=62, index=0): None
+595.0870 	EXP 	Gray_Square2: autoDraw = False
+595.0870 	EXP 	X_or_Y: autoDraw = False
+595.0870 	EXP 	Gray_Square3: autoDraw = True
+595.0870 	EXP 	text_3: autoDraw = True
+596.9425 	EXP 	Gray_Square3: autoDraw = False
+596.9425 	EXP 	text_3: autoDraw = False
+596.9425 	EXP 	Gray_Square3: autoDraw = False
+596.9425 	EXP 	text_3: autoDraw = False
+596.9425 	EXP 	T1_text: text = 'X'
+596.9425 	EXP 	T2_text: text = '2'
+596.9425 	EXP 	Gray_Square: autoDraw = True
+596.9425 	EXP 	T1_text: autoDraw = True
+597.0413 	EXP 	T1_text: autoDraw = False
+597.0585 	EXP 	T1_Delay: autoDraw = True
+597.8450 	EXP 	T1_Delay: autoDraw = False
+597.8450 	EXP 	T2_text: autoDraw = True
+599.6497 	DATA 	Keypress: slash
+599.6668 	EXP 	Gray_Square: autoDraw = False
+599.6668 	EXP 	T1_text: autoDraw = False
+599.6668 	EXP 	T1_Delay: autoDraw = False
+599.6668 	EXP 	T2_text: autoDraw = False
+599.6668 	EXP 	Gray_Square2: autoDraw = True
+599.6668 	EXP 	X_or_Y: autoDraw = True
+600.2515 	DATA 	Keypress: bracketleft
+600.2556 	EXP 	New trial (rep=63, index=0): None
+600.2684 	EXP 	Gray_Square2: autoDraw = False
+600.2684 	EXP 	X_or_Y: autoDraw = False
+600.2684 	EXP 	Gray_Square3: autoDraw = True
+600.2684 	EXP 	text_3: autoDraw = True
+601.3386 	EXP 	Gray_Square3: autoDraw = False
+601.3386 	EXP 	text_3: autoDraw = False
+601.3386 	EXP 	Gray_Square3: autoDraw = False
+601.3386 	EXP 	text_3: autoDraw = False
+601.3386 	EXP 	T1_text: text = 'X'
+601.3386 	EXP 	T2_text: text = '1'
+601.3386 	EXP 	Gray_Square: autoDraw = True
+601.3386 	EXP 	T1_text: autoDraw = True
+601.4381 	EXP 	T1_text: autoDraw = False
+601.4552 	EXP 	T1_Delay: autoDraw = True
+602.2401 	EXP 	T1_Delay: autoDraw = False
+602.2401 	EXP 	T2_text: autoDraw = True
+603.0271 	DATA 	Keypress: slash
+603.0429 	EXP 	Gray_Square: autoDraw = False
+603.0429 	EXP 	T1_text: autoDraw = False
+603.0429 	EXP 	T1_Delay: autoDraw = False
+603.0429 	EXP 	T2_text: autoDraw = False
+603.0429 	EXP 	Gray_Square2: autoDraw = True
+603.0429 	EXP 	X_or_Y: autoDraw = True
+603.4611 	DATA 	Keypress: bracketleft
+603.4651 	EXP 	New trial (rep=64, index=0): None
+603.4785 	EXP 	Gray_Square2: autoDraw = False
+603.4785 	EXP 	X_or_Y: autoDraw = False
+603.4785 	EXP 	Gray_Square3: autoDraw = True
+603.4785 	EXP 	text_3: autoDraw = True
+604.5139 	EXP 	Gray_Square3: autoDraw = False
+604.5139 	EXP 	text_3: autoDraw = False
+604.5139 	EXP 	Gray_Square3: autoDraw = False
+604.5139 	EXP 	text_3: autoDraw = False
+604.5139 	EXP 	T1_text: text = 'X'
+604.5139 	EXP 	T2_text: text = '2'
+604.5139 	EXP 	Gray_Square: autoDraw = True
+604.5139 	EXP 	T1_text: autoDraw = True
+604.6142 	EXP 	T1_text: autoDraw = False
+604.6313 	EXP 	T1_Delay: autoDraw = True
+605.4166 	EXP 	T1_Delay: autoDraw = False
+605.4166 	EXP 	T2_text: autoDraw = True
+606.4031 	DATA 	Keypress: slash
+606.4201 	EXP 	Gray_Square: autoDraw = False
+606.4201 	EXP 	T1_text: autoDraw = False
+606.4201 	EXP 	T1_Delay: autoDraw = False
+606.4201 	EXP 	T2_text: autoDraw = False
+606.4201 	EXP 	Gray_Square2: autoDraw = True
+606.4201 	EXP 	X_or_Y: autoDraw = True
+607.0551 	DATA 	Keypress: bracketleft
+607.0592 	EXP 	New trial (rep=65, index=0): None
+607.0720 	EXP 	Gray_Square2: autoDraw = False
+607.0720 	EXP 	X_or_Y: autoDraw = False
+607.0720 	EXP 	Gray_Square3: autoDraw = True
+607.0720 	EXP 	text_3: autoDraw = True
+609.0274 	EXP 	Gray_Square3: autoDraw = False
+609.0274 	EXP 	text_3: autoDraw = False
+609.0274 	EXP 	Gray_Square3: autoDraw = False
+609.0274 	EXP 	text_3: autoDraw = False
+609.0274 	EXP 	T1_text: text = 'X'
+609.0274 	EXP 	T2_text: text = '1'
+609.0274 	EXP 	Gray_Square: autoDraw = True
+609.0274 	EXP 	T1_text: autoDraw = True
+609.1276 	EXP 	T1_text: autoDraw = False
+609.1451 	EXP 	T1_Delay: autoDraw = True
+609.9298 	EXP 	T1_Delay: autoDraw = False
+609.9298 	EXP 	T2_text: autoDraw = True
+610.6995 	DATA 	Keypress: z
+610.7154 	EXP 	Gray_Square: autoDraw = False
+610.7154 	EXP 	T1_text: autoDraw = False
+610.7154 	EXP 	T1_Delay: autoDraw = False
+610.7154 	EXP 	T2_text: autoDraw = False
+610.7154 	EXP 	Gray_Square2: autoDraw = True
+610.7154 	EXP 	X_or_Y: autoDraw = True
+611.1837 	DATA 	Keypress: bracketleft
+611.1878 	EXP 	New trial (rep=66, index=0): None
+611.2006 	EXP 	Gray_Square2: autoDraw = False
+611.2006 	EXP 	X_or_Y: autoDraw = False
+611.2006 	EXP 	Gray_Square3: autoDraw = True
+611.2006 	EXP 	text_3: autoDraw = True
+613.1563 	EXP 	Gray_Square3: autoDraw = False
+613.1563 	EXP 	text_3: autoDraw = False
+613.1563 	EXP 	Gray_Square3: autoDraw = False
+613.1563 	EXP 	text_3: autoDraw = False
+613.1563 	EXP 	T1_text: text = '#'
+613.1563 	EXP 	T2_text: text = '2'
+613.1563 	EXP 	Gray_Square: autoDraw = True
+613.1563 	EXP 	T1_text: autoDraw = True
+613.2399 	EXP 	T1_text: autoDraw = False
+613.2570 	EXP 	T1_Delay: autoDraw = True
+614.0425 	EXP 	T1_Delay: autoDraw = False
+614.0425 	EXP 	T2_text: autoDraw = True
+614.9455 	DATA 	Keypress: slash
+614.9511 	EXP 	New trial (rep=67, index=0): None
+614.9614 	EXP 	Gray_Square: autoDraw = False
+614.9614 	EXP 	T1_text: autoDraw = False
+614.9614 	EXP 	T1_Delay: autoDraw = False
+614.9614 	EXP 	T2_text: autoDraw = False
+614.9614 	EXP 	Gray_Square2: autoDraw = False
+614.9614 	EXP 	X_or_Y: autoDraw = False
+614.9614 	EXP 	Gray_Square3: autoDraw = True
+614.9614 	EXP 	text_3: autoDraw = True
+616.2319 	EXP 	Gray_Square3: autoDraw = False
+616.2319 	EXP 	text_3: autoDraw = False
+616.2319 	EXP 	Gray_Square3: autoDraw = False
+616.2319 	EXP 	text_3: autoDraw = False
+616.2319 	EXP 	T1_text: text = '#'
+616.2319 	EXP 	T2_text: text = '1'
+616.2319 	EXP 	Gray_Square: autoDraw = True
+616.2319 	EXP 	T1_text: autoDraw = True
+616.3321 	EXP 	T1_text: autoDraw = False
+616.3493 	EXP 	T1_Delay: autoDraw = True
+617.1351 	EXP 	T1_Delay: autoDraw = False
+617.1351 	EXP 	T2_text: autoDraw = True
+618.1049 	DATA 	Keypress: z
+618.1105 	EXP 	New trial (rep=68, index=0): None
+618.1380 	EXP 	Gray_Square: autoDraw = False
+618.1380 	EXP 	T1_text: autoDraw = False
+618.1380 	EXP 	T1_Delay: autoDraw = False
+618.1380 	EXP 	T2_text: autoDraw = False
+618.1380 	EXP 	Gray_Square2: autoDraw = False
+618.1380 	EXP 	X_or_Y: autoDraw = False
+618.1380 	EXP 	Gray_Square3: autoDraw = True
+618.1380 	EXP 	text_3: autoDraw = True
+619.3918 	EXP 	Gray_Square3: autoDraw = False
+619.3918 	EXP 	text_3: autoDraw = False
+619.3918 	EXP 	Gray_Square3: autoDraw = False
+619.3918 	EXP 	text_3: autoDraw = False
+619.3918 	EXP 	T1_text: text = 'X'
+619.3918 	EXP 	T2_text: text = '2'
+619.3918 	EXP 	Gray_Square: autoDraw = True
+619.3918 	EXP 	T1_text: autoDraw = True
+619.4587 	EXP 	T1_text: autoDraw = False
+619.4921 	EXP 	T1_Delay: autoDraw = True
+620.1277 	DATA 	Keypress: slash
+620.2611 	EXP 	T1_Delay: autoDraw = False
+620.2611 	EXP 	T2_text: autoDraw = True
+621.0638 	DATA 	Keypress: bracketleft
+621.0969 	EXP 	Gray_Square: autoDraw = False
+621.0969 	EXP 	T1_text: autoDraw = False
+621.0969 	EXP 	T1_Delay: autoDraw = False
+621.0969 	EXP 	T2_text: autoDraw = False
+621.0969 	EXP 	Gray_Square2: autoDraw = True
+621.0969 	EXP 	X_or_Y: autoDraw = True
+622.4011 	DATA 	Keypress: bracketleft
+622.4051 	EXP 	New trial (rep=69, index=0): None
+622.4342 	EXP 	Gray_Square2: autoDraw = False
+622.4342 	EXP 	X_or_Y: autoDraw = False
+622.4342 	EXP 	Gray_Square3: autoDraw = True
+622.4342 	EXP 	text_3: autoDraw = True
+624.4074 	EXP 	Gray_Square3: autoDraw = False
+624.4074 	EXP 	text_3: autoDraw = False
+624.4074 	EXP 	Gray_Square3: autoDraw = False
+624.4074 	EXP 	text_3: autoDraw = False
+624.4074 	EXP 	T1_text: text = 'Y'
+624.4074 	EXP 	T2_text: text = '2'
+624.4074 	EXP 	Gray_Square: autoDraw = True
+624.4074 	EXP 	T1_text: autoDraw = True
+624.5067 	EXP 	T1_text: autoDraw = False
+624.5237 	EXP 	T1_Delay: autoDraw = True
+625.3100 	EXP 	T1_Delay: autoDraw = False
+625.3100 	EXP 	T2_text: autoDraw = True
+626.1619 	DATA 	Keypress: slash
+626.1794 	EXP 	Gray_Square: autoDraw = False
+626.1794 	EXP 	T1_text: autoDraw = False
+626.1794 	EXP 	T1_Delay: autoDraw = False
+626.1794 	EXP 	T2_text: autoDraw = False
+626.1794 	EXP 	Gray_Square2: autoDraw = True
+626.1794 	EXP 	X_or_Y: autoDraw = True
+626.6801 	DATA 	Keypress: bracketright
+626.6842 	EXP 	New trial (rep=70, index=0): None
+626.6977 	EXP 	Gray_Square2: autoDraw = False
+626.6977 	EXP 	X_or_Y: autoDraw = False
+626.6977 	EXP 	Gray_Square3: autoDraw = True
+626.6977 	EXP 	text_3: autoDraw = True
+628.6702 	EXP 	Gray_Square3: autoDraw = False
+628.6702 	EXP 	text_3: autoDraw = False
+628.6702 	EXP 	Gray_Square3: autoDraw = False
+628.6702 	EXP 	text_3: autoDraw = False
+628.6702 	EXP 	T1_text: text = '#'
+628.6702 	EXP 	T2_text: text = '1'
+628.6702 	EXP 	Gray_Square: autoDraw = True
+628.6702 	EXP 	T1_text: autoDraw = True
+628.7527 	EXP 	T1_text: autoDraw = False
+628.7701 	EXP 	T1_Delay: autoDraw = True
+629.5562 	EXP 	T1_Delay: autoDraw = False
+629.5562 	EXP 	T2_text: autoDraw = True
+630.7423 	DATA 	Keypress: z
+630.7478 	EXP 	New trial (rep=71, index=0): None
+630.7596 	EXP 	Gray_Square: autoDraw = False
+630.7596 	EXP 	T1_text: autoDraw = False
+630.7596 	EXP 	T1_Delay: autoDraw = False
+630.7596 	EXP 	T2_text: autoDraw = False
+630.7596 	EXP 	Gray_Square2: autoDraw = False
+630.7596 	EXP 	X_or_Y: autoDraw = False
+630.7596 	EXP 	Gray_Square3: autoDraw = True
+630.7596 	EXP 	text_3: autoDraw = True
+632.6807 	EXP 	Gray_Square3: autoDraw = False
+632.6807 	EXP 	text_3: autoDraw = False
+632.6807 	EXP 	Gray_Square3: autoDraw = False
+632.6807 	EXP 	text_3: autoDraw = False
+632.6807 	EXP 	T1_text: text = 'Y'
+632.6807 	EXP 	T2_text: text = '1'
+632.6807 	EXP 	Gray_Square: autoDraw = True
+632.6807 	EXP 	T1_text: autoDraw = True
+632.7815 	EXP 	T1_text: autoDraw = False
+632.7981 	EXP 	T1_Delay: autoDraw = True
+633.5842 	EXP 	T1_Delay: autoDraw = False
+633.5842 	EXP 	T2_text: autoDraw = True
+634.4711 	DATA 	Keypress: z
+634.5036 	EXP 	Gray_Square: autoDraw = False
+634.5036 	EXP 	T1_text: autoDraw = False
+634.5036 	EXP 	T1_Delay: autoDraw = False
+634.5036 	EXP 	T2_text: autoDraw = False
+634.5036 	EXP 	Gray_Square2: autoDraw = True
+634.5036 	EXP 	X_or_Y: autoDraw = True
+634.7542 	DATA 	Keypress: bracketright
+634.7582 	EXP 	New trial (rep=72, index=0): None
+634.7716 	EXP 	Gray_Square2: autoDraw = False
+634.7716 	EXP 	X_or_Y: autoDraw = False
+634.7716 	EXP 	Gray_Square3: autoDraw = True
+634.7716 	EXP 	text_3: autoDraw = True
+636.1090 	EXP 	Gray_Square3: autoDraw = False
+636.1090 	EXP 	text_3: autoDraw = False
+636.1090 	EXP 	Gray_Square3: autoDraw = False
+636.1090 	EXP 	text_3: autoDraw = False
+636.1090 	EXP 	T1_text: text = 'X'
+636.1090 	EXP 	T2_text: text = '1'
+636.1090 	EXP 	Gray_Square: autoDraw = True
+636.1090 	EXP 	T1_text: autoDraw = True
+636.2082 	EXP 	T1_text: autoDraw = False
+636.2255 	EXP 	T1_Delay: autoDraw = True
+637.0106 	EXP 	T1_Delay: autoDraw = False
+637.0106 	EXP 	T2_text: autoDraw = True
+637.7628 	DATA 	Keypress: z
+637.7793 	EXP 	Gray_Square: autoDraw = False
+637.7793 	EXP 	T1_text: autoDraw = False
+637.7793 	EXP 	T1_Delay: autoDraw = False
+637.7793 	EXP 	T2_text: autoDraw = False
+637.7793 	EXP 	Gray_Square2: autoDraw = True
+637.7793 	EXP 	X_or_Y: autoDraw = True
+638.0138 	DATA 	Keypress: bracketleft
+638.0179 	EXP 	New trial (rep=73, index=0): None
+638.0312 	EXP 	Gray_Square2: autoDraw = False
+638.0312 	EXP 	X_or_Y: autoDraw = False
+638.0312 	EXP 	Gray_Square3: autoDraw = True
+638.0312 	EXP 	text_3: autoDraw = True
+639.1174 	EXP 	Gray_Square3: autoDraw = False
+639.1174 	EXP 	text_3: autoDraw = False
+639.1174 	EXP 	Gray_Square3: autoDraw = False
+639.1174 	EXP 	text_3: autoDraw = False
+639.1174 	EXP 	T1_text: text = 'Y'
+639.1174 	EXP 	T2_text: text = '1'
+639.1174 	EXP 	Gray_Square: autoDraw = True
+639.1174 	EXP 	T1_text: autoDraw = True
+639.2172 	EXP 	T1_text: autoDraw = False
+639.2344 	EXP 	T1_Delay: autoDraw = True
+640.0200 	EXP 	T1_Delay: autoDraw = False
+640.0200 	EXP 	T2_text: autoDraw = True
+641.2903 	DATA 	Keypress: z
+641.3073 	EXP 	Gray_Square: autoDraw = False
+641.3073 	EXP 	T1_text: autoDraw = False
+641.3073 	EXP 	T1_Delay: autoDraw = False
+641.3073 	EXP 	T2_text: autoDraw = False
+641.3073 	EXP 	Gray_Square2: autoDraw = True
+641.3073 	EXP 	X_or_Y: autoDraw = True
+641.6079 	DATA 	Keypress: bracketright
+641.6119 	EXP 	New trial (rep=74, index=0): None
+641.6249 	EXP 	Gray_Square2: autoDraw = False
+641.6249 	EXP 	X_or_Y: autoDraw = False
+641.6249 	EXP 	Gray_Square3: autoDraw = True
+641.6249 	EXP 	text_3: autoDraw = True
+643.5969 	EXP 	Gray_Square3: autoDraw = False
+643.5969 	EXP 	text_3: autoDraw = False
+643.5969 	EXP 	Gray_Square3: autoDraw = False
+643.5969 	EXP 	text_3: autoDraw = False
+643.5969 	EXP 	T1_text: text = 'X'
+643.5969 	EXP 	T2_text: text = '1'
+643.5969 	EXP 	Gray_Square: autoDraw = True
+643.5969 	EXP 	T1_text: autoDraw = True
+643.6972 	EXP 	T1_text: autoDraw = False
+643.7143 	EXP 	T1_Delay: autoDraw = True
+644.5003 	EXP 	T1_Delay: autoDraw = False
+644.5003 	EXP 	T2_text: autoDraw = True
+645.2688 	DATA 	Keypress: z
+645.2863 	EXP 	Gray_Square: autoDraw = False
+645.2863 	EXP 	T1_text: autoDraw = False
+645.2863 	EXP 	T1_Delay: autoDraw = False
+645.2863 	EXP 	T2_text: autoDraw = False
+645.2863 	EXP 	Gray_Square2: autoDraw = True
+645.2863 	EXP 	X_or_Y: autoDraw = True
+645.5871 	DATA 	Keypress: bracketleft
+645.5911 	EXP 	New trial (rep=75, index=0): None
+645.6028 	EXP 	Gray_Square2: autoDraw = False
+645.6028 	EXP 	X_or_Y: autoDraw = False
+645.6028 	EXP 	Gray_Square3: autoDraw = True
+645.6028 	EXP 	text_3: autoDraw = True
+646.9077 	EXP 	Gray_Square3: autoDraw = False
+646.9077 	EXP 	text_3: autoDraw = False
+646.9077 	EXP 	Gray_Square3: autoDraw = False
+646.9077 	EXP 	text_3: autoDraw = False
+646.9077 	EXP 	T1_text: text = 'Y'
+646.9077 	EXP 	T2_text: text = '2'
+646.9077 	EXP 	Gray_Square: autoDraw = True
+646.9077 	EXP 	T1_text: autoDraw = True
+646.9903 	EXP 	T1_text: autoDraw = False
+647.0077 	EXP 	T1_Delay: autoDraw = True
+647.7924 	EXP 	T1_Delay: autoDraw = False
+647.7924 	EXP 	T2_text: autoDraw = True
+648.9130 	DATA 	Keypress: slash
+648.9304 	EXP 	Gray_Square: autoDraw = False
+648.9304 	EXP 	T1_text: autoDraw = False
+648.9304 	EXP 	T1_Delay: autoDraw = False
+648.9304 	EXP 	T2_text: autoDraw = False
+648.9304 	EXP 	Gray_Square2: autoDraw = True
+648.9304 	EXP 	X_or_Y: autoDraw = True
+649.7822 	DATA 	Keypress: bracketleft
+649.7863 	EXP 	New trial (rep=76, index=0): None
+649.7992 	EXP 	Gray_Square2: autoDraw = False
+649.7992 	EXP 	X_or_Y: autoDraw = False
+649.7992 	EXP 	Gray_Square3: autoDraw = True
+649.7992 	EXP 	text_3: autoDraw = True
+651.1527 	EXP 	Gray_Square3: autoDraw = False
+651.1527 	EXP 	text_3: autoDraw = False
+651.1527 	EXP 	Gray_Square3: autoDraw = False
+651.1527 	EXP 	text_3: autoDraw = False
+651.1527 	EXP 	T1_text: text = 'Y'
+651.1527 	EXP 	T2_text: text = '1'
+651.1527 	EXP 	Gray_Square: autoDraw = True
+651.1527 	EXP 	T1_text: autoDraw = True
+651.2530 	EXP 	T1_text: autoDraw = False
+651.2701 	EXP 	T1_Delay: autoDraw = True
+652.0561 	EXP 	T1_Delay: autoDraw = False
+652.0561 	EXP 	T2_text: autoDraw = True
+653.1756 	DATA 	Keypress: z
+653.1926 	EXP 	Gray_Square: autoDraw = False
+653.1926 	EXP 	T1_text: autoDraw = False
+653.1926 	EXP 	T1_Delay: autoDraw = False
+653.1926 	EXP 	T2_text: autoDraw = False
+653.1926 	EXP 	Gray_Square2: autoDraw = True
+653.1926 	EXP 	X_or_Y: autoDraw = True
+653.8276 	DATA 	Keypress: bracketleft
+653.8317 	EXP 	New trial (rep=77, index=0): None
+653.8446 	EXP 	Gray_Square2: autoDraw = False
+653.8446 	EXP 	X_or_Y: autoDraw = False
+653.8446 	EXP 	Gray_Square3: autoDraw = True
+653.8446 	EXP 	text_3: autoDraw = True
+655.2486 	EXP 	Gray_Square3: autoDraw = False
+655.2486 	EXP 	text_3: autoDraw = False
+655.2486 	EXP 	Gray_Square3: autoDraw = False
+655.2486 	EXP 	text_3: autoDraw = False
+655.2486 	EXP 	T1_text: text = '#'
+655.2486 	EXP 	T2_text: text = '1'
+655.2486 	EXP 	Gray_Square: autoDraw = True
+655.2486 	EXP 	T1_text: autoDraw = True
+655.3485 	EXP 	T1_text: autoDraw = False
+655.3656 	EXP 	T1_Delay: autoDraw = True
+656.1509 	EXP 	T1_Delay: autoDraw = False
+656.1509 	EXP 	T2_text: autoDraw = True
+657.1542 	DATA 	Keypress: z
+657.1600 	EXP 	New trial (rep=78, index=0): None
+657.1712 	EXP 	Gray_Square: autoDraw = False
+657.1712 	EXP 	T1_text: autoDraw = False
+657.1712 	EXP 	T1_Delay: autoDraw = False
+657.1712 	EXP 	T2_text: autoDraw = False
+657.1712 	EXP 	Gray_Square2: autoDraw = False
+657.1712 	EXP 	X_or_Y: autoDraw = False
+657.1712 	EXP 	Gray_Square3: autoDraw = True
+657.1712 	EXP 	text_3: autoDraw = True
+658.6087 	EXP 	Gray_Square3: autoDraw = False
+658.6087 	EXP 	text_3: autoDraw = False
+658.6087 	EXP 	Gray_Square3: autoDraw = False
+658.6087 	EXP 	text_3: autoDraw = False
+658.6087 	EXP 	T1_text: text = 'Y'
+658.6087 	EXP 	T2_text: text = '2'
+658.6087 	EXP 	Gray_Square: autoDraw = True
+658.6087 	EXP 	T1_text: autoDraw = True
+658.7086 	EXP 	T1_text: autoDraw = False
+658.7260 	EXP 	T1_Delay: autoDraw = True
+659.5108 	EXP 	T1_Delay: autoDraw = False
+659.5108 	EXP 	T2_text: autoDraw = True
+661.1996 	DATA 	Keypress: slash
+661.2164 	EXP 	Gray_Square: autoDraw = False
+661.2164 	EXP 	T1_text: autoDraw = False
+661.2164 	EXP 	T1_Delay: autoDraw = False
+661.2164 	EXP 	T2_text: autoDraw = False
+661.2164 	EXP 	Gray_Square2: autoDraw = True
+661.2164 	EXP 	X_or_Y: autoDraw = True
+661.5188 	DATA 	Keypress: bracketleft
+661.5377 	EXP 	New trial (rep=79, index=0): None
+661.5515 	EXP 	Gray_Square2: autoDraw = False
+661.5515 	EXP 	X_or_Y: autoDraw = False
+661.5515 	EXP 	Gray_Square3: autoDraw = True
+661.5515 	EXP 	text_3: autoDraw = True
+661.7347 	DATA 	Keypress: bracketright
+662.9709 	EXP 	Gray_Square3: autoDraw = False
+662.9709 	EXP 	text_3: autoDraw = False
+662.9709 	EXP 	Gray_Square3: autoDraw = False
+662.9709 	EXP 	text_3: autoDraw = False
+662.9709 	EXP 	T1_text: text = 'Y'
+662.9709 	EXP 	T2_text: text = '2'
+662.9709 	EXP 	Gray_Square: autoDraw = True
+662.9709 	EXP 	T1_text: autoDraw = True
+663.0717 	EXP 	T1_text: autoDraw = False
+663.0884 	EXP 	T1_Delay: autoDraw = True
+663.8739 	EXP 	T1_Delay: autoDraw = False
+663.8739 	EXP 	T2_text: autoDraw = True
+665.7806 	DATA 	Keypress: slash
+665.7963 	EXP 	Gray_Square: autoDraw = False
+665.7963 	EXP 	T1_text: autoDraw = False
+665.7963 	EXP 	T1_Delay: autoDraw = False
+665.7963 	EXP 	T2_text: autoDraw = False
+665.7963 	EXP 	Gray_Square2: autoDraw = True
+665.7963 	EXP 	X_or_Y: autoDraw = True
+666.3984 	DATA 	Keypress: bracketright
+666.4154 	EXP 	Gray_Square2: autoDraw = False
+666.4154 	EXP 	X_or_Y: autoDraw = False
+666.4154 	EXP 	text_2: autoDraw = True
+678.0828 	DATA 	Keypress: return
+678.7678 	EXP 	window1: mouseVisible = True

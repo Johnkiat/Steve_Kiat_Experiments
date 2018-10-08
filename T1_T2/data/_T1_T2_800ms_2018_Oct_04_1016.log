@@ -1,0 +1,225 @@
+5.0249 	WARNING 	Monitor specification not found. Creating a temporary one...
+5.0284 	WARNING 	Requested an unavailable screen number - using first available.
+5.0286 	WARNING 	User requested fullscreen with size [1280 1024], but screen is actually [1920, 1080]. Using actual size
+6.0971 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1DBA0610>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=1, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+6.0972 	EXP 	window1: recordFrameIntervals = False
+6.1665 	EXP 	window1: recordFrameIntervals = True
+6.1847 	WARNING 	t of last frame was 10.05ms (=1/99)
+6.2499 	EXP 	window1: recordFrameIntervals = False
+6.3605 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+6.3656 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.,  1.]), texRes=128, units=u'norm', win=Window(...))
+6.3928 	EXP 	Created text_4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_4', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='Get Ready!', units=u'norm', win=Window(...), wrapWidth=1)
+6.3995 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x057924B0>: vertices = array([[-0.15,  0.15],
+       [ 0.15,  0.15],
+       [ 0.15, -0.15],
+       [-0.15, -0.15]])
+6.4018 	EXP 	Created Gray_Square_2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=-1.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square_2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+6.4022 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x057924B0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+6.4045 	EXP 	Created Gray_Square3 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square3', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+6.4129 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='+', units=u'norm', win=Window(...), wrapWidth=1)
+6.4133 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x057924B0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+6.4156 	EXP 	Created Gray_Square = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+6.4340 	EXP 	Created T1_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T1_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1., -1., -1.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+6.4350 	EXP 	Created T1_Delay = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T1_Delay', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+6.4507 	EXP 	Created T2_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='T2_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1., -1., -1.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+6.4511 	EXP 	<method-wrapper '__getattribute__' of attributeSetter object at 0x057924B0>: vertices = array([[-0.3,  0.3],
+       [ 0.3,  0.3],
+       [ 0.3, -0.3],
+       [-0.3, -0.3]])
+6.4533 	EXP 	Created Gray_Square2 = Rect(autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([ 0.506,  0.506,  0.506]), fillColorSpace='rgb', fillRGB=array([ 0.506,  0.506,  0.506]), interpolate=True, lineColor=array([ 1.,  1.,  1.]), lineColorSpace='rgb', lineRGB=array([ 1.,  1.,  1.]), lineWidth=1, name='Gray_Square2', opacity=1.0, ori=array(0.0), pos=array([ 0.,  0.]), size=array([ 1.,  1.]), units=u'norm', vertices=ndarray(...), win=Window(...))
+6.5123 	EXP 	Created X_or_Y = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='X_or_Y', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([-1., -1., -1.]), text='X "[" key\n   or\nY "]" key)?\n', units=u'norm', win=Window(...), wrapWidth=1)
+6.6371 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+6.6478 	EXP 	Imported Blocks.xlsx as conditions, 2 conditions, 4 params
+6.6483 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+6.6489 	EXP 	New trial (rep=0, index=0): OrderedDict([('Task_Instructions', u'In the upcoming task, you will be presented with a series of numbers and letters and will be asked to respond only to the numbers. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row. Press "Z" to then view an example of how the trials in this stage of the experiment will proceed.'), ('Block_type', u'Ignore_T1'), ('Trial_example', u'example1.jpg'), ('TrialNumber', 80)])
+6.9361 	EXP 	text: text = u'In the upcoming task, you will be presented with a series of numbers and letters and will be asked to respond only to the numbers. Please place your left index finger on the letter "Z" and your right index finger on the "/" symbol on the same keyboard row. Press "Z" to then view an example of how the trials in this stage of the experiment will proceed.'
+6.9361 	EXP 	text: autoDraw = True
+11.8956 	DATA 	Keypress: z
+11.9689 	EXP 	text: autoDraw = False
+11.9689 	EXP 	image: image = u'example1.jpg'
+11.9689 	EXP 	image: autoDraw = True
+133.4888 	DATA 	Keypress: right
+134.7866 	DATA 	Keypress: slash
+134.7943 	EXP 	image: autoDraw = False
+134.7943 	EXP 	text_4: autoDraw = True
+134.7943 	EXP 	Gray_Square_2: autoDraw = True
+137.7865 	EXP 	Created sequence: sequential, trialTypes=1, nReps=80, seed=None
+137.7875 	EXP 	New trial (rep=0, index=0): None
+137.7955 	EXP 	text_4: autoDraw = False
+137.7955 	EXP 	Gray_Square_2: autoDraw = False
+137.7955 	EXP 	text_4: autoDraw = False
+137.7955 	EXP 	Gray_Square_2: autoDraw = False
+137.7955 	EXP 	Gray_Square3: autoDraw = True
+137.7955 	EXP 	text_3: autoDraw = True
+139.1473 	EXP 	Gray_Square3: autoDraw = False
+139.1473 	EXP 	text_3: autoDraw = False
+139.1473 	EXP 	Gray_Square3: autoDraw = False
+139.1473 	EXP 	text_3: autoDraw = False
+139.1473 	EXP 	T1_text: text = 'Y'
+139.1473 	EXP 	T2_text: text = '2'
+139.1473 	EXP 	Gray_Square: autoDraw = True
+139.1473 	EXP 	T1_text: autoDraw = True
+139.2303 	EXP 	T1_text: autoDraw = False
+139.2422 	EXP 	T1_Delay: autoDraw = True
+140.0363 	EXP 	T1_Delay: autoDraw = False
+140.0363 	EXP 	T2_text: autoDraw = True
+142.5992 	DATA 	Keypress: slash
+142.6040 	EXP 	New trial (rep=1, index=0): None
+142.6093 	EXP 	Gray_Square: autoDraw = False
+142.6093 	EXP 	T1_text: autoDraw = False
+142.6093 	EXP 	T1_Delay: autoDraw = False
+142.6093 	EXP 	T2_text: autoDraw = False
+142.6093 	EXP 	Gray_Square2: autoDraw = False
+142.6093 	EXP 	X_or_Y: autoDraw = False
+142.6093 	EXP 	Gray_Square3: autoDraw = True
+142.6093 	EXP 	text_3: autoDraw = True
+144.1507 	EXP 	Gray_Square3: autoDraw = False
+144.1507 	EXP 	text_3: autoDraw = False
+144.1507 	EXP 	Gray_Square3: autoDraw = False
+144.1507 	EXP 	text_3: autoDraw = False
+144.1507 	EXP 	T1_text: text = 'X'
+144.1507 	EXP 	T2_text: text = '2'
+144.1507 	EXP 	Gray_Square: autoDraw = True
+144.1507 	EXP 	T1_text: autoDraw = True
+144.2517 	EXP 	T1_text: autoDraw = False
+144.2517 	EXP 	T1_Delay: autoDraw = True
+145.0431 	EXP 	T1_Delay: autoDraw = False
+145.0431 	EXP 	T2_text: autoDraw = True
+145.4399 	DATA 	Keypress: slash
+145.4444 	EXP 	New trial (rep=2, index=0): None
+145.4498 	EXP 	Gray_Square: autoDraw = False
+145.4498 	EXP 	T1_text: autoDraw = False
+145.4498 	EXP 	T1_Delay: autoDraw = False
+145.4498 	EXP 	T2_text: autoDraw = False
+145.4498 	EXP 	Gray_Square2: autoDraw = False
+145.4498 	EXP 	X_or_Y: autoDraw = False
+145.4498 	EXP 	Gray_Square3: autoDraw = True
+145.4498 	EXP 	text_3: autoDraw = True
+147.2388 	EXP 	Gray_Square3: autoDraw = False
+147.2388 	EXP 	text_3: autoDraw = False
+147.2388 	EXP 	Gray_Square3: autoDraw = False
+147.2388 	EXP 	text_3: autoDraw = False
+147.2388 	EXP 	T1_text: text = 'X'
+147.2388 	EXP 	T2_text: text = '1'
+147.2388 	EXP 	Gray_Square: autoDraw = True
+147.2388 	EXP 	T1_text: autoDraw = True
+147.3275 	EXP 	T1_text: autoDraw = False
+147.3345 	EXP 	T1_Delay: autoDraw = True
+148.1328 	EXP 	T1_Delay: autoDraw = False
+148.1328 	EXP 	T2_text: autoDraw = True
+148.6534 	DATA 	Keypress: lshift
+148.6582 	EXP 	New trial (rep=3, index=0): None
+148.6638 	EXP 	Gray_Square: autoDraw = False
+148.6638 	EXP 	T1_text: autoDraw = False
+148.6638 	EXP 	T1_Delay: autoDraw = False
+148.6638 	EXP 	T2_text: autoDraw = False
+148.6638 	EXP 	Gray_Square2: autoDraw = False
+148.6638 	EXP 	X_or_Y: autoDraw = False
+148.6638 	EXP 	Gray_Square3: autoDraw = True
+148.6638 	EXP 	text_3: autoDraw = True
+150.0496 	EXP 	Gray_Square3: autoDraw = False
+150.0496 	EXP 	text_3: autoDraw = False
+150.0496 	EXP 	Gray_Square3: autoDraw = False
+150.0496 	EXP 	text_3: autoDraw = False
+150.0496 	EXP 	T1_text: text = 'Y'
+150.0496 	EXP 	T2_text: text = '1'
+150.0496 	EXP 	Gray_Square: autoDraw = True
+150.0496 	EXP 	T1_text: autoDraw = True
+150.1402 	EXP 	T1_text: autoDraw = False
+150.1471 	EXP 	T1_Delay: autoDraw = True
+150.9458 	EXP 	T1_Delay: autoDraw = False
+150.9458 	EXP 	T2_text: autoDraw = True
+152.2453 	DATA 	Keypress: z
+152.2501 	EXP 	New trial (rep=4, index=0): None
+152.2568 	EXP 	Gray_Square: autoDraw = False
+152.2568 	EXP 	T1_text: autoDraw = False
+152.2568 	EXP 	T1_Delay: autoDraw = False
+152.2568 	EXP 	T2_text: autoDraw = False
+152.2568 	EXP 	Gray_Square2: autoDraw = False
+152.2568 	EXP 	X_or_Y: autoDraw = False
+152.2568 	EXP 	Gray_Square3: autoDraw = True
+152.2568 	EXP 	text_3: autoDraw = True
+153.9623 	EXP 	Gray_Square3: autoDraw = False
+153.9623 	EXP 	text_3: autoDraw = False
+153.9623 	EXP 	Gray_Square3: autoDraw = False
+153.9623 	EXP 	text_3: autoDraw = False
+153.9623 	EXP 	T1_text: text = '#'
+153.9623 	EXP 	T2_text: text = '1'
+153.9623 	EXP 	Gray_Square: autoDraw = True
+153.9623 	EXP 	T1_text: autoDraw = True
+154.0499 	EXP 	T1_text: autoDraw = False
+154.0571 	EXP 	T1_Delay: autoDraw = True
+154.8553 	EXP 	T1_Delay: autoDraw = False
+154.8553 	EXP 	T2_text: autoDraw = True
+155.4262 	DATA 	Keypress: z
+155.4306 	EXP 	New trial (rep=5, index=0): None
+155.4363 	EXP 	Gray_Square: autoDraw = False
+155.4363 	EXP 	T1_text: autoDraw = False
+155.4363 	EXP 	T1_Delay: autoDraw = False
+155.4363 	EXP 	T2_text: autoDraw = False
+155.4363 	EXP 	Gray_Square2: autoDraw = False
+155.4363 	EXP 	X_or_Y: autoDraw = False
+155.4363 	EXP 	Gray_Square3: autoDraw = True
+155.4363 	EXP 	text_3: autoDraw = True
+156.8816 	EXP 	Gray_Square3: autoDraw = False
+156.8816 	EXP 	text_3: autoDraw = False
+156.8816 	EXP 	Gray_Square3: autoDraw = False
+156.8816 	EXP 	text_3: autoDraw = False
+156.8816 	EXP 	T1_text: text = '#'
+156.8816 	EXP 	T2_text: text = '2'
+156.8816 	EXP 	Gray_Square: autoDraw = True
+156.8816 	EXP 	T1_text: autoDraw = True
+156.9736 	EXP 	T1_text: autoDraw = False
+156.9810 	EXP 	T1_Delay: autoDraw = True
+157.7797 	EXP 	T1_Delay: autoDraw = False
+157.7797 	EXP 	T2_text: autoDraw = True
+158.2813 	DATA 	Keypress: slash
+158.2857 	EXP 	New trial (rep=6, index=0): None
+158.2912 	EXP 	Gray_Square: autoDraw = False
+158.2912 	EXP 	T1_text: autoDraw = False
+158.2912 	EXP 	T1_Delay: autoDraw = False
+158.2912 	EXP 	T2_text: autoDraw = False
+158.2912 	EXP 	Gray_Square2: autoDraw = False
+158.2912 	EXP 	X_or_Y: autoDraw = False
+158.2912 	EXP 	Gray_Square3: autoDraw = True
+158.2912 	EXP 	text_3: autoDraw = True
+159.4287 	EXP 	Gray_Square3: autoDraw = False
+159.4287 	EXP 	text_3: autoDraw = False
+159.4287 	EXP 	Gray_Square3: autoDraw = False
+159.4287 	EXP 	text_3: autoDraw = False
+159.4287 	EXP 	T1_text: text = 'Y'
+159.4287 	EXP 	T2_text: text = '1'
+159.4287 	EXP 	Gray_Square: autoDraw = True
+159.4287 	EXP 	T1_text: autoDraw = True
+159.5219 	EXP 	T1_text: autoDraw = False
+159.5219 	EXP 	T1_Delay: autoDraw = True
+160.3162 	EXP 	T1_Delay: autoDraw = False
+160.3162 	EXP 	T2_text: autoDraw = True
+161.2313 	DATA 	Keypress: z
+161.2359 	EXP 	New trial (rep=7, index=0): None
+161.2410 	EXP 	Gray_Square: autoDraw = False
+161.2410 	EXP 	T1_text: autoDraw = False
+161.2410 	EXP 	T1_Delay: autoDraw = False
+161.2410 	EXP 	T2_text: autoDraw = False
+161.2410 	EXP 	Gray_Square2: autoDraw = False
+161.2410 	EXP 	X_or_Y: autoDraw = False
+161.2410 	EXP 	Gray_Square3: autoDraw = True
+161.2410 	EXP 	text_3: autoDraw = True
+163.1747 	EXP 	Gray_Square3: autoDraw = False
+163.1747 	EXP 	text_3: autoDraw = False
+163.1747 	EXP 	Gray_Square3: autoDraw = False
+163.1747 	EXP 	text_3: autoDraw = False
+163.1747 	EXP 	T1_text: text = '#'
+163.1747 	EXP 	T2_text: text = '1'
+163.1747 	EXP 	Gray_Square: autoDraw = True
+163.1747 	EXP 	T1_text: autoDraw = True
+163.2652 	EXP 	T1_text: autoDraw = False
+163.2723 	EXP 	T1_Delay: autoDraw = True
+163.9601 	DATA 	Keypress: escape
+164.0337 	EXP 	window1: mouseVisible = True
